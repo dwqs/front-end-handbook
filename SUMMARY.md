@@ -9,3 +9,4 @@
 	* [前端开发做什么](practice/fd-dev-for.md)
 	* [团队中的前端](practice/front-end-team-role.md)
 	* [全才神话](practice/full-stack.md)
+	* [前端的面试问题](practice/front-end-interview.md)
