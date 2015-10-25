@@ -1,5 +1,4 @@
 ###前端开发者手册
-（说明: 该手册参考 [Front-end Developer Handbook](http://www.frontendhandbook.com/index.html) 电子书所译, 不当之处, 敬请指出.）
 
 这是任何人都可以用来学习前端的实践手册, 它概述并讨论了前端工程的实践: 该如何学习以及实践时该使用什么工具.
 
@@ -27,6 +26,14 @@
 资源下载: [支持pdf/epub/mobi](https://www.gitbook.com/book/dwqs/frontendhandbook/details)
 
 Issue/Suggestions/Fixes: [Front-end Developer Handlebook](https://github.com/dwqs/fedHandlebook)
+
+**说明**: 该手册参考 [Front-end Developer Handbook](http://www.frontendhandbook.com/index.html) 电子书所译, 不当之处, 欢迎 [pr](https://github.com/dwqs/fedHandlebook) 或提出 [issue](https://github.com/dwqs/fedHandlebook), 如果对您有帮助, 欢迎 [star](https://github.com/dwqs/fedHandlebook). **如果你想找份前端工作, 欢迎扔简历:** <a href='mailto:yuankang@meituan.com' style='color:red;font-weight:bold;text-decoration:none'>yuankang@meituan.com</a> **,招聘长期有效.**
+
+联系译者:
+
+* 博客: [http://www.ido321.com/](http://www.ido321.com/)
+* 邮箱: <a href='mailto:461147874@qq.com'>461147874@qq.com</a>
+* 微博: [会飞的Pikachu](http://weibo.com/rebgin)
 
 
 
