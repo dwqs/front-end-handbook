@@ -79,4 +79,28 @@
 
 **Uniform Resource Locator's (统一资源定位符, 又称 URL)**
 
->一个 URL (也称Web地址)是一个资源引用, 指定了资源在计算机网络和检索机制中的位置.
+>一个 URL (也称Web地址)是一个资源引用, 指定了资源在计算机网络和检索机制中的位置. 与之类似的概念是 Uniform Resource Identifier(URI), 尽管许多人认为两个术语可以互换使用, 但 URL 是统一资源标识符( URI )[3] 的具体类型. 一个 URL 意味着一种访问资源量的方式, 但这并不适用于 URI.
+[4][5]URL 不仅常用于引用一个网页(http), 也可用于文件传输(ftp), 邮件(mailto), 数据库访问(JDBC) 和许多其它应用. - wikipedia.org
+
+更多相关规范:
+
+* [URL](http://www.w3.org/Addressing/URL/url-spec.txt)
+* [URL 在线标准](https://url.spec.whatwg.org/)
+
+**JavaScript Object Notation (JavaScript对象表示, 又称 JSON)**
+
+>JSON, 有时也称 JavaScript 对象表示, 是一种使用人类可读的文本传输由键值对组成的数据对象的开放格式. 对于异步浏览器/服务器通信(AJAJ), JSON 是主要的数据格式, 很大程度上代替了 XML(AJAX). 尽管最初是从 JavaScript 脚本语言衍生而来, 但是 JSON 是语言无关性的数据格式, 在许多编程语言中, 代码解析和生成 JSON 是很容易的. JSON 的格式最初是由 Douglas Crockford 指定的, 但目前却被描述成两种标准: RFC 7159 和 ECMA-404. ECMA 标准只允许被合法的语法语句描述, 而 RFC 则提供了一些语义化描述和安全考虑. JSON 的官方网络媒体类型 application / JSON, 扩展名是 .json. - wikipedia.org
+
+更多相关规范:
+
+* [JSON 介绍](http://json.org/)
+* [JSON 数据交换格式](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
+* [JSON API](http://jsonapi.org/)
+
+**Web Content Accessibility Guidelines (网页内容无障碍指南, 又称 WCAG) & Accessible Rich Internet Applications (可访问的富Internet应用程序, 又称 ARIA)**
+
+>无障碍是指产品的设计, 设备, 服务, 或者环境是为残疾人设计的. 无障碍设计的概念意味着与一个人的辅助技术(例如, 电脑屏幕阅读器)相兼容, 确保直接访问(即独立)和"间接访问". - wikipedia.org
+
+* [无障碍网路倡议 (WAI)](http://www.w3.org/WAI/)
+* [网页内容无障碍指南 (WCAG) 的目前状态](http://www.w3.org/standards/techs/wcag#w3c_all)
+* [可访问的富Internet应用程序 (WAI-ARIA) 的目前状态](http://www.w3.org/standards/techs/aria#w3c_all)
