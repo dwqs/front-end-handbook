@@ -8,4 +8,4 @@
 	* [前端开发技术栈](practice/front-end-skills.md)
 	* [前端开发做什么](practice/fd-dev-for.md)
 	* [团队中的前端](practice/front-end-team-role.md)
-	* [全栈开发](practice/full-stack.md)
+	* [全才神话](practice/full-stack.md)
