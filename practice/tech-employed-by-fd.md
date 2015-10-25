@@ -13,7 +13,7 @@
 * Hypertext Transfer Protocol (超文本传输协议, 又称 HTTP)
 * Uniform Resource Locator's (统一资源定位符, 又称 URL)
 * JavaScript Object Notation (JavaScript对象表示, 又称 JSON)
-* Web Content Accessibility Guidelines (网页内容无障碍指南, 又称 WCAG) & Accessible Rich Internet Applications (可访问富Internet应用程序, 又称 ARIA)
+* Web Content Accessibility Guidelines (网页内容无障碍指南, 又称 WCAG) & Accessible Rich Internet Applications (可访问的富Internet应用程序, 又称 ARIA)
 
 根据相关的文档和规范, 这些技术定义如下. 作为一个比较, 你可以在 [platform.html5.org](https://platform.html5.org/) 上看到所有与Web相关的规范.
 
