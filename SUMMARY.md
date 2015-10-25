@@ -6,3 +6,4 @@
 	* [前端的职业发展](practice/front-end-jobs-titles.md)
 	* [常用的网络技术](practice/tech-employed-by-fd.md)
 	* [前端开发技术栈](practice/front-end-skills.md)
+	* [前端开发做什么](practice/fd-dev-for.md)
