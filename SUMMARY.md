@@ -10,3 +10,4 @@
 	* [团队中的前端](practice/front-end-team-role.md)
 	* [全才神话](practice/full-stack.md)
 	* [前端的面试问题](practice/front-end-interview.md)
+	* [前端工作版块](practice/front-end-jobs.md)
