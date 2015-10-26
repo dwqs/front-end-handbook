@@ -1,6 +1,6 @@
 ###学习 internet/web
 
->互联网是一个全球性的系统相互连接的计算机网络,使用网络协议套件(TCP / IP)链接全球数十亿的设备. 互联网是一个从区域到全球, 由数以百万计的私人、公共、学术、商业、和政府网络组成, 并通过一系列广泛的电子、无线、光纤网络技术相互链接. 互联网有一个广泛的信息资源和服务, 如早期的超文本文档和应用万维网(WWW), 电子邮件, 电话和点对点文件共享网络. - wikipedia
+>互联网使用网络协议套件(TCP / IP)链接全球数十亿的设备, 是一个从区域到全球, 由数以百万计的私人、公共、学术、商业、和政府网络组成的全球性网络系统, 并通过一系列广泛的电子、无线、光纤网络技术相互链接. 互联网提供了广泛的信息资源和服务, 如早期的超文本文档和应用万维网(WWW), 电子邮件, 电话和点对点文件共享网络. - wikipedia
 
 * [WHAT IS THE INTERNET? or, "You Say Tomato, I Say TCP/IP"](http://www.20thingsilearned.com/en-US/what-is-the-internet/1) [read]
 * [How does the Internet work](http://www.w3.org/wiki/How_does_the_Internet_work) [read]
