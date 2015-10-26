@@ -15,3 +15,4 @@
 	* [如何培养前端开发者?](practice/making-fd.md)
 * [第二部分: 前端开发学习](learning.md)
 * [第三部分: 前端开发工具](tools.md)
+	* [常用前端开发工具](tools/general-tools.md)
