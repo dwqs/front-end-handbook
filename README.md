@@ -21,7 +21,7 @@
 
 ---
 
-在线阅读: [前端开发手册](https://dwqs.gitbooks.io/frontendhandbook/content/)
+在线阅读: [前端开发者手册](https://dwqs.gitbooks.io/frontendhandbook/content/)
 
 资源下载: [支持pdf/epub/mobi](https://www.gitbook.com/book/dwqs/frontendhandbook/details)
 
