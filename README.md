@@ -25,7 +25,7 @@
 
 资源下载: [支持pdf/epub/mobi](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
 
-Issues/Suggestions/Fixes: [Front-end Developer Handlebook](https://github.com/dwqs/fedHandlebook)
+Issues/Suggestions/Fixes: [Front-end Developer Handbook](https://github.com/dwqs/fedHandlebook)
 
 **说明**: 该手册参考 [Front-end Developer Handbook](http://www.frontendhandbook.com/index.html) 电子书所译, 不当之处, 欢迎 [pr](https://github.com/dwqs/fedHandlebook) 或提出 [issue](https://github.com/dwqs/fedHandlebook), 如果对您有帮助, 欢迎 [star](https://github.com/dwqs/fedHandlebook). **如果你想找份前端工作, 欢迎扔简历:** <a href='mailto:yuankang@meituan.com' style='color:red;font-weight:bold;text-decoration:none'>yuankang@meituan.com</a> **,招聘长期有效.**
 
