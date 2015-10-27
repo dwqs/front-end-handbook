@@ -26,3 +26,10 @@
 * [WebSocket 协议](https://tools.ietf.org/html/rfc6455) [read]
 * [用 WebSockets 连接 Web](https://code.tutsplus.com/courses/connect-the-web-with-websockets) [watch]
 
+
+译者补充:
+
+* [HTTP 权威指南](http://www.amazon.cn/gp/product/B008XFDQ14?keywords=http&qid=1445943752&ref_=sr_1_1&sr=8-1)
+* [图解 HTTP](http://www.amazon.cn/gp/product/B00JTQK1L4?keywords=http&qid=1445943752&ref_=sr_1_2&sr=8-2)
+* [图解 TCP/IP](http://www.amazon.cn/gp/product/B00DMS9990?keywords=http&qid=1445943752&ref_=sr_1_3&sr=8-3)
+
