@@ -1,4 +1,4 @@
-###学习 HTTP/网络(包括 CORS 和 WebSockets)
+###HTTP/网络(包括 CORS 和 WebSockets)
 
 >**HTTP**, The Hypertext Transfer Protocol, 即超文本传输协议, 是一个用于分布式, 协作和超媒体信息系统的应用协议, 是 WWW 数据通信的基础. - Wikipedia
 

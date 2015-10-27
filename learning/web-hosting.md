@@ -8,3 +8,6 @@
 
 * [Web Hosting Beginner Guide](http://www.webhostingsecretrevealed.net/web-hosting-beginner-guide/) [read]
 * [Web Hosting For Dummies](http://www.dummies.com/store/product/Web-Hosting-For-Dummies.productCd-1118540573.html) [read][$]
+* [Ultimate Guide to Web Hosting](http://www.whoishostingthis.com/resources/web-hosting/) [read]  
+
+(说明: 由于原书中最后一个链接是404, 译者根据标题补充了一个链接.)
