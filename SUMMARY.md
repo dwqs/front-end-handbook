@@ -19,5 +19,6 @@
 		* [学习 Web浏览器](learning/browsers.md)
 		* [学习 DNS](learning/dns.md)
 		* [学习 HTTP/网络](learning/networks.md)
+		* [Web 主机](learning/web-hosting.md)
 * [第三部分: 前端开发工具](tools.md)
 	* [常用前端开发工具](tools/general-tools.md)
