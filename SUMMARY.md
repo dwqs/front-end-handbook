@@ -24,5 +24,7 @@
 		* [用户界面和交互设计](learning/design.md)
 		* [HTML & CSS](learning/html-css.md)
 		* [SEO](learning/seo.md)
+		* [Javascript](learning/js.md)
+		* [Web 动画](learning/animation.md)
 * [第三部分: 前端开发工具](tools.md)
 	* [常用前端开发工具](tools/general-tools.md)
