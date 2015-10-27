@@ -58,3 +58,10 @@
 * Web/Browser Security (Web/浏览器安全)
 * HTML Semantics (HTML 语义化)
 * Browser Developer Tools (浏览器开发者工具)
+
+
+译者补充两张技能神图:
+
+![front-end-skills1](https://raw.githubusercontent.com/dwqs/fedHandlebook/master/images/front-end-skill1.jpg)
+
+![front-end-skills2](https://raw.githubusercontent.com/dwqs/fedHandlebook/master/images/front-end-skill2.png)
