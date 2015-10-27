@@ -38,3 +38,7 @@ Web视图开发最普遍的解决方案如下:
 
 * [NativeScript](https://www.nativescript.org/)
 * [React Native](https://facebook.github.io/react-native/)
+
+译者补充:
+
+* [达到什么样的标准才能是大公司要的前端](http://qianduanfan.com/index.php/topic/show/217)
