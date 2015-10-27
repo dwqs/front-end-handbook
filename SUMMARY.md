@@ -23,5 +23,6 @@
 		* [前端开发综合学习](learning/general-front-end.md)
 		* [用户界面和交互设计](learning/design.md)
 		* [HTML & CSS](learning/html-css.md)
+		* [SEO](learning/seo.md)
 * [第三部分: 前端开发工具](tools.md)
 	* [常用前端开发工具](tools/general-tools.md)
