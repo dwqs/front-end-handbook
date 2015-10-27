@@ -10,7 +10,7 @@
 
 * [一个开源的开发人员可以向潜在雇主提问的问题列表](https://github.com/ChiperSoft/InterviewThis)
 
-译者补充的前端面试:
+译者补充:
 
 * [前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
 * [前端开发面试问题及答案整理](https://github.com/hawx1993/Front-end-Interview-questions)
