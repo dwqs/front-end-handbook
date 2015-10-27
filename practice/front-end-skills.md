@@ -60,7 +60,7 @@
 * Browser Developer Tools (浏览器开发者工具)
 
 
-译者补充两张技能神图:
+译者补充:
 
 ![front-end-skills1](https://raw.githubusercontent.com/dwqs/fedHandlebook/master/images/front-end-skill1.jpg)
 
