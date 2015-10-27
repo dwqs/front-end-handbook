@@ -32,6 +32,7 @@
 * [MDN Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
 * [MSDN Web](https://msdn.microsoft.com/web-app-development-msdn)
 * [SegmentFault](http://segmentfault.com/)
+* [前端范](http://qianduanfan.com/)
 * [w3cplus](http://www.w3cplus.com/)
 * [w3ctech](http://www.w3ctech.com/)
 * [jobbole](http://web.jobbole.com/)
