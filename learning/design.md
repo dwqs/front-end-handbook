@@ -15,3 +15,9 @@
 * [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_sim_14_2) [read][$]
 
 
+译者补充:
+
+* [简约至上:交互式设计四策略](http://www.amazon.cn/%E7%AE%80%E7%BA%A6%E8%87%B3%E4%B8%8A-%E4%BA%A4%E4%BA%92%E5%BC%8F%E8%AE%BE%E8%AE%A1%E5%9B%9B%E7%AD%96%E7%95%A5-%E7%A7%91%E5%B0%94%E4%BC%AF%E6%81%A9/dp/B004I91HCY/ref=sr_1_1?ie=UTF8&qid=1445948451&sr=8-1) [read][RMB]
+* [交互设计沉思录](http://www.amazon.cn/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1%E6%B2%89%E6%80%9D%E5%BD%95-%E7%A7%91%E5%B0%94%E7%A7%91/dp/B009A7DAXI/ref=sr_1_3?ie=UTF8&qid=1445948451&sr=8-3) [read][RMB]
+
+
