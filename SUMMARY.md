@@ -67,3 +67,4 @@
 	* [静态网页生成器工具](tools/static.md)
 	* [APP(桌面, 移动, 平板等) 工具](tools/app.md)
 	* [脚手架工具](tools/scaffolding.md)
+	* [模板工具](tools/templates.md)
