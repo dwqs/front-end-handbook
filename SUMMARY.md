@@ -38,5 +38,6 @@
 		* [命令行](learning/cli.md)
 		* [Node.js](learning/node.md)
 		* [模块加载器](learning/module.md)
+		* [包管理器](learning/package.md)
 * [第三部分: 前端开发工具](tools.md)
 	* [常用前端开发工具](tools/general-tools.md)
