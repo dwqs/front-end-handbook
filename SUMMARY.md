@@ -86,3 +86,4 @@
 	* [安全工具](tools/security.md)
 	* [任务管理](tools/task.md)
 	* [部署工具](tools/deploy.md)
+	* [网站/APP 监控](tools/monitor.md)
