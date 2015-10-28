@@ -31,5 +31,6 @@
 		* [无障碍设计](learning/accessibility.md)
 		* [Web/浏览器 API](learning/api.md)
 		* [JSON](learning/json.md)
+		* [静态网站生成器](learning/static.md)
 * [第三部分: 前端开发工具](tools.md)
 	* [常用前端开发工具](tools/general-tools.md)
