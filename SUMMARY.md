@@ -48,5 +48,6 @@
 		* [安全](learning/security.md)
 		* [多平台开发](learning/multi-things-dev.md)
 	* [指导学习](learning/direct-learning.md)
+		* [前端指导学习](learning/courses.md)
 * [第三部分: 前端开发工具](tools.md)
 	* [常用前端开发工具](tools/general-tools.md)
