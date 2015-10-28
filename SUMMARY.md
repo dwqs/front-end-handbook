@@ -77,3 +77,4 @@
 	* [数据存储工具](tools/data.md)
 	* [模块/包加载工具](tools/loader.md)
 	* [模块/包仓库工具](tools/repo.md)
+	* [Web/云/静态主机托管工具](tools/hosting.md)
