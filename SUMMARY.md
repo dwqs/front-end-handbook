@@ -29,5 +29,6 @@
 		* [DOM, BOM & JQuery](learning/dom.md)
 		* [Web 字体](learning/fonts.md)
 		* [无障碍设计](learning/accessibility.md)
+		* [Web/浏览器 API](learning/api.md)
 * [第三部分: 前端开发工具](tools.md)
 	* [常用前端开发工具](tools/general-tools.md)
