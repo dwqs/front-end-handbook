@@ -1,3 +1,3 @@
-###指导学习
+###Directed learning
 
-这个部分专注于通过学校, 
+This section focuses on directed learning via schools, courses, programs and bootcamps.
