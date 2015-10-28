@@ -99,7 +99,7 @@
 
 **Web Content Accessibility Guidelines (网页内容无障碍指南, 又称 WCAG) & Accessible Rich Internet Applications (可访问的富Internet应用程序, 又称 ARIA)**
 
->无障碍是指产品的设计, 设备, 服务, 或者环境是为残疾人设计的. 无障碍设计的概念意味着与一个人的辅助技术(例如, 电脑屏幕阅读器)相兼容, 确保直接访问(即独立)和"间接访问". - wikipedia.org
+>无障碍设计是指产品, 设备, 服务, 或者环境是为残疾人设计的. 无障碍设计的概念意味着与一个人的辅助技术(例如, 电脑屏幕阅读器)相兼容, 确保直接访问(即独立)和"间接访问". - wikipedia.org
 
 * [无障碍网路倡议 (WAI)](http://www.w3.org/WAI/)
 * [网页内容无障碍指南 (WCAG) 的目前状态](http://www.w3.org/standards/techs/wcag#w3c_all)
