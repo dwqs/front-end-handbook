@@ -16,7 +16,7 @@
 * [www.evolutionoftheweb.com](http://www.evolutionoftheweb.com/) [read]
 * [Timeline of web browsers](https://en.wikipedia.org/wiki/Timeline_of_web_browsers) [read]
 
-**最常用的 headless 浏览器:**
+**最常用的无壳浏览器:**
 
 * [PhantomJS](http://phantomjs.org/) (引擎: [Webkit](https://en.wikipedia.org/wiki/WebKit) + [SquirrelFish](https://trac.webkit.org/wiki/SquirrelFish))
 * [slimerjs](http://slimerjs.org/) (引擎: [Gecko](https://en.wikipedia.org/wiki/Gecko_%28software%29) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_%28software%29))
