@@ -70,3 +70,4 @@
 	* [模板工具](tools/templates.md)
 	* [UI 部件 & 组件工具](tools/ui.md)
 	* [数据可视化工具](tools/charts.md)
+	* [图形工具](tools/graphics.md)
