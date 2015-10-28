@@ -59,3 +59,4 @@
 	* [图表工具](tools/diagram.md)
 	* [HTTP/网络工具](tools/http.md)
 	* [代码编辑工具](tools/code-editor.md)
+	* [浏览工具](tools/browser.md)
