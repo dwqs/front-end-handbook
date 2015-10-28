@@ -71,3 +71,4 @@
 	* [UI 部件 & 组件工具](tools/ui.md)
 	* [数据可视化工具](tools/charts.md)
 	* [图形工具](tools/graphics.md)
+	* [动画工具](tools/animation.md)
