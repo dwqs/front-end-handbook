@@ -85,3 +85,4 @@
 	* [离线工具](tools/offline.md)
 	* [安全工具](tools/security.md)
 	* [任务管理](tools/task.md)
+	* [部署工具](tools/deploy.md)
