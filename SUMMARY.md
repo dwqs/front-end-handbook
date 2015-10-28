@@ -80,3 +80,4 @@
 	* [Web/云/静态主机托管工具](tools/hosting.md)
 	* [项目管理 & 代码托管](tools/project.md)
 	* [合作 & 交流](tools/coll.md)
+	* [CMS 托管/API](tools/cms.md)
