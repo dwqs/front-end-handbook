@@ -13,7 +13,7 @@
 * Hypertext Transfer Protocol (超文本传输协议, 又称 HTTP)
 * Uniform Resource Locator's (统一资源定位符, 又称 URL)
 * JavaScript Object Notation (JavaScript对象表示, 又称 JSON)
-* Web Content Accessibility Guidelines (网页内容无障碍指南, 又称 WCAG) & Accessible Rich Internet Applications (无障碍富Internet应用程序, 又称 ARIA)
+* Web Content Accessibility Guidelines (网页内容无障碍设计指南, 又称 WCAG) & Accessible Rich Internet Applications (富Internet应用程序的无障碍设计, 又称 ARIA)
 
 根据相关的文档和规范, 这些技术定义如下. 作为一个比较, 你可以在 [platform.html5.org](https://platform.html5.org/) 上看到所有与Web相关的规范.
 
@@ -97,10 +97,10 @@
 * [JSON 数据交换格式](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
 * [JSON API](http://jsonapi.org/)
 
-**Web Content Accessibility Guidelines (网页内容无障碍指南, 又称 WCAG) & Accessible Rich Internet Applications (可访问的富Internet应用程序, 又称 ARIA)**
+**Web Content Accessibility Guidelines (网页内容无障碍设计指南, 又称 WCAG) & Accessible Rich Internet Applications (富Internet应用程序的无障碍设计, 又称 ARIA)**
 
 >无障碍设计是指产品, 设备, 服务, 或者环境是为残疾人设计的. 无障碍设计的概念意味着与一个人的辅助技术(例如, 电脑屏幕阅读器)相兼容, 确保直接访问(即独立)和"间接访问". - wikipedia.org
 
-* [无障碍网络倡议 (WAI)](http://www.w3.org/WAI/)
-* [网页内容无障碍指南 (WCAG) 的目前状态](http://www.w3.org/standards/techs/wcag#w3c_all)
-* [无障碍富Internet应用程序 (WAI-ARIA) 的目前状态](http://www.w3.org/standards/techs/aria#w3c_all)
+* [无障碍设计网络倡议 (WAI)](http://www.w3.org/WAI/)
+* [网页内容无障碍设计指南 (WCAG) 的目前状态](http://www.w3.org/standards/techs/wcag#w3c_all)
+* [富 Internet 应用程序的无障碍设计 (WAI-ARIA) 的目前状态](http://www.w3.org/standards/techs/aria#w3c_all)
