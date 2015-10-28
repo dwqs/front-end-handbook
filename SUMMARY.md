@@ -76,3 +76,4 @@
 	* [测试框架工具](tools/test.md)
 	* [数据存储工具](tools/data.md)
 	* [模块/包加载工具](tools/loader.md)
+	* [模块/包仓库工具](tools/repo.md)
