@@ -69,3 +69,4 @@
 	* [脚手架工具](tools/scaffolding.md)
 	* [模板工具](tools/templates.md)
 	* [UI 部件 & 组件工具](tools/ui.md)
+	* [数据可视化工具](tools/charts.md)
