@@ -42,5 +42,6 @@
 		* [版本控制](learning/version.md)
 		* [构建 & 任务自动化](learning/build.md)
 		* [网站性能优化](learning/optimizing.md)
+		* [JS 测试](learning/test.md)
 * [第三部分: 前端开发工具](tools.md)
 	* [常用前端开发工具](tools/general-tools.md)
