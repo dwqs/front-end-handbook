@@ -88,3 +88,4 @@
 	* [部署工具](tools/deploy.md)
 	* [网站/APP 监控](tools/monitor.md)
 	* [JS 错误监控](tools/error.md)
+	* [性能工具](tools/perf.md)
