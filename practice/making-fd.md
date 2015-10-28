@@ -1,2 +1,55 @@
 ###如何培养前端开发者?
-翻译中...
+
+![making-fd](https://raw.githubusercontent.com/dwqs/fedHandlebook/master/images/made-fd.png)
+
+How exactly does one become a front-end developer? Well, it's complicated. Still today you can't go to college and expect to graduate with a degree in front-end engineering. And, I rarely hear of or meet front-end developers who suffered through what is likely a deprecated computer science degree or graphic design degree to end up writing HTML, CSS, and JavaScript professionally. In fact, most of the people working on the front-end, even today, generally seem to be self taught and not traditionally trained as a programmer. Why is this the case?
+
+A front-end developer is not a focused visual designer or an interaction designer. Design school is not exactly the place to hone front-end skills. A front-end developer is not exactly a traditionally trained computer science graduate either. Focusing on either doesn't prepare a person for front-end development. And, in fact, following the traditional paths for either in the higher education systems of America (i.e. College) can derail a person from potentially finding a doorway into a practice where actual experience is king. Today, if you want to be a front-end developer, you teach yourself or you take what is likely a non accredited program, course, bootcamp, or class.
+
+A front-end engineer crafts the skeleton that the user interface rests upon. They must, at times, care as much about the interaction design as they do about the underlying code that creates the UI interactions. Therefore, many in practice today do not come to front-end engineering with programming skills, but, instead, from the other direction. That is, front-end development seems to be filled with more designer types turned developer than programmer types turned front-end developer. Of course, as JavaScript has grown up, so has the desire by more traditionally trained programmers to bring their knowledge to the front-end practice. If you are not aware, front-end developers have not always been considered by "real" programmers as, well, programmers. But times are a changing.
+
+With all of that said, I believe that the path to a career as a front-end developer is very much an unknown process. What I can say is that to become a front-end engineer one must know and use HTML, CSS, DOM, and JavaScript at a high level without ignoring interaction design or traditional programming know how. In fact, from my experience, the best front-end developers often have a mastery understanding of interaction design and programming, but from the context of the web platform (i.e. browsers, HTML, CSS, DOM, and JavaScript). And for whatever reason, this knowledge is often found not given. That is to say, front-end engineering still seems very much to be a practice made up of self taught people, as opposed to a field that corresponds directly to an educational focus from an organized and accredited higher learning situation.
+
+If you were to set out today to become a front-end developer I would loosely strive to follow the process outlined below. The process assumes you are your own best teacher.
+
+1. Learn, roughly, how the web works. Make sure you know the "what" and "where" of Domains, DNS, URL's, HTTP, networks, browsers, servers/hosting, databases, JSON, data API's, HTML, CSS, DOM, and JavaScript. The goal is to make sure you loosely know how it all works together and exactly what each part is doing. Focus on the high level outlines for front-end architectures. Start with simple web pages and briefly study [native web applications (aka SPA's)](https://blog.andyet.com/2015/01/22/native-web-apps).
+2. Learn HTML, CSS, Accessibility, and SEO.
+3. Learn the fundamentals of UI design patterns, interaction design, user experience design, and usability.
+4. Learn the fundamentals of programming
+5. Learn JavaScript
+6. Learn JSON and data API's
+7. Learn CLI/command line
+8. Learn the practice of software engineering (i.e. Application design/architecture, templates, Git, testing, monitoring, automating, code quality, development methodologies).
+9. Get opinionated and customize your tool box with whatever makes sense to your brain.
+10. Learn Node.js
+
+Where you actually stop in the process is what will separate a front-end HTML/CSS developer from an expert level front-end application/JavaScript developer.
+
+A short word of advice on learning. Learn the actual underlying technologies, before learning abstractions. Don't learn jQuery, learn the DOM. Don't learn SASS, learn CSS. Don't learn HAML, learn HTML. Don't learn coffeeScript, learn JavaScript. Don't learn Handlebars, learn JavaScript ES6 templates. Don't just use Bootstrap, learn UI patterns. When getting your start, you should fear most things that conceal complexity. Abstracts in the wrong hands can give the appearance of advanced skills, while all the time hiding the fact that a developer has an inferior understanding of the basics or underlying concepts.
+
+The rest of this book contains point a reader to the resources and tools to follow the suggested process. It is assumed that you are not only learning, but also doing as you learn and investigate tools. Some suggest only doing. While others suggest only learning about doing. I suggest you find a mix of both that matches how your brain works and do that. But, for sure, it is a mix! So, don't just read about it, do it. Learn, do. Learn, do. Repeat indefinitely because things change fast. This is why learning the fundamentals, and not abstractions, are so important.
+
+I should mention that lately a lot of non-accredited front-end code schools/bootcamps have emerged. These avenues of becoming a front-end developer are teacher directed in classroom (virtual and physical) courses, which follow a more traditional style of learning from an official instructor (i.e. syllabus, test, quizzes, projects, team projects, grades etc..). I have more to say about these institutions in the direct learning section of this handbook. In brief, this is the web, everything you need to learn is on the web for the taking (costing little to nothing). However, if you need someone to tell you how to take what is actually free, and hold you accountable for learning it, you might consider an organized course. Otherwise, I am not aware of any other profession that is practically free for the taking with an internet connection and a burning desire for knowledge.
+
+If you want to get started immediately I'd suggest the following general overviews of the practice of front-end development:
+
+<ul>
+<li><a href="https://github.com/bendc/frontend-guidelines">Frontend Guidelines</a> [read]</li>
+<li><a href="http://www.yellowshoe.com.au/standards">Being a web developer</a> [read]</li>
+<li><a href="http://isobar-idev.github.io/code-standards/">Isobar Front-end Code Standards</a> [read]</li>
+<li><a href="https://developers.google.com/web/fundamentals">Web Fundamentals</a> [read]</li>
+<li><a href="https://gist.github.com/stevekinney/03027e71aac341af14a2">Front-end Curriculum</a> [read]</li>
+<li><a href="http://freecodecamp.com/">freeCodeCamp</a> [interact]</li>
+<li><a href="https://www.youtube.com/watch?v=q4zEGkjTBFA">Planning a Front-end JS Application</a> [watch]</li>
+<li><a href="https://www.youtube.com/watch?v=Lsg84NtJbmI">So, You Want to be a Front-End Engineer</a> [watch]</li>
+<li><a href="http://www.pluralsight.com/courses/front-end-web-development-career-kickstart">Front End Web Development Career Kickstart</a> [watch][$]</li>
+<li><a href="http://www.pluralsight.com/courses/front-end-web-development-get-started">Front End Web Development: Get Started</a> [watch][$]</li>
+<li><a href="http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css">Front-End Web Development Quick Start With HTML5, CSS, and JavaScript</a> [watch][$]</li>
+<li><a href="https://frontendmasters.com/courses/web-development/">Introduction to Web Development</a> [watch][$]</li>
+<li><a href="https://www.udemy.com/foundations-of-front-end-development/">Foundations of Front-End Web Development</a> [watch][$]</li>
+<li><a href="https://frontendmasters.com/courses/lean-front-end-engineering/">Lean Front-End Engineering</a> [watch][$]</li>
+<li><a href="http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/">A Baseline for Front-End [JS] Developers: 2015</a> [read]</li>
+<li><a href="https://teamtreehouse.com/tracks/front-end-web-development">Learn Front End Web Development</a> [watch][$]</li>
+<li><a href="https://mijingo.com/products/bundles/front-end-dev-mastery/">Front-End Dev Mastery</a> [watch][$]</li>
+<li><a href="https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001">Front-End Web Developer Nanodegree</a> [watch][$]</li>
+</ul>
