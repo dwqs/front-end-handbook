@@ -50,5 +50,6 @@
 	* [指导学习](learning/direct-learning.md)
 		* [前端指导学习](learning/courses.md)
 	* [前端开发者从哪里学](learning/learn-from.md)
+	* [前端简报, 资讯 & 博客](learning/news-podcasts.md)
 * [第三部分: 前端开发工具](tools.md)
 	* [常用前端开发工具](tools/general-tools.md)
