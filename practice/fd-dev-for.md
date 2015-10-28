@@ -7,7 +7,7 @@
 * OSX
 * iOS
 * Android
-* Ubuntu (or some flavor of )
+* Ubuntu (or Linux)
 * Chromium
 
 操作系统运行在下面中的一个或者多个设备之上:
