@@ -53,3 +53,4 @@
 	* [前端简报, 资讯 & 博客](learning/news-podcasts.md)
 * [第三部分: 前端开发工具](tools.md)
 	* [常用前端开发工具](tools/general-tools.md)
+	* [DOC/API 浏览工具](tools/browserdocs.md)
