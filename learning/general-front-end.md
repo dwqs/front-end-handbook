@@ -21,7 +21,7 @@
 * [Front-End Dev Mastery](https://mijingo.com/products/bundles/front-end-dev-mastery/) [watch][$]
 * [Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) [watch][$
 
-**前端简报, 新闻和播客:**
+**前端简报, 资讯和博客:**
 
 * [shoptalkshow.com](http://shoptalkshow.com/)
 * [frontendfront.com](http://frontendfront.com/)
