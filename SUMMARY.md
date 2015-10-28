@@ -74,3 +74,4 @@
 	* [动画工具](tools/animation.md)
 	* [JSON 工具](tools/json.md)
 	* [测试框架工具](tools/test.md)
+	* [数据存储工具](tools/data.md)
