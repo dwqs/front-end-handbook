@@ -12,6 +12,7 @@
 <li><a href="https://mijingo.com/lessons/what-is-json/" target="_blank">What is JSON</a> [watch]</li>
 <li><a href="http://www.amazon.com/Introduction-JavaScript-Object-Notation-Point/dp/1491929480/ref=pd_sim_sbs_14_1" target="_blank">Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON</a> [read][$]</li>
 </ul>
+
 **参考/文档**
 
 * [json.org/](http://json.org/) [read]
@@ -21,6 +22,7 @@
 <li><a href="http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf" target="_blank">ECMA-404 The JSON Data Interchange Format</a></li>
 <li><a href="https://tools.ietf.org/html/rfc7159" target="_blank">RFC 7159 The JavaScript Object Notation (JSON) Data Interchange Format</a></li>
 </ul>
+
 **架构设计:**
 
 * [JSON API](http://jsonapi.org/)
