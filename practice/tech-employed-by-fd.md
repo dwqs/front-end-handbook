@@ -9,7 +9,7 @@
 * Cascading Style Sheets (层叠式样式表, 又称 CSS)
 * Document Object Model (文档对象模型, 又称 DOM)
 * JavaScript Programming Language (JavaScript编程语言, 又称: ECMAScript 6, ES6, JavaScript 2015)
-* Web API's (Web应用程序接口, 又称 HTML5 and friends 或 Browser API's)
+* Web API's (Web应用程序接口, 又称 HTML5 API 或浏览器 API)
 * Hypertext Transfer Protocol (超文本传输协议, 又称 HTTP)
 * Uniform Resource Locator's (统一资源定位符, 又称 URL)
 * JavaScript Object Notation (JavaScript对象表示, 又称 JSON)
@@ -60,7 +60,7 @@
 
 * [ECMAScript 2015 语言规范](http://www.ecma-international.org/ecma-262/6.0/)
 
-**Web API's (Web应用程序接口, 又称 HTML5 and friends)**
+**Web API's (Web应用程序接口, 又称 HTML5 API)**
 
 >当使用 JavaScript 为Web程序写代码时, 有很多不错的 API 是可以利用的. 下面列举了所有在Web APP 或网站开发中可能会用到的接口. - Mozilla
 
