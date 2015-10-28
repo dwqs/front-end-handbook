@@ -87,3 +87,4 @@
 	* [任务管理](tools/task.md)
 	* [部署工具](tools/deploy.md)
 	* [网站/APP 监控](tools/monitor.md)
+	* [JS 错误监控](tools/error.md)
