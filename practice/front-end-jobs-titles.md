@@ -66,4 +66,7 @@
 
 注意, 若你在职称中碰到 "全栈" 或 类似于 "Web开发者" 一样的职位, 这些可能是雇主用来描述这个角色负责 Web/应用程序 开发的各个方面, 即包括前端和后端(还可能包括设计). 
 
+译者补充:
+
+* [谈前端工程师的职业规划](http://www.alloyteam.com/2015/04/talk-about-the-front-end-engineering-career-planning/)
 
