@@ -50,7 +50,7 @@
 * Code Coverage Testing (代码覆盖测试)
 * Code Complexity Analysis (代码复杂度测试)
 * Integration Testing (集成测试)
-* Command Line / CLI (命令行/命令行接口)
+* Command Line / CLI (命令行/命令行界面)
 * Templating Strategies (模板策略)
 * Templating Engines (模板引擎)
 * Single Page Applications (单页应用)
