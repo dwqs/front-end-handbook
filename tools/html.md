@@ -70,7 +70,7 @@
 <li><a href="http://emmet.io/">Emmet</a></li>
 </ul>
 
-**本月在Github的 HTML 仓库趋势:**
+**本月 HTML 仓库在Github的趋势:**
 
 <p><a href="https://github.com/trending?l=html&amp;since=monthly">https://github.com/trending?l=html&amp;since=monthly</a></p>
 </article>
