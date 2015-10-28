@@ -1,3 +1,3 @@
-###指导学习
+###Directed learning
 
-这个部分专注于通过学校教育, 课程, 项目和训练营的指导学习. 
+This section focuses on directed learning via schools, courses, programs and bootcamps.
