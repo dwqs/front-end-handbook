@@ -54,3 +54,4 @@
 * [第三部分: 前端开发工具](tools.md)
 	* [常用前端开发工具](tools/general-tools.md)
 	* [DOC/API 浏览工具](tools/browserdocs.md)
+	* [SEO 工具](tools/seo.md)
