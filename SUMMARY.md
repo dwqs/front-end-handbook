@@ -35,5 +35,6 @@
 		* [前端应用架构设计](learning/front-end-apps.md)
 		* [接口/API 设计](learning/interface.md)
 		* [Web 开发者工具](learning/dev-tools.md)
+		* [命令行](learning/cli.md)
 * [第三部分: 前端开发工具](tools.md)
 	* [常用前端开发工具](tools/general-tools.md)
