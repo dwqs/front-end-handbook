@@ -44,5 +44,6 @@
 		* [网站性能优化](learning/optimizing.md)
 		* [JS 测试](learning/test.md)
 		* [无壳浏览器](learning/headless-browsers.md)
+		* [离线开发](learning/offline.md)
 * [第三部分: 前端开发工具](tools.md)
 	* [常用前端开发工具](tools/general-tools.md)
