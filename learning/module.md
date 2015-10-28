@@ -7,6 +7,7 @@
 <li><a href="https://github.com/substack/browserify-handbook" target="_blank">browserify-handbook</a> [read]</li>
 <li><a href="http://developer.telerik.com/featured/choose-es6-modules-today/" target="_blank">Choose ES6 modules Today!</a> [read]</li>
 </ul>
+
 **参考/文档**
 <ul>
 <li><a href="http://browserify.org/" target="_blank">browserify</a></li>
