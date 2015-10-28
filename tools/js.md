@@ -46,7 +46,10 @@
 <li><a href="http://mochajs.org/">Mocha</a></li>
 <li><a href="http://qunitjs.com/">QUnit</a></li>
 <li><a href="http://jasmine.github.io/">Jasmine</a>
-<li><a href="http://facebook.github.io/jest/">Jest</a></li>
+  <ul>
+    <li><a href="http://facebook.github.io/jest/">Jest</a></li>
+  </ul>
+</li>
 </ul>
 
 **单元测试的断言库:**
