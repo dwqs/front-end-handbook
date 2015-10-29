@@ -4,15 +4,18 @@
 
 >Node.js 提供一个事件驱动的体系架构和非阻塞的 I/O 设计来优化应用程序的吞吐量和实时web应用程序的可伸缩性, 它使用谷歌的 V8 JavaScript 引擎来执行代码, 并有大量的由 JavaScript 编写的基础模块. Node.js 包含内置的模块, 允许应用程序作为一个web服务器而不依赖类似  Apache HTTP Server, Nginx 或 IIS 的软件. - wikipedia
 
-**综合学习:**
-<ul>
-<li><a href="https://www.eventedmind.com/classes/introduction-to-node-js-4c0326de" target="_blank">Introduction to Node.js from Evented Mind</a> [watch][$]</li>
-<li><a href="https://github.com/maxogden/art-of-node#the-art-of-node" target="_blank">The Art of Node</a> [read]</li>
-<li><a href="http://teamtreehouse.com/library/nodejs-basics" target="_blank">Node.js Basics</a> [watch][$]</li>
-<li><a href="http://www.pluralsight.com/courses/running-node-applications-io-js" target="_blank">io.js and Node.js Next: Getting Started</a> [watch][$]</li>
-<li><a href="https://learnallthenodes.com/episodes/1-what-is-nodejs" target="_blank">Learn all the nodes</a> [watch]</li>
-<li><a href="https://leanpub.com/nodebeginner" target="_blank">The Node Beginner Book</a> [read][$]</li>
-<li><a href="http://www.pluralsight.com/courses/node-intro" target="_blank">Introduction to Node.js</a> [watch][$]</li>
-<li><a href="https://www.manning.com/books/node-js-in-practice#downloads" target="_blank">Node.js in Practice</a> [read][$]</li>
-<li><a href="http://nodeschool.io/" target="_blank">Nodeschool.io</a> [code]</li>
-</ul>
+**入门学习:**
+
+* [从事件角度介绍 Node.js](https://www.eventedmind.com/classes/introduction-to-node-js-4c0326de) [watch][$]
+* [Node 的艺术](https://github.com/maxogden/art-of-node#the-art-of-node) [read]
+* [Node.js 基础](http://teamtreehouse.com/library/nodejs-basics) [watch][$]
+* [开始学习 io.js 和 Node.js](http://www.pluralsight.com/courses/running-node-applications-io-js) [watch][$]
+* [全面学习 Nodes](https://learnallthenodes.com/episodes/1-what-is-nodejs) [watch]
+* [Node 初学者书籍](https://leanpub.com/nodebeginner) [read][$]
+* [Node.js 介绍](http://www.pluralsight.com/courses/node-intro) [watch][$]
+* [Node.js 实战](https://www.manning.com/books/node-js-in-practice#downloads) [read][$]
+* [Nodeschool.io](http://nodeschool.io/) [code]
+
+译者补充:
+
+* [Node.js 风格指南](https://github.com/dwqs/node-style-guide) 
