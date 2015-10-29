@@ -17,3 +17,7 @@
 <li><a href="http://shop.oreilly.com/product/0636920032427.do" target="_blank">Web Performance: The Definitive Guide</a> [read]</li>
 <li><a href="http://perf.rocks/" target="_blank">perf.rocks</a></li>
 </ul>
+
+**译者补充:**
+
+* [谷歌的性能优化指南](https://developers.google.com/web/fundamentals/performance/?hl=zh-cn)
