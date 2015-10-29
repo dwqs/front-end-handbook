@@ -16,6 +16,6 @@
 * [Node.js 实战](https://www.manning.com/books/node-js-in-practice#downloads) [read][$]
 * [Nodeschool.io](http://nodeschool.io/) [code]
 
-译者补充:
+**译者补充:**
 
 * [Node.js 风格指南](https://github.com/dwqs/node-style-guide) 
