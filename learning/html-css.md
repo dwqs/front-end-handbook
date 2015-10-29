@@ -83,3 +83,7 @@
 <li><a href="http://html5weekly.com/" target="_blank">HTML 5 Weekly</a></li>
 <li><a href="http://css-weekly.com/archives/" target="_blank">CSS Weekly</a></li>
 </ul>
+
+**译者补充:**
+
+* [CSS 3 教程](https://waylau.gitbooks.io/css3-tutorial/content/docs/Introduction.html)
