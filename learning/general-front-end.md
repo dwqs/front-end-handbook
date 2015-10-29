@@ -39,3 +39,4 @@
 
 * [React Native专题](http://www.jianshu.com/p/96febc4fec45)
 * [React 介绍及实践教程](http://www.ibm.com/developerworks/cn/web/1509_dongyue_react/index.html)
+* [前端工程系列文章](https://github.com/fouber/blog/issues/10)
