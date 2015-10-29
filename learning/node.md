@@ -9,7 +9,7 @@
 * [从事件角度介绍 Node.js](https://www.eventedmind.com/classes/introduction-to-node-js-4c0326de) [watch][$]
 * [Node 的艺术](https://github.com/maxogden/art-of-node#the-art-of-node) [read]
 * [Node.js 基础](http://teamtreehouse.com/library/nodejs-basics) [watch][$]
-* [开始学习 io.js 和 Node.js](http://www.pluralsight.com/courses/running-node-applications-io-js) [watch][$]
+* [io.js 和 Node.js 入门](http://www.pluralsight.com/courses/running-node-applications-io-js) [watch][$]
 * [全面学习 Nodes](https://learnallthenodes.com/episodes/1-what-is-nodejs) [watch]
 * [Node 初学者书籍](https://leanpub.com/nodebeginner) [read][$]
 * [Node.js 介绍](http://www.pluralsight.com/courses/node-intro) [watch][$]
