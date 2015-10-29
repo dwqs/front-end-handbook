@@ -26,3 +26,7 @@
 **架构设计:**
 
 * [JSON API](http://jsonapi.org/)
+
+**译者补充:**
+
+* [JSON 系列文章](http://jaskokoyn.com/json-tutorial-series/)
