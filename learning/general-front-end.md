@@ -34,3 +34,8 @@
 * [Mobile Web Weekly](http://mobilewebweekly.co/)
 * [Open Web Platform Daily Digest](http://webplatformdaily.org/)
 * [FRONT-END DEV weekly](http://frontenddevweekly.com/)
+
+**译者补充:**
+
+* [React Native专题](http://www.jianshu.com/p/96febc4fec45)
+* [React 介绍及实践教程](http://www.ibm.com/developerworks/cn/web/1509_dongyue_react/index.html)
