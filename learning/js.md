@@ -76,3 +76,15 @@
 <li><a href="https://fivejs.codeschool.com/" target="_blank">FiveJS</a></li>
 <li><a href="https://jslive.com/" target="_blank">JavaScript Live</a></li>
 </ul>
+
+***译者补充:*
+
+* [JavaScript Promise 迷你书](http://liubin.github.io/promises-book/)
+* [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
+* [ES 6 入门](http://es6.ruanyifeng.com/)
+* [js the right way](http://jstherightway.org/)
+* [系列文章: 你不知道的 js](https://github.com/getify/You-Dont-Know-JS)
+* [JavaScript 新手教程](http://jaskokoyn.com/javascript-tutorial-series/)
+* [JavaScript 进阶教程](http://jaskokoyn.com/advanced-javascript-tutorial-series/)
+* [JavaScript：40+基本的 Web 开发工具](http://www.ido321.com/1543.html)
+* [国外优秀 JavaScript 资源推荐](http://www.ido321.com/302.html)
