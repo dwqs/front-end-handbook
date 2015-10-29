@@ -27,3 +27,7 @@ Gulp 是非常棒的构建工具, 然后, 你可能仅仅只需要 `npm run`. �
 <li><a href="https://drublic.de/blog/npm-builds" target="_blank">Using npm as a build system for your next project</a></li>
 <li><a href="http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/" target="_blank">How to Use npm as a Build Tool</a></li>
 </ul>
+
+**译者补充:**
+
+* [Gulp不完全入门教程](http://www.ido321.com/1622.html)
