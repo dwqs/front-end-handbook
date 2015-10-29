@@ -77,7 +77,7 @@
 <li><a href="https://jslive.com/" target="_blank">JavaScript Live</a></li>
 </ul>
 
-***译者补充:*
+**译者补充:**
 
 * [JavaScript Promise 迷你书](http://liubin.github.io/promises-book/)
 * [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
