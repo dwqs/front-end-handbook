@@ -15,7 +15,7 @@
 	* [如何培养前端开发者?](practice/making-fd.md)
 * [第二部分: 前端开发学习](learning.md)
 	* [自主学习](learning/self-direct-learning.md)
-		* [Internet/web](learning/internet.md)
+		* [Internet/Web](learning/internet.md)
 		* [Web浏览器](learning/browsers.md)
 		* [DNS](learning/dns.md)
 		* [HTTP/网络](learning/networks.md)
