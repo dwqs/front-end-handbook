@@ -5,7 +5,7 @@
 ![what-is-front-end-dev](https://raw.githubusercontent.com/dwqs/fedHandlebook/master/images/what-is-front-end-dev.png)
 
 
-一般而言, 一个人可以通过学习 HTML,CSS,JavaScript进入前端开发领域, 这些代码运行在 [Web浏览器](https://en.wikipedia.org/wiki/Web_browser), [headless浏览器](https://en.wikipedia.org/wiki/Headless_browser), Web视图之中, 或用于编译本地运行环境的输入. 后文将详细介绍这四个运行场景.
+一般而言, 一个人可以通过学习 HTML,CSS,JavaScript进入前端开发领域, 这些代码运行在 [Web浏览器](https://en.wikipedia.org/wiki/Web_browser), [无壳为浏览器](https://en.wikipedia.org/wiki/Headless_browser), Web视图之中, 或用于编译本地运行环境的输入. 后文将详细介绍这四个运行场景.
 
 Web浏览器是用于检索, 呈现和遍历万维网(WWW)信息的软件. 一般而言, 浏览器可以运行在台式机, 笔记本电脑, 平板电脑或手机. 截止到目前, 通过浏览器可以找到任何事物(如: 冰箱, 汽车等).
 
@@ -16,9 +16,9 @@ Web浏览器是用于检索, 呈现和遍历万维网(WWW)信息的软件. 一�
 * [Firefox](https://www.mozilla.org/firefox/)
 * [Safari](http://www.apple.com/safari/)
 
-Headless浏览器是指没有图形用户界面的Web浏览器, 可以通过命令行接口控制达到网页自动化的目的(如: 功能测试, 单元测试等). 把Headless浏览器当做可以从命令行运行的浏览器, 它依然可以检索和遍历网页.
+无壳浏览器是指没有图形用户界面的Web浏览器, 可以通过命令行接口控制达到网页自动化的目的(如: 功能测试, 单元测试等). 把无壳浏览器当做可以从命令行运行的浏览器, 它依然可以检索和遍历网页.
 
-最普遍的Headless浏览器如下:
+最普遍的无壳浏览器如下:
 
 * [PhantomJS](http://phantomjs.org/)
 * [slimerjs](http://slimerjs.org/)
@@ -40,8 +40,9 @@ Web视图开发最普遍的解决方案如下:
 * [React Native](https://facebook.github.io/react-native/)
 
 
-译者补充:
+**译者补充:**
 
 * [达到什么样的标准才能是大公司要的前端](http://qianduanfan.com/index.php/topic/show/217)
 * [写给初学前端工程师的一封信](http://www.w3ctech.com/topic/983)
 * [前端路上的旅行](http://www.w3cplus.com/front-end-trip-on-road.html)
+* [React Native专题](http://www.jianshu.com/p/96febc4fec45)
