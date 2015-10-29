@@ -14,3 +14,7 @@
 <li><a href="https://github.com/systemjs/systemjs" target="_blank">system.js</a></li>
 <li><a href="http://webpack.github.io/" target="_blank">webpack</a></li>
 </ul>
+
+**译者补充:**
+
+* [React Webpack cookbook](https://fakefish.github.io/react-webpack-cookbook/)
