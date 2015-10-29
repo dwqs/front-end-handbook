@@ -26,4 +26,8 @@
 <li><a href="https://github.com/Reactive-Extensions/RxJS">RxJS</a></li>
 <li><a href="http://knockoutjs.com/index.html">knockout</a></li>
 </ul>
-</article>
+
+**译者补充:**
+
+* [Handlebars 入门](http://www.ido321.com/1629.html)
+* [Handlebars 系列文章](http://jaskokoyn.com/handlebars-js-tutorial-series/)
