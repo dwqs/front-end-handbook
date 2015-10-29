@@ -7,7 +7,4 @@
 * [How does the Internet Work?](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) [read]
 * [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc) [watch]
 * [How The Web Works](https://www.eventedmind.com/classes/how-the-web-works-7f40254c) [watch][$]
-
-译者补充:
-
 * [How the Internet Works](https://www.khanacademy.org/partner-content/code-org/internet-works) [watch]
