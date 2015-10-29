@@ -27,7 +27,7 @@
 
 Issues/Suggestions/Fixes: [Front-end Developer Handbook](https://github.com/dwqs/fedHandlebook)
 
-**说明**: 该手册参考 [Front-end Developer Handbook](http://www.frontendhandbook.com/index.html) 电子书所译, 不当之处, 欢迎 [pr](https://github.com/dwqs/fedHandlebook) 或提出 [issue](https://github.com/dwqs/fedHandlebook). 如果对您有帮助, 欢迎 [star](https://github.com/dwqs/fedHandlebook), 我会跟进原书和补充学习资源; 如果你有很好的资源想补充, 可以 [pr](https://github.com/dwqs/fedHandlebook) 或提出 [issue](https://github.com/dwqs/fedHandlebook). **我们需要前端人才, 如果你有兴趣, 欢迎扔简历**: yuankang@meituan.com .
+**说明**: 该手册参考 [Front-end Developer Handbook](http://www.frontendhandbook.com/index.html) 电子书所译, 不当之处, 欢迎 [pr](https://github.com/dwqs/fedHandlebook) 或提出 [issue](https://github.com/dwqs/fedHandlebook). 如果对您有帮助, 欢迎 [star](https://github.com/dwqs/fedHandlebook), 我会跟进原书和补充学习资源; 如果你有很好的资源想补充, 可以 [pr](https://github.com/dwqs/fedHandlebook) 或提出 [issue](https://github.com/dwqs/fedHandlebook).
 
 联系译者:
 
