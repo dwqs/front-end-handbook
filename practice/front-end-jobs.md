@@ -27,3 +27,4 @@
 * [内聘网](http://www.neipin.com/)
 * [博客园](http://job.cnblogs.com/)
 * [V2EX](http://www.v2ex.com/)
+* [简历模板](https://github.com/geekcompany/ResumeSample/blob/master/web.md)
