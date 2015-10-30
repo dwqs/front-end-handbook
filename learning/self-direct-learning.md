@@ -35,6 +35,8 @@
 * [前端范](http://qianduanfan.com/)
 * [w3cplus](http://www.w3cplus.com/)
 * [w3ctech](http://www.w3ctech.com/)
+* [w3cfuns](http://www.w3cfuns.com/)
+* [w3help](http://www.w3help.org/zh-cn/kb/)
 * [jobbole](http://web.jobbole.com/)
 * [div.io](http://div.io/#/welcome)
 * [v2ex](https://www.v2ex.com/)
@@ -45,3 +47,4 @@
 * [慕课网](http://www.imooc.com/)
 * [极客学院](http://www.jikexueyuan.com/)
 * [网易云课堂](http://study.163.com/)
+* [The State of Web Type](http://stateofwebtype.com/)
