@@ -1,38 +1,55 @@
 ###前端简报, 资讯网站 & 博客
 
 **综合的前端简报, 资讯 & 博客**
-<ul>
-<li><a href="http://shoptalkshow.com/" target="_blank">shoptalkshow.com</a></li>
-<li><a href="http://frontendfront.com/" target="_blank">frontendfront.com</a></li>
-<li><a href="http://webtoolsweekly.com/" target="_blank">webtoolsweekly.com</a></li>
-<li><a href="http://radar.oreilly.com/web-platform" target="_blank">O'Reilly Web Platform Radar</a></li>
-<li><a href="http://thewebplatform.libsyn.com/" target="_blank">The Wdb Platform Podcast</a></li>
-<li><a href="http://thewebahead.net/" target="_blank">The Web Ahead</a></li>
-<li><a href="http://5by5.tv/bigwebshow" target="_blank">The Big Web Show</a></li>
-<li><a href="https://freshbrewed.co/frontend/" target="_blank">Fresh Brewed Frontend</a></li>
-<li><a href="http://mobilewebweekly.co/" target="_blank">Mobile Web Weekly</a></li>
-<li><a href="http://webplatformdaily.org/" target="_blank">Open Web Platform Daily Digest</a></li>
-<li><a href="http://frontenddevweekly.com/" target="_blank">FRONT-END DEV weekly</a></li>
-<li><a href="https://web-design-weekly.com/" target="_blank">Web Design Weekly</a></li>
-<li><a href="https://frontendfive.codeschool.com/" target="_blank">Front-end News in 5 Minutes</a></li>
-<li><a href="http://ttlpodcast.com/" target="_blank">TTL</a></li>
-<li><a href="https://viewsourc.es/" target="_blank">Viewsources</a></li>
-<li><a href="http://webcomponentsweekly.me/" target="_blank">Web Components Weekly</a></li>
-</ul>
+
+* [shoptalkshow.com](http://shoptalkshow.com/)
+* [frontendfront.com](http://frontendfront.com/)
+* [webtoolsweekly.com](http://webtoolsweekly.com/)
+* [O'Reilly Web Platform Radar](http://radar.oreilly.com/web-platform)
+* [The Wdb Platform Podcast](http://radar.oreilly.com/web-platform)
+* [The Wdb Platform Podcast](http://thewebplatform.libsyn.com/)
+* [The Web Ahead](http://thewebahead.net/)
+* [The Big Web Show](http://5by5.tv/bigwebshow)
+* [Fresh Brewed Frontend](https://freshbrewed.co/frontend/)
+* [Mobile Web Weekly](http://mobilewebweekly.co/)
+* [Open Web Platform Daily Digest](http://webplatformdaily.org/)
+* [FRONT-END DEV weekly](http://frontenddevweekly.com/)
+* [Web Design Weekly](https://web-design-weekly.com/)
+* [Front-end News in 5 Minutes](https://frontendfive.codeschool.com/)
+* [TTL](http://ttlpodcast.com/)
+* [Viewsources](https://viewsourc.es/)
+* [Web Components Weekly](http://webcomponentsweekly.me/)
 
 **HTML/CSS 简报:**
-<ul>
-<li><a href="http://html5weekly.com/" target="_blank">HTML 5 Weekly</a></li>
-<li><a href="http://css-weekly.com/archives/" target="_blank">CSS Weekly</a></li>
-</ul>
+
+* [HTML 5 Weekly](http://html5weekly.com/)
+* [CSS Weekly](http://css-weekly.com/archives/)
 
 **JavaScript 简报, 资讯 & 博客:**
-<ul>
-<li><a href="https://devchat.tv/js-jabber/" target="_blank">Javascript Jabber</a></li>
-<li><a href="http://javascriptweekly.com/" target="_blank">JavaScript Weekly</a></li>
-<li><a href="http://www.echojs.com/" target="_blank">Echo JS</a></li>
-<li><a href="http://javascriptkicks.com/" target="_blank">JavaScript Kicks</a></li>
-<li><a href="https://www.javascript.com/news" target="_blank">javascript.com</a></li>
-<li><a href="https://fivejs.codeschool.com/" target="_blank">FiveJS</a></li>
-<li><a href="https://jslive.com/" target="_blank">JavaScript Live</a></li>
-</ul>
+
+* [Javascript Jabber](https://devchat.tv/js-jabber/)
+* [JavaScript Weekly](http://javascriptweekly.com/)
+* [Echo JS](http://www.echojs.com/)
+* [JavaScript Kicks](http://javascriptkicks.com/)
+* [javascript.com](https://www.javascript.com/news)
+* [FiveJS](https://fivejs.codeschool.com/)
+* [JavaScript Live](https://jslive.com/)
+
+**图形和动画简报 & 博客:**
+
+* [Motion and Meaning](http://motionandmeaning.io/)
+* [SVG Immersion Podcast](http://svgimmersion.com/)
+* [Web Animation Weekly](http://rachelnabors.us1.list-manage.com/subscribe?u=0a8f219cf8284562f91a26ee9&id=d60f6683d2)
+* [Responsive Images Community Group Newsletter](https://responsiveimages.org/#newsletter)
+*
+
+**译者补充:**
+
+* [奇舞团](http://www.75team.com/weekly/)
+* [FEX](http://fex.baidu.com/weekly/)
+* [开发者头条](http://toutiao.io/)
+* [码农周刊](http://weekly.manong.io/issues/)
+* [OurJS](http://ourjs.com/)
+* [编程狂人](http://www.tuicool.com/mags)
+* [一周拾遗](http://www.tuicool.com/articles/weekly)
+* [设计匠艺](http://www.tuicool.com/mags/design)
