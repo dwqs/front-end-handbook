@@ -13,9 +13,9 @@
 * [HTML & CSS 编码学习](http://learn.shayhowe.com/html-css/) [read]
 * [CSS 布局](http://learnlayout.com/) [read]
 * [Web 前端开发入门](http://www.pluralsight.com/courses/front-end-web-development-get-started) [watch][$]
-* [HTML & CSS: 网站设计与构建](http://www.amazon.com/gp/product/1118008189/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1118008189&linkCode=as2&tag=fronenddevejo-20&linkId=V4CUOSZZARJURWZD) [read][$]
+* [HTML & CSS 设计与构建网站](http://www.amazon.cn/HTML-CSS%E8%AE%BE%E8%AE%A1%E4%B8%8E%E6%9E%84%E5%BB%BA%E7%BD%91%E7%AB%99-%E8%BE%BE%E7%A7%91%E7%89%B9/dp/B00BMK4GKW/ref=sr_1_1?ie=UTF8&qid=1446191225&sr=8-1) [read][RMB]
 * [快速使用 HTML5, CSS 3 & JavaScript 进行 Web 前端开发](http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css) [watch][$]
-* [HTML 进阶: 语义化, 标准 & 编程风格](http://www.amazon.com/gp/product/1590597656/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590597656&linkCode=as2&tag=fronenddevejo-20&linkId=VFZVICLZO6GUZQI2) [read][$]
+* [深入理解 HTML: 语义, 标准与样式](http://www.amazon.com/gp/product/1590597656/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590597656&linkCode=as2&tag=fronenddevejo-20&linkId=VFZVICLZO6GUZQI2) [read][$]
 * [CSS 定位](http://www.pluralsight.com/courses/css-positioning-1834) [watch][$]
 * [HTML 文档流](http://www.pluralsight.com/courses/html-document-flow-1837) [watch][$]
 * [HTML5 & CSS3 介绍](https://frontendmasters.com/courses/introduction-html5-css3/) [watch][$]
@@ -80,3 +80,7 @@
 
 * [CSS 3 教程](https://waylau.gitbooks.io/css3-tutorial/content/docs/Introduction.html)
 * [HTML & CSS 测试](https://sitthetest.com/tests)
+* [精通CSS:高级Web标准解决方案](http://www.amazon.cn/%E7%B2%BE%E9%80%9ACSS-%E9%AB%98%E7%BA%A7Web%E6%A0%87%E5%87%86%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E5%B7%B4%E5%BE%B7/dp/B003IURKAM/ref=sr_1_1?s=books&ie=UTF8&qid=1446191443&sr=1-1)
+* [高流量网站CSS开发技术](http://www.amazon.cn/%E9%AB%98%E6%B5%81%E9%87%8F%E7%BD%91%E7%AB%99CSS%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF-%E8%82%AF%E5%B0%BC%E8%BF%AA/dp/B00FIIM9JO/ref=sr_1_2?s=books&ie=UTF8&qid=1446191443&sr=1-2)
+* [深入理解HTML5:语义、标准与样式](http://www.amazon.cn/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3HTML5-%E8%AF%AD%E4%B9%89-%E6%A0%87%E5%87%86%E4%B8%8E%E6%A0%B7%E5%BC%8F-%E5%B8%83%E6%8B%89%E5%BE%B7%E7%A6%8F/dp/B00DNDR5HM/ref=sr_1_1?ie=UTF8&qid=1446191387&sr=8-1)
+* [HTML 5与CSS 3权威指南](http://www.amazon.cn/HTML-5%E4%B8%8ECSS-3%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E9%99%86%E5%87%8C%E7%89%9B/dp/B00B03VVRW/ref=sr_1_4?ie=UTF8&qid=1446191598&sr=8-4)
