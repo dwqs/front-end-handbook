@@ -31,13 +31,6 @@
 * [深入理解 CSS3](https://frontendmasters.com/courses/css3-in-depth/) [watch][$]
 * [atozcss.com/](http://www.atozcss.com/) [watch]
 * [Flexbox 完全指南](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) [read]
-<ul>
-<li><a href="http://css4-selectors.com/selectors/" target="_blank">CSS Selectors from CSS4 till CSS1</a> [read]</li>
-<li><a href="http://flukeout.github.io/" target="_blank">CSS Diner</a> [interact]</li>
-<li><a href="https://frontendmasters.com/courses/css3-in-depth/" target="_blank">CSS3 In-Depth</a> [watch][$]</li>
-<li><a href="http://www.atozcss.com/" target="_blank">atozcss.com/</a> [watch]</li>
-<li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">A Complete Guide to Flexbox</a> [read]</li>
-</ul>
 
 **参考/文档:**
 
