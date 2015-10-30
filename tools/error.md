@@ -1,7 +1,6 @@
 ###JavaScript 错误监控工具
-<ul>
-<li><a href="https://raygun.io">Raygun</a> [$]</li>
-<li><a href="https://errorception.com/">errorception</a> [$]</li>
-<li><a href="https://getsentry.com/welcome/">sentry</a> [$]</li>
-<li><a href="https://trackjs.com/">{track:js}</a> [$]</li>
-</ul>
+
+* [Raygun](https://raygun.io) [$]
+* [errorception](https://errorception.com/) [$]
+* [sentry](https://getsentry.com/welcome/) [free to $]
+* [{track:js}](https://trackjs.com/) [$]
