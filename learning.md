@@ -12,3 +12,4 @@
 * [大前端工具集](https://github.com/nieweidong/fetool)
 * [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/)
 * [前端收集](https://github.com/foru17/front-end-collect)
+* [Front-end Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
