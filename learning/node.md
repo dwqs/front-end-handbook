@@ -18,6 +18,6 @@
 
 **译者补充:**
 
-* [Node.js 风格指南](https://github.com/dwqs/node-style-guide) 
+* [Node.js 风格指南](https://github.com/wwsun/node-style-guide) 
 * [Node.js 中文资料导航](https://github.com/youyudehexie/node123)
 * [从零开始学 Node.js 系列文章](http://blog.fens.me/series-nodejs/)
