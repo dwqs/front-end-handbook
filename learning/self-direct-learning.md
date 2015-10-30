@@ -23,7 +23,7 @@
 * [Tagtree](http://tagtree.tv/library)
 * [Udacity](https://www.udacity.com/courses/web-development)
 
-译者补充一些国内相关资源链接和社区:
+**译者补充:**
 
 * [国外有哪些高质量js技术博客?](http://segmentfault.com/q/1010000002773179)
 * [你经常访问的技术社区或者技术博客（IT类）有哪些?](http://segmentfault.com/q/1010000000094981)
@@ -48,3 +48,4 @@
 * [极客学院](http://www.jikexueyuan.com/)
 * [网易云课堂](http://study.163.com/)
 * [The State of Web Type](http://stateofwebtype.com/)
+* [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
