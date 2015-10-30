@@ -6,26 +6,31 @@
 
 就像建造房子, 你可以认为 HTML 是骨架, 而 CSS 是油漆和装饰. 
 
-**综合学习:**
-<ul>
-<li><a href="https://www.codecademy.com/tracks/web" target="_blank">codecademy.com HTML &amp; CSS</a> [interact]</li>
-<li><a href="https://www.khanacademy.org/computing/computer-programming/html-css" target="_blank">Intro to HTML/CSS: Making webpages</a> [watch]</li>
-<li><a href="http://learn.shayhowe.com/html-css/" target="_blank">Learn to Code HTML &amp; CSS</a> [read]</li>
-<li><a href="http://learnlayout.com/" target="_blank">Learn CSS Layout</a> [read]</li>
-<li><a href="http://www.pluralsight.com/courses/front-end-web-development-get-started" target="_blank">Front End Web Development: Get Started</a> [watch][$]</li>
-<li><a href="http://www.amazon.com/gp/product/1118008189/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1118008189&amp;linkCode=as2&amp;tag=fronenddevejo-20&amp;linkId=V4CUOSZZARJURWZD" target="_blank">HTML and CSS: Design and Build Websites</a> [read][$]</li>
-<li><a href="http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css" target="_blank">Front-End Web Development Quick Start With HTML5, CSS, and JavaScript</a> [watch][$]</li>
-<li><a href="http://www.amazon.com/gp/product/1590597656/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1590597656&amp;linkCode=as2&amp;tag=fronenddevejo-20&amp;linkId=VFZVICLZO6GUZQI2" target="_blank">HTML Mastery: Semantics, Standards, and Styling</a> [read][$]</li>
-<li><a href="http://www.pluralsight.com/courses/css-positioning-1834" target="_blank">CSS Positioning</a> [watch][$]</li>
-<li><a href="http://www.pluralsight.com/courses/html-document-flow-1837" target="_blank">HTML Document Flow</a> [watch][$]</li>
-<li><a href="https://frontendmasters.com/courses/introduction-html5-css3/" target="_blank">Introduction to HTML5 and CSS3</a> [watch][$]</li>
-<li><a href="http://codepen.io/shshaw/full/gEiDt" target="_blank">Absolute Centering in CSS</a> [read]</li>
-<li><a href="https://webdesign.tutsplus.com/courses/understanding-the-css-box-model" target="_blank">Understanding the CSS Box Model</a> [watch]</li>
-<li><a href="https://webdesign.tutsplus.com/courses/solid-html-form-structure" target="_blank">Solid HTML Form Structure</a> [watch]</li>
-<li><a href="https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages" target="_blank">Semantic HTML: How to Structure Web Pages</a> [watch]</li>
-</ul>
+**入门学习:**
 
-**精通:**
+* [codecademy.com HTML & CSS](https://www.codecademy.com/tracks/web) [interact]
+* [HTML/CSS 介绍: 网页制作](https://www.khanacademy.org/computing/computer-programming/html-css) [watch]
+* [HTML & CSS 编码学习](http://learn.shayhowe.com/html-css/) [read]
+* [CSS 布局](http://learnlayout.com/) [read]
+* [Web 前端开发入门](http://www.pluralsight.com/courses/front-end-web-development-get-started) [watch][$]
+* [HTML & CSS: 网站设计与构建](http://www.amazon.com/gp/product/1118008189/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1118008189&linkCode=as2&tag=fronenddevejo-20&linkId=V4CUOSZZARJURWZD) [read][$]
+* [快速使用 HTML5, CSS 3 & JavaScript 进行 Web 前端开发](http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css) [watch][$]
+* [HTML 进阶: 语义化, 标准 & 编程风格](http://www.amazon.com/gp/product/1590597656/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590597656&linkCode=as2&tag=fronenddevejo-20&linkId=VFZVICLZO6GUZQI2) [read][$]
+* [CSS 定位](http://www.pluralsight.com/courses/css-positioning-1834) [watch][$]
+* [HTML 文档流](http://www.pluralsight.com/courses/html-document-flow-1837) [watch][$]
+* [HTML5 & CSS3 介绍](https://frontendmasters.com/courses/introduction-html5-css3/) [watch][$]
+* [CSS 中的绝对居中](http://codepen.io/shshaw/full/gEiDt) [read]
+* [CSS 盒模型](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) [watch]
+* [HTML 表单结构](https://webdesign.tutsplus.com/courses/solid-html-form-structure) [watch]
+* [HTML 语义化: 如何构建 Web 页面](https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages) [watch]
+
+**进阶学习:**
+
+* [从 CSS 1 到 CSS 4 的选择器参考](http://css4-selectors.com/selectors/) [read]
+* [CSS Diner](http://flukeout.github.io/) [interact]
+* [深入理解 CSS3](https://frontendmasters.com/courses/css3-in-depth/) [watch][$]
+* [atozcss.com/](http://www.atozcss.com/) [watch]
+* [Flexbox 完全指南](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) [read]
 <ul>
 <li><a href="http://css4-selectors.com/selectors/" target="_blank">CSS Selectors from CSS4 till CSS1</a> [read]</li>
 <li><a href="http://flukeout.github.io/" target="_blank">CSS Diner</a> [interact]</li>
@@ -35,55 +40,50 @@
 </ul>
 
 **参考/文档:**
-<ul>
-<li><a href="http://htmlelement.info/" target="_blank">htmlelement.info</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank">MDN CSS reference</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element" target="_blank">MDN HTML element reference</a></li>
-<li><a href="http://cssvalues.com/" target="_blank">cssvalues.com/</a></li>
-<li><a href="http://csstriggers.com/" target="_blank">CSS TRIGGERS...A GAME OF LAYOUT, PAINT, AND COMPOSITE</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes" target="_blank">HTML attribute reference</a></li>
-</ul>
+
+* [htmlelement.info](http://htmlelement.info/)
+* [MDN CSS reference](https://developer.mozilla.org/zh/docs/Web/CSS/Reference)
+* [MDN HTML element reference](https://developer.mozilla.org/zh/docs/Web/HTML/Element)
+* [cssvalues.com/](http://cssvalues.com/)
+* [CSS TRIGGERS...A GAME OF LAYOUT, PAINT, AND COMPOSITE](http://csstriggers.com/)
+* [HTML attributes reference](https://developer.mozilla.org/zh/docs/Web/HTML/Attributes)
 
 **术语表:**
-<ul>
-<li><a href="https://www.codecademy.com/articles/glossary-html" target="_blank">HTML Glossary Programming reference for HTML elements</a></li>
-<li><a href="https://www.codecademy.com/articles/glossary-css" target="_blank">CSS Glossary - Programming reference for CSS covering Comments, Properties, and Selectors</a></li>
-</ul>
 
-**标准和规范:**
-<ul>
-<li><a href="http://www.w3.org/TR/html5/" target="_blank">HTML5 from W3C</a> : 5th major revision of the core language of the World Wide Web</li>
-<li><a href="https://html.spec.whatwg.org/multipage/semantics.html#semantics" target="_blank">The elements of HTML from the Living Standard</a></li>
-<li><a href="https://html.spec.whatwg.org/multipage/syntax.html#syntax" target="_blank">The HTML Syntax</a> from the Living Standard</li>
-<li><a href="http://www.w3.org/standards/techs/html#w3c_all" target="_blank">All W3C HTML Spec</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes" target="_blank">Global attributes</a></li>
-<li><a href="https://drafts.csswg.org/css2/" target="_blank">Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification</a></li>
-<li><a href="http://www.w3.org/TR/css3-selectors/" target="_blank">Selectors Level 3</a></li>
-<li><a href="http://www.w3.org/Style/CSS/current-work#roadmap" target="_blank">All W3C CSS Specifications</a></li>
-</ul>
+* [HTML 元素编程术语参考](https://www.codecademy.com/articles/glossary-html)
+* [CSS 属性和选择器编程术语参考](https://www.codecademy.com/articles/glossary-css)
+
+**标准/规范:**
+
+* [W3C HTML5 标准](http://www.w3.org/TR/html5/): WWW 核心语言的第五个主要版本
+* [HTML 元素在线标准](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
+* [HTML 语法](https://html.spec.whatwg.org/multipage/syntax.html#syntax)
+* [W3C HTML 规范](http://www.w3.org/standards/techs/html#w3c_all)
+* [全局属性](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
+* [CSS 2.2 规范](https://drafts.csswg.org/css2/)
+* [CSS 3 选择器](http://www.w3.org/TR/css3-selectors/)
+* [W3C CSS 规范](http://www.w3.org/Style/CSS/current-work#roadmap)
 
 **CSS 架构设计:**
-<ul>
-<li><a href="http://oocss.org/" target="_blank">oocss</a> [read]</li>
-<li><a href="https://smacss.com/" target="_blank">SMACSS</a> [read][$]</li>
-<li><a href="https://frontendmasters.com/courses/smacss/" target="_blank">SMACSS</a> [watch][$]</li>
-<li><a href="http://atomicdesign.bradfrost.com/" target="_blank">Atomic Design</a> [read]</li>
-</ul>
+
+* [OOCSS](http://oocss.org/) [read]
+* [SMACSS](https://smacss.com/) [read][$]
+* [SMACSS](https://frontendmasters.com/courses/smacss/) [watch][$]
+* [Atomic Design](http://atomicdesign.bradfrost.com/) [read]
 
 **编写规范:**
-<ul>
-<li><a href="https://github.com/necolas/idiomatic-css" target="_blank">idiomatic-css</a> [read]</li>
-<li><a href="http://mdo.github.io/code-guide/" target="_blank">Standards for developing flexible, durable, and sustainable HTML and CSS</a> [read]</li>
-<li><a href="http://cssguidelin.es/" target="_blank">cssguidelin.es</a> [read]</li>
-<li><a href="http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#General_Formatting" target="_blank">Google HTML/CSS Style Guide</a></li>
-</ul>
+
+* [CSS 通用编写规范](https://github.com/necolas/idiomatic-css) [read]
+* [开发灵活的, 持久的和可持续的 HTML 和 CSS 的标准](http://mdo.github.io/code-guide/) [read]
+* [cssguidelin.es](http://cssguidelin.es/) [read]
+* [谷歌的 HTML/CSS 编程风格指南](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#General_Formatting)
 
 **HTML/CSS 简报:**
-<ul>
-<li><a href="http://html5weekly.com/" target="_blank">HTML 5 Weekly</a></li>
-<li><a href="http://css-weekly.com/archives/" target="_blank">CSS Weekly</a></li>
-</ul>
+
+* [HTML 5 Weekly](http://html5weekly.com/)
+* [CSS Weekly](http://css-weekly.com/archives/)
 
 **译者补充:**
 
 * [CSS 3 教程](https://waylau.gitbooks.io/css3-tutorial/content/docs/Introduction.html)
+* [HTML & CSS 测试](https://sitthetest.com/tests)
