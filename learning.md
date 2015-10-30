@@ -4,6 +4,7 @@
 
 注意, 仅需要学习被列举出的资源, 或者一个类别的学习记录, 因为我不建议一个前端开发人员学习所有东西, 这是非常荒谬的. 选择自己行业内的专业知识, 我会尽可能让你掌握它.
 
-译者补充一个关于前端学习的链接:
+**译者补充:**
 
 * [自学的“前端工程师”的尴尬](http://segmentfault.com/q/1010000002968547)
+* [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
