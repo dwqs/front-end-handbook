@@ -31,9 +31,9 @@ Issues/Suggestions/Fixes: [Front-end Developer Handbook](https://github.com/dwqs
 
 联系译者:
 
-* 博客: [http://www.ido321.com/](http://www.ido321.com/)
-* 邮箱: <a href='mailto:461147874@qq.com'>461147874@qq.com</a>
-* 微博: [会飞的Pikachu](http://weibo.com/rebgin)
+* 博客: <a href='http://www.ido321.com/' target='_blank'>ido321</a>
+* 邮箱: <a href='mailto:461147874@qq.com' target='_blank'>461147874@qq.com</a>
+* 微博: <a href='http://weibo.com/rebgin' target='_blank'>会飞的Pikachu</a>
 * QQ交流群: [![259280570](http://pub.idqqimg.com/wpa/images/group.png)](http://shang.qq.com/wpa/qunwpa?idkey=457dead858ccbda1b670f91229e334695619cb9f891b433301ac3dd780d1ecaa)
 
 
