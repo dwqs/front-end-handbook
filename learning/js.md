@@ -73,6 +73,7 @@
 **译者补充:**
 
 * [JavaScript Promise 迷你书](http://liubin.github.io/promises-book/)
+* [awesome-javascript](https://github.com/wwsun/awesome-javascript)
 * [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
 * [ES 6 入门](http://es6.ruanyifeng.com/)
 * [js the right way](http://jstherightway.org/)
