@@ -104,3 +104,7 @@
 * [无障碍设计网络倡议 (WAI)](http://www.w3.org/WAI/)
 * [网页内容无障碍设计指南 (WCAG) 的目前状态](http://www.w3.org/standards/techs/wcag#w3c_all)
 * [富 Internet 应用程序的无障碍设计 (WAI-ARIA) 的目前状态](http://www.w3.org/standards/techs/aria#w3c_all)
+
+**译者补充:**
+
+* [Web 端开发常用资源](https://github.com/lyfeyaj/awesome-resources#web-%E5%89%8D%E7%AB%AF)
