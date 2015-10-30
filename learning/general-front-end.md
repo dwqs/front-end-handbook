@@ -42,3 +42,4 @@
 * [前端工程系列文章](https://github.com/fouber/blog/issues/10)
 * [前端知识体系](http://qianduanfan.com/index.php/topic/show/231)
 * [前端资源大总结](http://qianduanfan.com/index.php/topic/show/234)
+* [前端入门](https://github.com/qiu-deqing/FE-learning)
