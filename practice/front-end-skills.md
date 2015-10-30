@@ -62,6 +62,8 @@
 
 译者补充:
 
+* [前端技能汇总](https://github.com/JacksonTian/fks)
+
 ![front-end-skills1](https://raw.githubusercontent.com/dwqs/fedHandlebook/master/images/front-end-skill1.jpg)
 
 ![front-end-skills2](https://raw.githubusercontent.com/dwqs/fedHandlebook/master/images/front-end-skill2.png)
