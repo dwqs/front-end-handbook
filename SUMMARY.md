@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [前端开发者手册](README.md)
 * [什么是前端开发者？](what-is-a-fd.md)
 * [第一部分: 前端开发实践](practice.md)
 	* [前端的工作职称](practice/front-end-jobs-titles.md)
@@ -24,7 +24,7 @@
 		* [用户界面和交互设计](learning/design.md)
 		* [HTML & CSS](learning/html-css.md)
 		* [SEO](learning/seo.md)
-		* [Javascript](learning/js.md)
+		* [JavaScript](learning/js.md)
 		* [Web 动画](learning/animation.md)
 		* [DOM, BOM & JQuery](learning/dom.md)
 		* [Web 字体](learning/fonts.md)
