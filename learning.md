@@ -9,4 +9,5 @@
 * [自学的“前端工程师”的尴尬](http://segmentfault.com/q/1010000002968547)
 * [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [无线 Web 开发浅谈](http://am-team.github.io/amg/dev-exp-doc.html#无线web开发简介)
-* [大前端工具集](https://github.com/nieweidong/fetool#blogs)
+* [大前端工具集](https://github.com/nieweidong/fetool)
+* [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/)
