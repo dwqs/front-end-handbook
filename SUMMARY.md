@@ -89,3 +89,4 @@
 	* [网站/APP 监控](tools/monitor.md)
 	* [JS 错误监控](tools/error.md)
 	* [性能](tools/perf.md)
+	* [SVG](tools/svg.md)
