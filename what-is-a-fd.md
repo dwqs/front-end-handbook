@@ -4,10 +4,11 @@
 
 ![what-is-front-end-dev](https://raw.githubusercontent.com/dwqs/fedHandlebook/master/images/what-is-front-end-dev.png)
 
+<cite>图片来源：https://www.upwork.com/hiring/development/front-end-developer/</cite>
 
 一般而言, 一个人可以通过学习 HTML,CSS,JavaScript进入前端开发领域, 这些代码运行在 [Web浏览器](https://en.wikipedia.org/wiki/Web_browser), [无壳为浏览器](https://en.wikipedia.org/wiki/Headless_browser), Web视图之中, 或用于编译本地运行环境的输入. 后文将详细介绍这四个运行场景.
 
-Web浏览器是用于检索, 呈现和遍历万维网(WWW)信息的软件. 一般而言, 浏览器可以运行在台式机, 笔记本电脑, 平板电脑或手机. 截止到目前, 通过浏览器可以找到任何事物(如: 冰箱, 汽车等).
+Web浏览器是用于检索, 呈现和遍历万维网(WWW)信息的软件. 一般而言, 浏览器可以运行在台式机, 笔记本电脑, 平板电脑或手机. 但是近来, 几乎在任何事物上都能够发现浏览器(如: 冰箱上, 汽车里等).
 
 最普遍的Web浏览器如下:
 
@@ -24,7 +25,7 @@ Web浏览器是用于检索, 呈现和遍历万维网(WWW)信息的软件. 一�
 * [slimerjs](http://slimerjs.org/)
 * [trifleJS](http://triflejs.org/)
 
-Web视图是本地 OS 运行网页的方式. 把Web视图当做浏览中的 iframe 或者单个的 Tab, 是嵌入到运行在设备上的本地应用程序.
+Web视图被本地OS用来运行网页. 把Web视图当做Web浏览器中的iframe或者单个的Tab, 其嵌入于运行在设备上的本地应用程序中.
 
 Web视图开发最普遍的解决方案如下:
 
@@ -32,7 +33,7 @@ Web视图开发最普遍的解决方案如下:
 * [NW.js](https://github.com/nwjs/nw.js) (即 Node-Webkit, 用于桌面应用)
 * [Electron](http://electron.atom.io/) (用于桌面应用) 
 
-最后需要了解的是, 前端开发者不仅可以使用Web浏览器环境进行开发, 也可以在不受浏览器引擎影响的工艺代码环境进行开发. 到现在, 开发环境正在脱离Web引擎, 使用Web技术(如: CSS 和 JavaScript)去创建真正的本地应用. 
+最后, 前端开发者从 Web 浏览器开发环境中学到的东西也可以用于不受浏览器引擎驱动的环境下. 目前, 脱离 Web 引擎，使用 Web 技术(如: CSS 和 JavaScript)去创建真正的本地应用的开发环境正在出现.
 
 此类环境的示例如下:
 
