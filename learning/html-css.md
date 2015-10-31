@@ -80,6 +80,7 @@
 
 * [CSS 3 教程](https://waylau.gitbooks.io/css3-tutorial/content/docs/Introduction.html)
 * [HTML & CSS 测试](https://sitthetest.com/tests)
+* [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 * [精通CSS: 高级Web标准解决方案](http://www.amazon.cn/%E7%B2%BE%E9%80%9ACSS-%E9%AB%98%E7%BA%A7Web%E6%A0%87%E5%87%86%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E5%B7%B4%E5%BE%B7/dp/B003IURKAM/ref=sr_1_1?s=books&ie=UTF8&qid=1446191443&sr=1-1)
 * [高流量网站CSS开发技术](http://www.amazon.cn/%E9%AB%98%E6%B5%81%E9%87%8F%E7%BD%91%E7%AB%99CSS%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF-%E8%82%AF%E5%B0%BC%E8%BF%AA/dp/B00FIIM9JO/ref=sr_1_2?s=books&ie=UTF8&qid=1446191443&sr=1-2)
 * [深入理解HTML5: 语义, 标准与样式](http://www.amazon.cn/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3HTML5-%E8%AF%AD%E4%B9%89-%E6%A0%87%E5%87%86%E4%B8%8E%E6%A0%B7%E5%BC%8F-%E5%B8%83%E6%8B%89%E5%BE%B7%E7%A6%8F/dp/B00DNDR5HM/ref=sr_1_1?ie=UTF8&qid=1446191387&sr=8-1)

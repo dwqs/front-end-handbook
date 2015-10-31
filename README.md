@@ -23,7 +23,7 @@
 
 在线阅读: [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
 
-资源下载: [pdf/epub/mobi](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
+资源下载: [pdf/epub/mobi](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details) (下载链接是gitbook自动生成的, 下载不了可能是网络环境问题. 我会跟进原书持续更新, 可以 watch 看在线版. 谢谢关注)
 
 Issues/Suggestions/Fixes: [Front-end Developer Handbook](https://github.com/dwqs/fedHandlebook)
 
@@ -31,9 +31,9 @@ Issues/Suggestions/Fixes: [Front-end Developer Handbook](https://github.com/dwqs
 
 联系译者:
 
-* 博客: [http://www.ido321.com/](http://www.ido321.com/)
-* 邮箱: <a href='mailto:461147874@qq.com'>461147874@qq.com</a>
-* 微博: [会飞的Pikachu](http://weibo.com/rebgin)
+* 博客: <a href='http://www.ido321.com/' target='_blank'>ido321</a>
+* 邮箱: <a href='mailto:461147874@qq.com' target='_blank'>461147874@qq.com</a>
+* 微博: <a href='http://weibo.com/rebgin' target='_blank'>会飞的Pikachu</a>
 * QQ交流群: [![259280570](http://pub.idqqimg.com/wpa/images/group.png)](http://shang.qq.com/wpa/qunwpa?idkey=457dead858ccbda1b670f91229e334695619cb9f891b433301ac3dd780d1ecaa)
 
 
