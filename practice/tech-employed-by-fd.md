@@ -108,3 +108,4 @@
 **译者补充:**
 
 * [Web 端开发常用资源](https://github.com/lyfeyaj/awesome-resources#web-%E5%89%8D%E7%AB%AF)
+* [Web 前端开发资源](http://hao.jobbole.com/?catid=67)
