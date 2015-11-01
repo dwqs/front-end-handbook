@@ -2,15 +2,14 @@
 
 >构建自动化是软件构建和相关流程的自动化过程, 包括: 将计算机源码编译成二进制代码, 打包二进制代码和运行自动化测试. - wikipedia
 
-**入门学习:**
-<ul>
-<li><a href="http://www.pluralsight.com/courses/javascript-build-automation-gulpjs" target="_blank">JavaScript Build Automation With Gulp.js</a> [watch][$]</li>
-<li><a href="https://www.packtpub.com/web-development/getting-started-gulp" target="_blank">Getting Started with Gulp</a> [read][$]</li>
-<li><a href="https://www.packtpub.com/web-development/rapid-gulp-video" target="_blank">Rapid Gulp</a> [watch][$]</li>
-<li><a href="http://hmphry.com/gulp" target="_blank">Learning Gulp - Getting started with the font end factory</a> [read]</li>
-<li><a href="http://teamtreehouse.com/library/gulp-basics" target="_blank">Gulp Basics</a> [watch][$]</li>
-<li><a href="http://teamtreehouse.com/library/using-npm-as-a-task-runner" target="_blank">Using npm as a Task Runner</a> [watch][$]</li>
-</ul>
+**综合学习:**
+
+* [用 Gulp.js 进行 JavaScript 自动构建: ](http://www.pluralsight.com/courses/javascript-build-automation-gulpjs) [watch][$]
+* [Gulp 入门](https://www.packtpub.com/web-development/getting-started-gulp) [read][$]
+* [Gulp 快速入门](https://www.packtpub.com/web-development/rapid-gulp-video) [watch][$]
+* [学习 Gulp - 前端工厂入门](http://hmphry.com/gulp) [read]
+* [Gulp 基础](http://teamtreehouse.com/library/gulp-basics) [watch][$]
+* [使用 npm 作为任务运行器](http://teamtreehouse.com/library/using-npm-as-a-task-runner) [watch][$]
 
 **参考/文档:**
 
@@ -20,13 +19,11 @@ Gulp 是非常棒的构建工具, 然后, 你可能仅仅只需要 `npm run`. �
 
 推荐阅读:
 
-<ul>
-<li><a href="http://www.sitepoint.com/guide-to-npm-as-a-build-tool/" target="_blank">Give Grunt the Boot! A Guide to Using npm as a Build Tool</a></li>
-<li><a href="http://substack.net/task_automation_with_npm_run" target="_blank">Task automation with npm run</a></li>
-<li><a href="http://engineering.hobsons.com/2015/06/26/build-tools-vs-npm-scripts-why-not-both/" target="_blank">Build Tools vs npm Scripts: Why Not Both?</a></li>
-<li><a href="https://drublic.de/blog/npm-builds" target="_blank">Using npm as a build system for your next project</a></li>
-<li><a href="http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/" target="_blank">How to Use npm as a Build Tool</a></li>
-</ul>
+* [NPM 使用指南](http://www.sitepoint.com/guide-to-npm-as-a-build-tool/)
+* [NPM 的任务自动化管理](http://substack.net/task_automation_with_npm_run)
+* [构建工具 VS NPM 脚本: 为何不使用两者](http://engineering.hobsons.com/2015/06/26/build-tools-vs-npm-scripts-why-not-both/)
+* [使用 NPM 作为下一个项目的构建系统](https://drublic.de/blog/npm-builds)
+* [怎么将 NPM 作为构建工具使用](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 
 **译者补充:**
 
