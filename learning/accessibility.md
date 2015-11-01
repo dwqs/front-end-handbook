@@ -9,14 +9,13 @@
 >无障碍设计和通用性设计是息息相关的. 通用型设计是指产品的创造过程中, 产品对人们是可用的, 并尽可能最大范围覆盖各能力范围内的人群和各种情形下的操作, 即对所有人是可访问的(无论他们访问 Web 是否有障碍). - wikipedia
 
 **综合学习:**
-<ul>
-<li><a href="http://www.amazon.com/Universal-Design-Web-Applications-Everyone/dp/0596518730/ref=sr_1_1" target="_blank">Universal Design for Web Applications: Web Applications That Reach Everyone</a> [read][$]</li>
-<li><a href="http://www.pluralsight.com/courses/web-accessibility-getting-started" target="_blank">Web Accessibility: Getting Started</a> [watch][$]</li>
-<li><a href="https://www.w3.org/WAI/intro/accessibility.php" target="_blank">Introduction to Web Accessibility</a> [read]</li>
-<li><a href="http://rosenfeldmedia.com/books/a-web-for-everyone/" target="_blank">A Web for Everyone</a> [read][$]</li>
-<li><a href="http://www.lynda.com/Web-Accessibility-tutorials/Foundations-UX-Accessibility/156957-2.html" target="_blank">Foundations of UX: Accessibility</a>[watch][$] </li>
-<li><a href="https://webaccessibility.withgoogle.com/course" target="_blank">Introduction to Web Accessibility</a> [watch]</li>
-</ul>
+
+* [Web应用程序通用设计](http://www.amazon.cn/Web%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E9%80%9A%E7%94%A8%E8%AE%BE%E8%AE%A1-Wensy-Cbisbolm/dp/B002IIDICE/ref=sr_1_2?ie=UTF8&qid=1446345863&sr=8-2) [read][RMB]
+* [Web 无障碍设计入门](http://www.pluralsight.com/courses/web-accessibility-getting-started) [watch][$]
+* [Web 无障碍设计介绍](https://www.w3.org/WAI/intro/accessibility.php) [read]
+* [兼济天下·用户无障碍体验的可访问性设计](http://www.amazon.cn/UI-UE%E7%B3%BB%E5%88%97%E4%B8%9B%E4%B9%A6-%E5%85%BC%E6%B5%8E%E5%A4%A9%E4%B8%8B%C2%B7%E7%94%A8%E6%88%B7%E6%97%A0%E9%9A%9C%E7%A2%8D%E4%BD%93%E9%AA%8C%E7%9A%84%E5%8F%AF%E8%AE%BF%E9%97%AE%E6%80%A7%E8%AE%BE%E8%AE%A1-%E9%9C%8D%E5%B0%94%E9%A1%BF/dp/B00UT03YEU/ref=sr_1_1?ie=UTF8&qid=1446346063&sr=8-1) [read][RMB]
+* [UX 基础: 无障碍设计](http://www.lynda.com/Web-Accessibility-tutorials/Foundations-UX-Accessibility/156957-2.html) [watch][$]
+* [Web 无障碍设计介绍](https://webaccessibility.withgoogle.com/course) [watch]
 
 **标准/规范:**
 
