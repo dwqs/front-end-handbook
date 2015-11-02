@@ -9,12 +9,11 @@
 最理想但又难度最大的学习路径就是首先学习 JavaScript, 然后学习 DOM, 之后再学习 JQuery. 然后, 完全可以按照你所想的学习路径来安排学习的顺序. 大多数的前端开发者在了解 JavaScript 和 DOM 之后, 才会接触 JQuery. 无论采取什么学习路径, 都要确保 JavaScript, DOM 或者 JQuery 不要成为"黑盒子".
 
 **入门学习:**
-<ul>
-<li><a href="http://eloquentjavascript.net/13_dom.html" target="_blank">The Document Object Model</a> [read]</li>
-<li><a href="https://www.codecademy.com/tracks/jquery" target="_blank">codecademy.com jQuery</a> [watch]</li>
-<li><a href="http://jqueryenlightenment.com/" target="_blank">jQuery Enlightenment</a> [read]</li>
-<li><a href="http://www.pluralsight.com/courses/jquery-getting-started" target="_blank">jQuery: Getting Started</a> [watch][$]</li>
-</ul>
+
+* [DOM](http://eloquentjavascript.net/13_dom.html) [read]
+* [codecademy.com jQuery](https://www.codecademy.com/tracks/jquery) [watch]
+* [jQuery 启蒙](http://jqueryenlightenment.com/) [read]
+* [JQuery 入门](http://www.pluralsight.com/courses/jquery-getting-started) [watch][$]
 
 **进阶学习:**
 
@@ -35,9 +34,8 @@
 * [MSDN: 文档对象模型](https://msdn.microsoft.com/en-us/library/hh772384%28v=vs.85%29.aspx)
 
 **标准和规范:**
-<ul>
-<li><a href="http://www.w3.org/TR/2014/WD-dom-20140204/" target="_blank">W3C DOM4</a></li>
-<li><a href="https://dom.spec.whatwg.org/" target="_blank">DOM Living Standard</a></li>
-<li><a href="http://www.w3.org/TR/2013/WD-DOM-Level-3-Events-20131105/" target="_blank">Document Object Model (DOM) Level 3 Events Specification</a></li>
-<li><a href="http://www.w3.org/DOM/DOMTR" target="_blank">Document Object Model (DOM) Technical Reports</a></li>
-</ul>
+
+* [W3C DOM4](http://www.w3.org/TR/2014/WD-dom-20140204/)
+* [DOM 在线标准](https://dom.spec.whatwg.org/)
+* [DOM 3 事件规范](http://www.w3.org/TR/2013/WD-DOM-Level-3-Events-20131105/)
+* [DOM 技术报告](http://www.w3.org/DOM/DOMTR)
