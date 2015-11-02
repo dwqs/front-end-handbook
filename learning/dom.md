@@ -8,7 +8,7 @@
 
 最理想但又难度最大的学习路径就是首先学习 JavaScript, 然后学习 DOM, 之后再学习 JQuery. 然后, 完全可以按照你所想的学习路径来安排学习的顺序. 大多数的前端开发者在了解 JavaScript 和 DOM 之后, 才会接触 JQuery. 无论采取什么学习路径, 都要确保 JavaScript, DOM 或者 JQuery 不要成为"黑盒子".
 
-**综合学习:**
+**入门学习:**
 <ul>
 <li><a href="http://eloquentjavascript.net/13_dom.html" target="_blank">The Document Object Model</a> [read]</li>
 <li><a href="https://www.codecademy.com/tracks/jquery" target="_blank">codecademy.com jQuery</a> [watch]</li>
@@ -16,25 +16,23 @@
 <li><a href="http://www.pluralsight.com/courses/jquery-getting-started" target="_blank">jQuery: Getting Started</a> [watch][$]</li>
 </ul>
 
-**精通:**
-<ul>
-<li><a href="http://www.amazon.com/DOM-Enlightenment-Cody-Lindley/dp/1449342841/" target="_blank">DOM Enlightenment</a> [read][$] or <a href="http://domenlightenment.com/" target="_blank">read online for free</a></li>
-<li><a href="https://frontendmasters.com/courses/javascript-jquery-dom/" target="_blank">Advanced JS Fundamentals to jQuery &amp; Pure DOM Scripting</a> [watch][$]</li>
-<li><a href="http://www.amazon.com/gp/product/1590598563/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1590598563&amp;linkCode=as2&amp;tag=fronenddevejo-20&amp;linkId=VQZU5EQIQQXCF56Y" target="_blank">AdvancED DOM Scripting: Dynamic Web Design Techniques</a> [read][$]</li>
-<li><a href="http://www.pluralsight.com/courses/fixing-common-jquery-bugs" target="_blank">Fixing Common jQuery Bugs</a> [watch][$]</li>
-<li><a href="http://www.pluralsight.com/courses/jquery-tips-and-tricks" target="_blank">jQuery Tips and Tricks</a> [watch][$]</li>
-<li><a href="http://www.pluralsight.com/courses/jquery-free-javascript" target="_blank">jQuery-free JavaScript</a> [watch][$]</li>
-<li><a href="https://www.youtube.com/watch?v=Y2Y0U-2qJMs&amp;list=PL5586336C26BDB324&amp;index=2" target="_blank">Douglas Crockford: An Inconvenient API - The Theory of the DOM</a> [watch]</li>
-</ul>
+**进阶学习:**
+
+* [DOM 启蒙](http://www.amazon.cn/DOM%E5%90%AF%E8%92%99-%E6%9E%97%E5%BE%B7%E5%88%A9/dp/B00JWXDB52/ref=sr_1_2?ie=UTF8&qid=1446477828&sr=8-2) [read][RMB] 或 [免费在线阅读](http://domenlightenment.com/)
+* [JS & DOM 进阶](https://frontendmasters.com/courses/javascript-jquery-dom/) [watch][$]
+* [DOM 进阶: 动态网页设计技术](http://www.amazon.com/gp/product/1590598563/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1590598563&amp;linkCode=as2&amp;tag=fronenddevejo-20&amp;linkId=VQZU5EQIQQXCF56Y) [read][$]
+* [常见 JQuery bugs 修复](http://www.pluralsight.com/courses/fixing-common-jquery-bugs) [watch][$]
+* [JQuery 技巧](http://www.pluralsight.com/courses/jquery-tips-and-tricks) [watch][$]
+* [jQuery-free JavaScript](http://www.pluralsight.com/courses/jquery-free-javascript) [watch][$]
+* [Douglas Crockford: DOM 理论--不可忽视的 API](https://www.youtube.com/watch?v=Y2Y0U-2qJMs&amp;list=PL5586336C26BDB324&amp;index=2) [watch]
 
 **参考/文档:**
-<ul>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model" target="_blank">MDN Document Object Model</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/Events" target="_blank">MDN Event reference</a></li>
-<li><a href="http://api.jquery.com/" target="_blank">jQuery Docs</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Window" target="_blank">MDN Browser Object Model</a></li>
-<li><a href="https://msdn.microsoft.com/en-us/library/hh772384%28v=vs.85%29.aspx" target="_blank">msdn Document Object Model (DOM)</a></li>
-</ul>
+
+* [MDN: 文档对象模型](https://developer.mozilla.org/zh/docs/Web/API/Document_Object_Model)
+* [MDN: 事件参考](https://developer.mozilla.org/zh/docs/Web/Events)
+* [JQuery 文档](http://api.jquery.com/)
+* [MDN: 浏览器对象模型](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+* [MSDN: 文档对象模型](https://msdn.microsoft.com/en-us/library/hh772384%28v=vs.85%29.aspx)
 
 **标准和规范:**
 <ul>

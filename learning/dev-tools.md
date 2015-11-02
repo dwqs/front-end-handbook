@@ -11,19 +11,17 @@
 我建议学习和使用 [谷歌开发者工具](https://developers.google.com/web/tools/chrome-devtools/), 因为谷歌开发者工具周围有学习 Web 开发者工具最好的资源.
 
 **学习使用谷歌开发者工具:**
-<ul>
-<li><a href="http://discover-devtools.codeschool.com/" target="_blank">Explore and Master Chrome DevTools</a></li>
-<li><a href="https://code.tutsplus.com/courses/chrome-developer-tools" target="_blank">Chrome Developer Tools</a> [watch][$]</li>
-<li><a href="http://www.pluralsight.com/courses/chrome-developer-tools" target="_blank">Using The Chrome Developer Tools</a> [watch][$]</li>
-</ul>
+
+* [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
+* [Chrome 开发者工具](https://code.tutsplus.com/courses/chrome-developer-tools) [watch][$]
+* [使用 Chrome 开发者工具](http://www.pluralsight.com/courses/chrome-developer-tools) [watch][$]
 
 **谷歌开发者工具文档:**
-<ul>
-<li><a href="https://developers.google.com/web/tools/chrome-devtools/#docs" target="_blank">Per-Panel Documentation</a></li>
-<li><a href="https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en" target="_blank">Command Line API Reference</a></li>
-<li><a href="https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts" target="_blank">Keyboard &amp; UI Shortcuts Reference</a></li>
-<li><a href="https://developer.chrome.com/devtools/docs/settings" target="_blank">Settings</a></li>
-</ul>
+
+* [Per-Panel 文档](https://developers.google.com/web/tools/chrome-devtools/#docs)
+* [命令行接口参考](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)
+* [键盘 & UI 快捷键参考](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
+* [设置](https://developer.chrome.com/devtools/docs/settings)
 
 **新闻/简报/博客/建议:**
 
