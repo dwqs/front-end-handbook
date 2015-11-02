@@ -23,3 +23,5 @@
 * [从零开始学 Node.js 系列文章](http://blog.fens.me/series-nodejs/)
 * [Node.js 开发常用资源(awesome-nodejs)1](https://github.com/sindresorhus/awesome-nodejs) [开发资源2](https://github.com/lyfeyaj/awesome-resources#nodejs)
 * [Node-books](https://github.com/pana/node-books)
+* [Node.js 入门](https://cnodejs.org/getstart)
+* [Node.js 中文 API](https://davidcai1993.gitbooks.io/nodejs-api-doc-in-chinese/content/) [v0.10.18](http://nodeapi.ucdok.com/#/api/)
