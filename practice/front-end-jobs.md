@@ -19,6 +19,7 @@
 * [w3cfuns](http://www.w3cfuns.com/job.php)
 * [内推网](http://www.neitui.me/)
 * [拉勾网](http://www.lagou.com/)
+* [前端网](http://qianduan.cc/)
 * [CSDN](http://job.csdn.net/)
 * [竞鹿网](https://www.nextoffer.com/)
 * [100Offer](http://100offer.com/)
