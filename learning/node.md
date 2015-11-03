@@ -26,3 +26,4 @@
 * [Node.js 入门](https://cnodejs.org/getstart)
 * [Node.js 中文 API](https://davidcai1993.gitbooks.io/nodejs-api-doc-in-chinese/content/)    [v0.10.18](http://nodeapi.ucdok.com/#/api/)
 * [NodeCloud](http://www.nodecloud.org/)
+* [Node.js 经典入门教程(中文版)](http://nodebeginner.org/index-zh-cn.html)
