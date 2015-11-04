@@ -75,7 +75,10 @@
 * [JavaScript Promise 迷你书](http://liubin.github.io/promises-book/)
 * [awesome-javascript1](https://github.com/wwsun/awesome-javascript) [awesome-javascript2](https://github.com/sorrycc/awesome-javascript)
 * [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
+* [重新认识 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+* [ES 6 In Depth 系列](http://www.infoq.com/cn/es6-in-depth/)
 * [ES 6 入门](http://es6.ruanyifeng.com/)
+* [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6）
 * [js the right way](http://jstherightway.org/)
 * [系列文章: 你不知道的 js](https://github.com/getify/You-Dont-Know-JS)
 * [JavaScript 新手教程](http://jaskokoyn.com/javascript-tutorial-series/)
