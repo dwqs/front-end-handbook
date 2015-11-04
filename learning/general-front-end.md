@@ -48,3 +48,4 @@
 * [前端资源大总结](http://qianduanfan.com/index.php/topic/show/234)
 * [前端入门](https://github.com/qiu-deqing/FE-learning)
 * [WebPlatForm](http://www.webplatform.org/)
+* [前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/)
