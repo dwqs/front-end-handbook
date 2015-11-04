@@ -2,146 +2,108 @@
 
 **JS 库:**
 
-<ul>
-<li><a href="https://lodash.com/">lodash</a></li>
-<li><a href="http://underscorejs.org/">underscore.js</a></li>
-<li><a href="http://momentjs.com/">Moment.js</a></li>
-<li><a href="http://stringjs.com/">string.js</a></li>
-<li><a href="http://numeraljs.com/">Numeral.js</a></li>
-<li><a href="http://openexchangerates.github.io/accounting.js/">accounting.js</a></li>
-<li><a href="http://xregexp.com/">xregexp.com</a></li>
-<li><a href="http://mathjs.org/">Math.js</a></li>
-<li><a href="https://github.com/elving/wait">wait</a></li>
-<li><a href="https://github.com/caolan/async">async</a></li>
-<li><a href="http://formatjs.io/">format.js</a></li>
-</ul>
+* [lodash](http://lodash.com)
+* [underscore.js](http://underscorejs.org)
+* [Moment.js](http://momentjs.com/)
+* [string.js](http://stringjs.com/)
+* [Numeral.js](http://numeraljs.com/)
+* [accounting.js](http://openexchangerates.github.io/accounting.js/)
+* [xregexp.com](http://xregexp.com/)
+* [Math.js](http://mathjs.org/)
+* [wait](https://github.com/elving/wait)
+* [async](https://github.com/caolan/async)
+* [format.js](http://formatjs.io/)
 
-**Transpiling (ESX to ESX):**
+**编译转换 (ESX to ESX):**
 
-<ul>
-<li><a href="https://babeljs.io/">Babel</a></li>
-</ul>
+* [Babel](https://babeljs.io/)
 
 **JavaScript 兼容性检查:**
 
-<ul>
-<li><a href="http://jscc.info/">http://jscc.info/</a></li>
-</ul>
+* [jscc.info](http://jscc.info/)
 
-**Linting/hinting:**
+**代码检查:**
 
-<ul>
-<li><a href="http://jshint.com/">jshint</a></li>
-<li><a href="http://eslint.org/">eshint</a></li>
-<li><a href="http://www.jslint.com/">JSLint</a>
-
-<ul>
-<li><a href="http://jslinterrors.com/">jslinterrors.com</a></li>
-</ul></li>
-</ul>
+* [jshint](http://jshint.com/)
+* [eshint](http://eslint.org/)
+* [JSlint](http://www.jslint.com/)
+  * [jslinterrors.com](http://jslinterrors.com/)
 
 **单元测试:**
 
-<ul>
-<li><a href="http://mochajs.org/">Mocha</a></li>
-<li><a href="http://qunitjs.com/">QUnit</a></li>
-<li><a href="http://jasmine.github.io/">Jasmine</a>
-  <ul>
-    <li><a href="http://facebook.github.io/jest/">Jest</a></li>
-  </ul>
-</li>
-</ul>
+* [Mocha](http://mochajs.org/)
+* [QUnit](http://qunitjs.com/)
+* [Jasmine](http://jasmine.github.io/)
+  * [Jest](http://facebook.github.io/jest/) 
 
 **单元测试的断言库:**
 
-<ul>
-<li><a href="http://shouldjs.github.io/">should.js</a></li>
-<li><a href="http://chaijs.com/">Chai</a></li>
-<li><a href="https://github.com/Automattic/expect.js">expect.js</a></li>
-</ul>
+* [should.js](http://shouldjs.github.io/)
+* [Chai](http://chaijs.com/)
+* [expect.js](https://github.com/Automattic/expect.js)
 
-**Test spies, stubs, and mocks for unit testing:**
+**单元测试监控, 存根和模拟:**
 
-<ul>
-<li><a href="http://sinonjs.org/">sinon.js</a></li>
-</ul>
+* [sinon.js](http://sinonjs.org/)
 
 **编码规范检查:**
 
-<ul>
-<li><a href="http://jscs.info/">JSCS</a></li>
-</ul>
+* [JSCS](http://jscs.info/)
 
 **代码格式化/美化:**
 
-<ul>
-<li><a href="http://rdio.github.io/jsfmt/">jsfmt</a></li>
-<li><a href="https://github.com/millermedeiros/esformatter#esformatterformatstr-optsstring">esformatter</a></li>
-<li><a href="http://jsbeautifier.org/">js-beautify</a></li>
-</ul>
+* [jsfmt](http://rdio.github.io/jsfmt/)
+* [esformatter](https://github.com/millermedeiros/esformatter#esformatterformatstr-optsstring)
+* [js-beautify](http://jsbeautifier.org/)
 
 **性能测试:**
 
-<ul>
-<li><a href="http://jsperf.com/">jsperf</a></li>
-<li><a href="http://benchmarkjs.com/">benchmark.js</a></li>
-</ul>
+* [jsperf](http://jsperf.com/)
+* [benchmark.js](http://benchmarkjs.com/)
 
 **可视化, 静态分析, 复杂性, 覆盖工具:**
 
-<ul>
-<li><a href="http://jscomplexity.org/">jscomplexity.org</a></li>
-<li><a href="https://github.com/gotwarlost/istanbul">istanbul</a></li>
-<li><a href="http://blanketjs.org/">Blanket.js</a></li>
-<li><a href="https://coveralls.io/">Coveralls</a> [$]</li>
-<li><a href="https://github.com/es-analysis/plato">Plato</a></li>
-<li><a href="https://github.com/jared-stilwell/escomplex">escomplex</a></li>
-<li><a href="http://esprima.org/">Esprima</a></li>
-</ul>
+* [jscomplexity.org](http://jscomplexity.org/)
+* [istanbul](https://github.com/gotwarlost/istanbul)
+* [Blanket.js](http://blanketjs.org/)
+* [Coveralls](https://coveralls.io/) [$]
+* [Plato](https://github.com/es-analysis/plato)
+* [escomplex](https://github.com/jared-stilwell/escomplex)
+* [Esprima](http://esprima.org/)
 
 **优化:**
 
-<ul>
-<li><a href="https://github.com/mishoo/UglifyJS2">UglifyJS 2</a></li>
-</ul>
+* [UglifyJS 2](https://github.com/mishoo/UglifyJS2)
 
 **混淆:**
 
-<ul>
-<li><a href="http://www.javascriptobfuscator.com/">Javascript Obfuscator</a> [free to $]</li>
-<li><a href="https://jscrambler.com/">JScrambler</a> [$]</li>
-</ul>
+* [Javascript 混淆器](http://www.javascriptobfuscator.com/)
+* [JScrambler](https://jscrambler.com/) [$]
 
-**在线 JS 编辑器:**
+**在线代码编辑器:**
 
-<ul>
-<li><a href="http://jsbin.com/">jsbin.com</a> [free to $]</li>
-<li><a href="http://jsfiddle.net/">jsfiddle.net</a></li>
-<li><a href="http://www.es6fiddle.net/">es6fiddle.net</a></li>
-</ul>
+* [jsbin.com](http://jsbin.com/)
+* [jsfiddle.net](http://jsfiddle.net/)
+* [es6fiddle.net](http://www.es6fiddle.net/)
+* [plnkr.co](http://plnkr.co/)
 
 **在线正则表达式编辑器/可视化工具:**
 
-<ul>
-<li><a href="https://regex101.com/">regex101</a></li>
-<li><a href="http://regexper.com/">regexper</a></li>
-<li><a href="https://www.debuggex.com">debuggex</a></li>
-<li><a href="http://regexr.com/">RegExr</a></li>
-</ul>
+* [regex101](https://regex101.com/)
+* [regexper](http://regexper.com/)
+* [debuggex](https://www.debuggex.com)
+* [RegExr](http://regexr.com/)
 
 **编码规范:**
 
-<ul>
-<li><a href="https://github.com/felixge/node-style-guide">Node.js Style Guide</a></li>
-<li><a href="https://github.com/rwaldron/idiomatic.js">Principles of Writing Consistent, Idiomatic JavaScript</a></li>
-<li><a href="http://airbnb.io/javascript/">Airbnb JavaScript Style Guide</a></li>
-</ul>
+* [Node.js 规范指南](https://github.com/felixge/node-style-guide)
+* [JavaScript 编码原则](https://github.com/rwaldron/idiomatic.js)
+* [JavaScript 规范指南](http://airbnb.io/javascript/)
 
-**本月 JS 仓库在 Github 的趋势:</h5>
+**本月 JS 仓库在 Github 的趋势:**
 
-<p><a href="https://github.com/trending?l=javascript&amp;since=monthly">https://github.com/trending?l=javascript&amp;since=monthly</a></p>
+* [https://github.com/trending?l=javascript&since=monthly](https://github.com/trending?l=javascript&since=monthly)
 
 **NPM 上被依赖最多的包:**
 
-<p><a href="https://www.npmjs.com/browse/depended">https://www.npmjs.com/browse/depended</a></p>
-</article>
+* [https://www.npmjs.com/browse/depended](https://www.npmjs.com/browse/depended)
