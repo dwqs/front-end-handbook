@@ -39,6 +39,7 @@
 
 * [React Native专题](http://www.jianshu.com/p/96febc4fec45)
 * [React 速查手册](http://ricostacruz.com/cheatsheets/react.html)
+* [React Cheat Sheet](http://reactcheatsheet.com/)
 * [React 介绍及实践教程](http://www.ibm.com/developerworks/cn/web/1509_dongyue_react/index.html)
 * [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/webpack.html)
 * [React.js 生态系统概览](http://www.inkpaper.io/blog/post/2015/10/18/navigating-the-react-ecosystem.html)
