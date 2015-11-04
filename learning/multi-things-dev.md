@@ -14,6 +14,7 @@
 
 * [自适应网页设计](http://adaptivewebdesign.info/) [read][$]
 * [设计与渐进增强](https://www.filamentgroup.com/dwpe/) [read]
+* [响应式排版](https://app.pluralsight.com/library/courses/responsive-typography/table-of-contents) [watch][$]
 * [响应式 Web 设计](https://frontendmasters.com/courses/responsive-web-design/) [watch][$]
 * [响应式 HTML 邮件设计](https://frontendmasters.com/courses/responsive-email/) [watch][$]
 * [Designing Multi-Device Experiences: An Ecosystem Approach to User Experiences across Devices](http://www.amazon.com/Designing-Multi-Device-Experiences-Ecosystem-Approach/dp/1449340385/ref=pd_sim_14_8) [read][$]
