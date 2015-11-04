@@ -11,14 +11,16 @@
 * 尝试修改你用策略1, 策略2或策略创建的应用. 这可能和点缀与屏幕大小无关的部分 UI 一样简单, 也可以试图完全支持其他平台与整个 UI.
 
 **入门学习:**
-<ul>
-<li><a href="http://adaptivewebdesign.info/" target="_blank">Adaptive Web Design</a> [read][$]</li>
-<li><a href="https://www.filamentgroup.com/dwpe/" target="_blank">Designing with progressive enhancement</a> [read][$]</li>
-<li><a href="Responsive%20Typography">Responsive Typography</a> [watch][$]</li>
-<li><a href="https://frontendmasters.com/courses/responsive-web-design/" target="_blank">Responsive Web Design</a> [watch][$]</li>
-<li><a href="https://frontendmasters.com/courses/responsive-email/" target="_blank">Responsive HTML Email Design</a> [watch][$]</li>
-<li><a href="http://www.amazon.com/Designing-Multi-Device-Experiences-Ecosystem-Approach/dp/1449340385/ref=pd_sim_14_8" target="_blank">Designing Multi-Device Experiences: An Ecosystem Approach to User Experiences across Devices</a> [read][$]</li>
-<li><a href="https://www.udacity.com/courses/web-development" target="_blank">Responsive Web Design Fundamentals</a> [watch]</li>
-<li><a href="https://www.udacity.com/course/responsive-images--ud882" target="_blank">Responsive Images</a> [watch]</li>
-<li><a href="https://www.udacity.com/course/mobile-web-development--cs256" target="_blank">Mobile Web Development</a> [watch]</li>
-</ul>
+
+* [自适应网页设计](http://adaptivewebdesign.info/) [read][$]
+* [设计与渐进增强](https://www.filamentgroup.com/dwpe/) [read]
+* [响应式 Web 设计](https://frontendmasters.com/courses/responsive-web-design/) [watch][$]
+* [响应式 HTML 邮件设计](https://frontendmasters.com/courses/responsive-email/) [watch][$]
+* [Designing Multi-Device Experiences: An Ecosystem Approach to User Experiences across Devices](http://www.amazon.com/Designing-Multi-Device-Experiences-Ecosystem-Approach/dp/1449340385/ref=pd_sim_14_8) [read][$]
+* [响应式 Web 设计原理](https://www.udacity.com/courses/web-development) [watch]
+* [响应式图片](https://www.udacity.com/course/responsive-images--ud882) [watch]
+* [移动 Web 开发](https://www.udacity.com/course/mobile-web-development--cs256) [watch]
+
+**译者补充:**
+
+* [移动 Web 调试工具: weinre](https://people.apache.org/~pmuellr/weinre-docs/latest/)
