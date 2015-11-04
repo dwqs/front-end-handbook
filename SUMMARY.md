@@ -37,6 +37,7 @@
 		* [Web 开发者工具](learning/dev-tools.md)
 		* [命令行](learning/cli.md)
 		* [Node.js](learning/node.md)
+		* [React.js](learning/react.md)
 		* [模块加载器](learning/module.md)
 		* [包管理器](learning/package.md)
 		* [版本控制](learning/version.md)
