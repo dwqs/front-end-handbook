@@ -26,3 +26,8 @@
 **新闻/简报/博客/建议:**
 
 * [Dev Tips](https://umaar.com/dev-tips/)
+
+**译者补充:**
+
+* [Chrome Devtools Tips & Tricks](http://mo.github.io/2015/10/19/chrome-devtools.html)
+* [Chrome开发者工具不完全指南](http://www.92fenxiang.com/121.html)
