@@ -13,3 +13,7 @@
 **标准/规范**
 
 * [Web 动画](https://w3c.github.io/web-animations/)
+
+**译者补充:**
+
+* [Pro CSS3 Animation](http://apress.jensimmons.com/v5/pro-css3-animation/ch2.html)
