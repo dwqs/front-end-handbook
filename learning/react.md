@@ -11,6 +11,7 @@
 **资源列表:**
 
 * [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
+* [Learning React](https://github.com/yiminghe/learning-react)
 * [Awesome React](https://github.com/enaqx/awesome-react)
 * [React.js 生态系统概览](http://www.inkpaper.io/blog/post/2015/10/18/navigating-the-react-ecosystem.html)
 * [详解React Flux架构工作方式](http://www.csdn.net/article/2015-08-31/2825587-react-flux)
