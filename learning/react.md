@@ -21,6 +21,7 @@
 * [React 介绍及实践教程](http://www.ibm.com/developerworks/cn/web/1509_dongyue_react/index.html)
 * [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/webpack.html)
 * [React Webpack Cookbook](https://fakefish.github.io/react-webpack-cookbook/)
+* [Webpack](https://github.com/ruanyf/webpack-demos)
 * [详解前端模块化工具-Webpack](http://www.ido321.com/1646.html)
 * [Awesome React Native](https://github.com/jondot/awesome-react-native)
 * [React Native 探索系列](http://www.infoq.com/cn/articles/react-native-overview)
