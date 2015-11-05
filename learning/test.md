@@ -6,11 +6,10 @@
 
 >**集成测试** - 在软件测试中, 集成测试(也称集成和测试, 缩写为 I&T)是各个软件模块结合起来, 作为一个整体进行测试的阶段, 之后便是单元测试和验证测试. 集成测试把已经通过的单元测试作为输入模块,  将它们组织成更大的聚集, 在集成测试中应用计划用于这些聚集而被定义的测试, 并提供为集成测试做好准备的集成系统作为其输出. - Wikipedia
 
-**入门学习:**
-<ul>
-<li><a href="http://tddjs.com/" target="_blank">Test-Driven JavaScript Development</a> [read][$]</li>
-<li><a href="http://www.amazon.com/gp/product/1449323391/ref=pd_lpo_sbs_dp_ss_3" target="_blank">Testable JavaScript</a> [read][$]</li>
-<li><a href="http://jstesting.jcoglan.com/" target="_blank">JavaScript Testing Recipes</a> [read][$]</li>
-<li><a href="http://www.pluralsight.com/courses/testing-and-prototyping-javascript-apps" target="_blank">Front-End First: Testing and Prototyping JavaScript Apps</a> [watch][$]</li>
-<li><a href="http://www.letscodejavascript.com/" target="_blank">Let’s Code: Test-Driven JavaScript</a> [watch][$]</li>
-</ul>
+**综合学习:**
+
+* [测试驱动的 JavaScript 开发](http://www.amazon.cn/%E6%B5%8B%E8%AF%95%E9%A9%B1%E5%8A%A8%E7%9A%84JavaScript%E5%BC%80%E5%8F%91-%E7%BA%A6%E7%BF%B0%E6%A3%AE/dp/B0077KA3J4/ref=sr_1_1) [read][RMB]
+* [编写可测试的 JavaScript 代码](http://www.amazon.cn/%E7%BC%96%E5%86%99%E5%8F%AF%E6%B5%8B%E8%AF%95%E7%9A%84JavaScript%E4%BB%A3%E7%A0%81-%E7%BE%8E-Mark-Ethan-Trostler-%E6%89%98%E6%96%AF%E5%8B%92/dp/B00SNCI018/ref=sr_1_1) [read][RMB]
+* [JavaScript Testing Recipes](http://jstesting.jcoglan.com/) [read][$]
+* [前端优先: JavaScript 的测试和原型设计](http://www.pluralsight.com/courses/testing-and-prototyping-javascript-apps) [watch][$]
+* [测试驱动的 JavaScript](http://www.letscodejavascript.com/) [watch][$]

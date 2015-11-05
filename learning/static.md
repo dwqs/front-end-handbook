@@ -4,5 +4,5 @@
 
 **综合学习:**
 
-* [Static Site Generators](http://www.oreilly.com/web-platform/free/static-site-generators.csp) [read]
+* [静态网页生成器](http://www.oreilly.com/web-platform/free/static-site-generators.csp) [read]
 

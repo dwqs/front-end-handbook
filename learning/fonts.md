@@ -5,10 +5,9 @@
 > 1998 年, CSS 2.0 规范发布, 意图通过字体匹配, 合成和下载技术, 改善字体的选择过程, 但这些技术并没有得到使用, 并在 CSS2.1 规范中被移除了. 然而, 在 1997 年发布的 IE 4.0 增加了对字体下载的支持, 随后, CSS 3 的字体模块变包含了字体下载, 并且 Safari 3.1, Opera 10 和 Mozilla Firefox 3.5 实现了这一功能, 随后便增加了 Web 字体和所使用字体的下载. - wikipedia
 
 **综合学习:**
-<ul>
-<li><a href="http://www.pluralsight.com/courses/typography-for-web-1790" target="_blank">Typography for the Web</a> [watch][$]</li>
-<li><a href="http://zoerooney.com/learn-web-fonts/" target="_blank">Learn-web-fonts</a> [read]</li>
-<li><a href="http://www.html5rocks.com/en/tutorials/webfonts/quick/" target="_blank">Quick guide to webfonts via @font-face</a> [read]</li>
-<li><a href="https://frontendmasters.com/courses/responsive-typography/" target="_blank">Responsive Typography</a> [watch][$]</li>
-<li><a href="http://hellohappy.org/beautiful-web-type/" target="_blank">Beautiful Web Type A showcase of the best typefaces from the Google web fonts directory.</a> [read]</li>
-</ul>
+
+* [Web 字体排版](http://www.pluralsight.com/courses/typography-for-web-1790) [watch][$]
+* [了解 Web 字体](http://zoerooney.com/learn-web-fonts/) [read]
+* [@font-face 快速学习指南](http://www.html5rocks.com/en/tutorials/webfonts/quick/) [read]
+* [响应式排版](https://frontendmasters.com/courses/responsive-typography/) [watch][$]
+* [用最好的字体来美化网页](http://hellohappy.org/beautiful-web-type/) [read]
