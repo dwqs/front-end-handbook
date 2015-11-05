@@ -80,6 +80,8 @@
 
 * [CSS 3 教程](https://waylau.gitbooks.io/css3-tutorial/content/docs/Introduction.html)
 * [HTML & CSS 测试](https://sitthetest.com/tests)
+* [Pro HTML5 Programming](http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html)
+* [Pro CSS3 Animation](http://apress.jensimmons.com/v5/pro-css3-animation/ch2.html)
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 * [精通CSS: 高级Web标准解决方案](http://www.amazon.cn/%E7%B2%BE%E9%80%9ACSS-%E9%AB%98%E7%BA%A7Web%E6%A0%87%E5%87%86%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E5%B7%B4%E5%BE%B7/dp/B003IURKAM/ref=sr_1_1?s=books&ie=UTF8&qid=1446191443&sr=1-1)
 * [高流量网站CSS开发技术](http://www.amazon.cn/%E9%AB%98%E6%B5%81%E9%87%8F%E7%BD%91%E7%AB%99CSS%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF-%E8%82%AF%E5%B0%BC%E8%BF%AA/dp/B00FIIM9JO/ref=sr_1_2?s=books&ie=UTF8&qid=1446191443&sr=1-2)
