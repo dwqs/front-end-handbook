@@ -13,3 +13,5 @@
 * [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/)
 * [前端收集](https://github.com/foru17/front-end-collect)
 * [Front-end Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [github上值得关注的前端项目](http://segmentfault.com/a/1190000002804472)
+* [前端人的俱乐部](http://f2er.club/)
