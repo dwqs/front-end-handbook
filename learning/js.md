@@ -85,6 +85,7 @@
 * [JavaScript 进阶教程](http://jaskokoyn.com/advanced-javascript-tutorial-series/)
 * [JavaScript：40+基本的 Web 开发工具](http://www.ido321.com/1543.html)
 * [国外优秀 JavaScript 资源推荐](http://www.ido321.com/302.html)
+* [JavaScript 免费编程电子书索引(中文)](https://github.com/justjavac/free-programming-books-zh_CN#javascript)
 * [JavaScript Puzzlers](http://javascript-puzzlers.herokuapp.com/)
 * [JavaScript Test](https://sitthetest.com/tests)
 * [JavaScript DOM 编程艺术](http://www.amazon.cn/JavaScript-DOM%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF-%E5%9F%BA%E6%80%9D/dp/B004VJM5KE/ref=sr_1_1?ie=UTF8&qid=1446191949&sr=8-1)
