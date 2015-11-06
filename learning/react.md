@@ -21,6 +21,7 @@
 * [详解React Flux架构工作方式](http://www.csdn.net/article/2015-08-31/2825587-react-flux)
 * [Awesome React](https://github.com/enaqx/awesome-react)
 * [详解前端模块化工具-Webpack](http://www.ido321.com/1646.html)
+* [webpack学习笔记](http://blog.csdn.net/zhbhun/article/details/47208885)
 * [React Webpack Cookbook](https://fakefish.github.io/react-webpack-cookbook/)
 * [Webpack](https://github.com/ruanyf/webpack-demos)
 * [Awesome React Native](https://github.com/jondot/awesome-react-native)
