@@ -29,3 +29,4 @@
 * [博客园](http://job.cnblogs.com/)
 * [V2EX](http://www.v2ex.com/)
 * [简历模板](https://github.com/geekcompany/ResumeSample/blob/master/web.md)
+* [面试问题1](https://github.com/hawx1993/Front-end-Interview-questions)   [面试问题2](https://github.com/qiu-deqing/FE-interview)
