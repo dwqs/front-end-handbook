@@ -43,3 +43,4 @@
 * [前端入门](https://github.com/qiu-deqing/FE-learning)
 * [WebPlatForm](http://www.webplatform.org/)
 * [前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/)
+* [Web 开发电子书下载(英)](http://www.allitebooks.com/web-development/)
