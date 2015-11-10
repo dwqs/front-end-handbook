@@ -39,3 +39,7 @@
 * [DOM 在线标准](https://dom.spec.whatwg.org/)
 * [DOM 3 事件规范](http://www.w3.org/TR/2013/WD-DOM-Level-3-Events-20131105/)
 * [DOM 技术报告](http://www.w3.org/DOM/DOMTR)
+
+**译者补充:**
+
+* [You Might Not Need JQuery](http://youmightnotneedjquery.com/)
