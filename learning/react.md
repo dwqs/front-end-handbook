@@ -20,6 +20,7 @@
 * [React.js 生态系统概览](http://www.inkpaper.io/blog/post/2015/10/18/navigating-the-react-ecosystem.html)
 * [详解React Flux架构工作方式](http://www.csdn.net/article/2015-08-31/2825587-react-flux)
 * [Awesome React](https://github.com/enaqx/awesome-react)
+* [Awesome Redux](https://github.com/xgrommx/awesome-redux)
 * [Webpack 中文文档](https://wohugb.gitbooks.io/webpack/content/)
 * [webpack学习笔记](http://blog.csdn.net/zhbhun/article/details/47208885)
 * [React Webpack Cookbook](https://fakefish.github.io/react-webpack-cookbook/)
