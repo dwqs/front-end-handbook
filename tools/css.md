@@ -2,108 +2,85 @@
 
 **桌面 & 移动应用 CSS 框架:**
 
-<ul>
-<li><a href="http://semantic-ui.com/">Semantic UI</a></li>
-<li><a href="http://foundation.zurb.com/">Foundation</a></li>
-<li><a href="http://getbootstrap.com/">Bootstrap</a></li>
-<li><a href="http://metroui.org.ua/">Metro UI</a></li>
-<li><a href="http://purecss.io/">Pure.css</a></li>
-<li><a href="http://concisecss.com/">Concise</a></li>
-<li><a href="http://materializecss.com/">Materialize</a></li>
-<li><a href="http://www.getmdl.io/index.html">Material Design Lite (MDL)</a></li>
-<li><a href="http://getbase.org/">Base</a></li>
-</ul>
+* [Semantic UI](http://semantic-ui.com/)
+* [Foundation](http://foundation.zurb.com/)
+* [Bootstrap](http://getbootstrap.com/)
+* [Metro UI](http://metroui.org.ua/)
+* [Pure.css](http://purecss.io/)
+* [Concise](http://concisecss.com/)
+* [Materialize](http://materializecss.com/)
+* [Material Design Lite(MDL)](http://www.getmdl.io/index.html)
+* [Base](http://getbase.org/)
 
 **移动应用 CSS 框架:**
 
-<ul>
-<li><a href="http://goratchet.com/">Ratchet</a></li>
-</ul>
+* [Ratchet](http://goratchet.com/)
 
 **CSS 重置:**
 
 >CSS 重置(或重置 CSS)是一个很小的, 被压缩的 CSS 规则集合, 用于重置所有 HTML 元素的样式. - [http://cssreset.com/](http://cssreset.com/)
 
-<ul>
-<li><a href="http://meyerweb.com/eric/tools/css/reset/">Eric Meyer’s “Reset CSS” 2.0</a></li>
-<li><a href="https://necolas.github.io/normalize.css/">Normalize</a></li>
-</ul>
+* [Eric Meyer’s “Reset CSS” 2.0](http://meyerweb.com/eric/tools/css/reset/)
+* [Normalize](https://necolas.github.io/normalize.css/)
 
 **Transpiling:**
 
-<ul>
-<li><a href="http://sass-lang.com/">SASS/SCSS</a></li>
-<li><a href="https://github.com/stylus/stylus">stylus</a></li>
-<li><a href="https://github.com/postcss/postcss">PostCSS</a> &amp; <a href="http://cssnext.io/">cssnext</a></li>
-<li><a href="https://github.com/reworkcss/rework">rework</a> &amp; <a href="http://www.myth.io/">myth</a></li>
-<li><a href="http://pleeease.io/">pleeease.io</a></li>
-</ul>
+* [SASS/SCSS](http://sass-lang.com/)
+* [stylus](https://github.com/stylus/stylus)
+* [PostCSS](https://github.com/postcss/postcss) & [cssnext](http://cssnext.io/)
+* [rework](https://github.com/reworkcss/rework) & [myth](http://www.myth.io/)
+* [pleeease.io](http://pleeease.io/)
 
 **参考文档:**
 
-<ul>
-<li><a href="http://css3test.com/">css3test.com</a></li>
-<li><a href="http://css4-selectors.com/">css4-selectors.com</a></li>
-<li><a href="http://css3clickchart.com/">css3clickchart.com</a></li>
-<li><a href="http://cssvalues.com/">cssvalues.com</a></li>
-<li><a href="http://csstriggers.com/">CSS TRIGGERS...A GAME OF LAYOUT, PAINT, AND COMPOSITE</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">MDN CSS reference</a></li>
-<li><a href="http://overapi.com/css/">overapi.com CSS cheatsheet</a></li>
-</ul>
+* [css3test.com](http://css3test.com/)
+* [css4-selectors.com](http://css4-selectors.com/)
+* [css3clickchart.com](http://css3clickchart.com)
+* [cssvalues.com](http://cssvalues.com)
+* [CSS TRIGGERS](http://csstriggers.com/)
+* [MDN CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [overapi.com CSS cheatsheet](http://overapi.com/css/)
 
 **Linting/hinting:**
 
-<ul>
-<li><a href="http://csslint.net/">CSS Lint</a></li>
-<li><a href="http://stylelint.io/">stylelint</a></li>
-</ul>
+* [CSS Lint](http://csslint.net/)
+* [stylelint](http://stylelint.io/)
 
 **代码格式化/美化:**
 
-<ul>
-<li><a href="https://github.com/csscomb/csscomb.js">CSScomb</a></li>
-<li><a href="https://github.com/morishitter/cssfmt">cssfmt</a></li>
-</ul>
+* [CSScomb](https://github.com/csscomb/csscomb.js)
+* [cssfmt](https://github.com/morishitter/cssfmt)
 
 **优化:**
 
-<ul>
-<li><a href="http://css.github.io/csso/">csso</a></li>
-<li><a href="https://github.com/jakubpawlowicz/clean-css">clear-css</a></li>
-<li><a href="http://cssnano.co/">cssnano</a></li>
-</ul>
+* [csso](http://css.github.io/csso/)
+* [clear-css](https://github.com/jakubpawlowicz/clean-css)
+* [cssnano](http://cssnano.co/)
 
 **CSS 在线生成工具:**
 
-<ul>
-<li><a href="/FrontendMasters/front-end-handbook/blob/master/tools/Ultimate%20CSS%20Gradient%20Generator">Ultimate CSS Gradient Generator</a></li>
-<li><a href="http://enjoycss.com/">Enjoy CSS</a></li>
-<li><a href="http://www.cssmatic.com/">CSS matic</a></li>
-<li><a href="http://patternify.com">patternify.com</a></li>
-<li><a href="http://patternizer.com/">patternizer.com</a></li>
-<li><a href="http://cssarrowplease.com/">CSS arrow please</a></li>
-<li><a href="http://bennettfeely.com/flexplorer/">flexplorer</a></li>
-<li><a href="https://scotch.io/demos/visual-guide-to-css3-flexbox-flexbox-playground">Flexbox Playground</a></li>
-</ul>
+* [Ultimate CSS Gradient Generator](https://github.com/FrontendMasters/front-end-handbook/blob/master/tools/Ultimate%20CSS%20Gradient%20Generator)
+* [Enjoy CSS](http://enjoycss.com/)
+* [CSS matic](http://www.cssmatic.com/)
+* [patternify.com](http://patternify.com)
+* [patternizer.com](http://patternizer.com)
+* [CSS arrow please](http://cssarrowplease.com/)
+* [flexplorer](http://bennettfeely.com/flexplorer/)
+* [Flexbox Playground](https://scotch.io/demos/visual-guide-to-css3-flexbox-flexbox-playground)
 
 **CSS 架构:**
 
-<ul>
-<li><a href="http://oocss.org/">oocss</a> [read]</li>
-<li><a href="https://smacss.com/">SMACSS</a> [read][$]</li>
-<li><a href="http://atomicdesign.bradfrost.com/">Atomic Design</a> [read]</li>
-</ul>
+* [oocss](http://oocss.org/) [read]
+* [SMACSS](https://smacss.com/) [read][$]
+* [Atomic Design](http://atomicdesign.bradfrost.com/) [read]
 
 **编写规范:**
 
-<ul>
-<li><a href="https://github.com/necolas/idiomatic-css">idiomatic-css</a> [read]</li>
-<li><a href="http://codeguide.co/#css">CSS code guide</a> [read]</li>
-<li><a href="http://cssguidelin.es/">cssguidelin.es</a> [read]</li>
-<li><a href="http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#General_Formatting">Google HTML/CSS Style Guide</a></li>
-</ul>
+* [idiomatic-css](https://github.com/necolas/idiomatic-css) [read]
+* [CSS code guide](http://codeguide.co/#css) [read]
+* [cssguidelin.es](http://cssguidelin.es) [read]
+* [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#General_Formatting)
 
 **本月 CSS 仓库在Github的趋势:**
 
-<p><a href="https://github.com/trending?l=css&amp;since=monthly">https://github.com/trending?l=css&amp;since=monthly</a></p>
-</article>
+* [https://github.com/trending?l=css&amp;since=monthly](https://github.com/trending?l=css&amp;since=monthly)

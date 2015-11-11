@@ -1,24 +1,18 @@
 ###内容管理托管/API工具
 
-**API CMS (i.e. content delivery CMS) tools:</h5>
+**API CMS 工具:**
 
-<ul>
-<li><a href="https://prismic.io/">prismic.io</a> [free to $]</li>
-<li><a href="https://www.contentful.com/">contentful</a> [$]</li>
-<li><a href="https://cosmicjs.com/">Cosmic JS</a> [free to $]</li>
-</ul>
+* [prismic.io](https://prismic.io/) [free to $]
+* [contentful](https://www.contentful.com/) [$]
+* [Cosmic JS](https://cosmicjs.com/) [free to $]
 
 **Hosted CMS tools:**
 
-<ul>
-<li><a href="https://www.lightcms.com">LightCMS</a> [$]</li>
-<li><a href="http://www.surrealcms.com/">Surreal CMS</a> [$]</li>
-<li><a href="http://www.pagelime.com/">Page Lime</a> [$]</li>
-<li><a href="https://www.cushycms.com">Cushy CMS</a> [free to $]</li>
-</ul>
+* [LightCMS](https://www.lightcms.com) [$]
+* [Surreal CMS](http://www.surrealcms.com/) [$]
+* [Page Lime](http://www.pagelime.com/) [$]
+* [Cushy CMS](https://www.cushycms.com) [free to $]
 
 **Static CMS tools:**
 
-<ul>
-<li><a href="http://www.webhook.com/">webhook.com</a></li>
-</ul>
+* [webhook.com](http://www.webhook.com/)
