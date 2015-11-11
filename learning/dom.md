@@ -43,4 +43,4 @@
 
 **译者补充:**
 
-* [You Might Not Need JQuery](http://youmightnotneedjquery.com/)
+* [You Might Not Need JQuery(英)](http://youmightnotneedjquery.com/) [中文版](http://www.webhek.com/you-do-not-need-jquery)
