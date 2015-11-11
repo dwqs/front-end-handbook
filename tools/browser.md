@@ -2,30 +2,30 @@
 
 **JS 浏览工具:**
 
-<ul>
-<li><a href="http://medialize.github.io/URI.js/">URI.js</a></li>
-<li><a href="https://github.com/bestiejs/platform.js">platform.js</a></li>
-<li><a href="https://github.com/browserstate/history.js">history.js</a></li>
-<li><a href="https://github.com/niklasvh/html2canvas">html2canvas</a></li>
-</ul>
+* [URI.js](http://medialize.github.io/URI.js/)
+* [platform.js](https://github.com/bestiejs/platform.js)
+* [history.js](https://github.com/browserstate/history.js)
+* [html2canvas](https://github.com/niklasvh/html2canvas)
 
 **参考工具(查看浏览器是否支持某特性)**
 
-<ul>
-<li><a href="http://caniuse.com/">caniuse.com</a></li>
-<li><a href="http://html5please.com/">HTML5 Please</a></li>
-<li><a href="https://html5test.com/">HTML5 test</a></li>
-<li><a href="http://www.browserscope.org/">Browserscope</a></li>
-<li><a href="http://www.webbrowsercompatibility.com/">webbrowsercompatibility.com</a></li>
-<li><a href="http://www.iwanttouse.com/">iwanttouse.com/</a></li>
-<li><a href="https://dev.modern.ie/platform/status/">Platform status</a></li>
-<li><a href="http://codepen.io/bartveneman/full/qzCte/">Browser support for broken/missing images</a></li>
-<li><a href="http://compatibility.shwups-cms.ch/en/home">Big JS-Compatibility-Table</a></li>
-<li><a href="http://jscc.info/">jscc.info</a></li>
-</ul>
+* [caniuse.com](http://caniuse.com/)
+* [HTML5 Please](http://html5please.com/)
+* [HTML5 Test](https://html5test.com/)
+* [Browserscope](http://www.browserscope.org/)
+* [webbrowsercompatibility.com](http://www.webbrowsercompatibility.com)
+* [iwanttouse.com](http://www.iwanttouse.com/)
+* [Platform status](https://dev.modern.ie/platform/status/)
+* [Browser support for broken/missing images](http://codepen.io/bartveneman/full/qzCte/)
+* [Big JS-Compatibility-Table](http://compatibility.shwups-cms.ch/en/home)
+* [jscc.info](http://jscc.info)
 
 **浏览器开发/调试工具:**
 
+* [Opera Dragonly](http://www.opera.com/dragonfly/)
+* [Safari Web Inspector](https://developer.apple.com/safari/tools/)
+* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
+* [Chrome Developer Tools](https://developers.google.com/web/tools/?hl=en)
 <ul>
 <li><a href="http://www.opera.com/dragonfly/">Opera Dragonfly</a></li>
 <li><a href="https://developer.apple.com/safari/tools/">Safari Web Inspector</a></li>

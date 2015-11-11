@@ -2,92 +2,73 @@
 
 **前端 App 框架:**
 
-<ul>
-<li><a href="https://angularjs.org/">AngularJS</a> &amp; <a href="https://github.com/angular/angularjs-batarang">Batarang</a></li>
-<li><a href="http://backbonejs.org/">Backbone</a> &amp; <a href="http://marionettejs.com/">Marionette</a></li>
-<li><a href="http://facebook.github.io/react/">React</a> &amp; <a href="http://facebook.github.io/flux/">Flux</a> &amp; <a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi">React Developer Tools</a></li>
-<li><a href="http://vuejs.org/">Vue.js</a> &amp; <a href="https://github.com/vuejs/vue-loader">vue-loader</a> &amp; <a href="https://github.com/vuejs/vue-router">vue-router</a></li>
-<li><a href="http://emberjs.com/">Ember</a> &amp; <a href="https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en">Ember Inspector</a></li>
-<li><a href="http://ampersandjs.com/">Ampersand.js</a></li>
-<li><a href="http://knockoutjs.com/">Knockout</a></li>
-<li><a href="http://aurelia.io/">Aurelia</a></li>
-<li><a href="https://www.polymer-project.org/1.0/">Polymer</a> &amp; <a href="https://elements.polymer-project.org/browse?package=iron-elements">Iron Elements</a> &amp; <a href="https://elements.polymer-project.org/browse?package=paper-elements">Paper Elements</a></li>
-</ul>
+* [AngularJS](https://angularjs.org/) & [Batarang](https://github.com/angular/angularjs-batarang)
+* [Backbone](http://backbonejs.org/) & [Marionette](http://marionettejs.com/)
+* [React](http://facebook.github.io/react/) & [Flux](http://facebook.github.io/flux/) & [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [Vue.js](http://vuejs.org/) & [vue-loader](https://github.com/vuejs/vue-loader) & [vue-router](https://github.com/vuejs/vue-router)
+* [Ember](http://emberjs.com/) & [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en)
+* [Ampersand.js](http://ampersandjs.com/)
+* [Knockout](http://knockoutjs.com/)
+* [Aurelia](http://aurelia.io/)
+* [Polymer](https://www.polymer-project.org/1.0/) & [Iron Elements](https://elements.polymer-project.org/browse?package=iron-elements) & [Paper Elements](https://elements.polymer-project.org/browse?package=paper-elements)
 
 **全栈 JS App 平台:**
 
-<ul>
-<li><a href="https://www.meteor.com/">Meteor</a> </li>
-<li><a href="http://hood.ie/intro/">Hood.ie</a></li>
-<li><a href="http://meanjs.org/">MEAN</a></li>
-</ul>
+* [Meteor](https://www.meteor.com/)
+* [Hood.ie](http://hood.ie/intro/)
+* [MEAN](http://meanjs.org/)
 
 **移动 Web UI/网站/App 框架:**
 
 这些解决方案可以被用到任何地方, 包括 Web 视图(Web 平台和浏览器引擎等) APP.
 
-<ul>
-<li><a href="http://goratchet.com/getting-started/">Ratchet</a></li>
-<li><a href="http://demos.telerik.com/kendo-ui/m/index">Kendo UI Mobile</a></li>
-<li><a href="http://mobileangularui.com/">Mobile Angular UI</a></li>
-<li><a href="http://www.idangero.us/framework7">Framework7</a></li>
-</ul>
+* [Ratchet](http://goratchet.com/getting-started/)
+* [Kendo UI Mobile](http://demos.telerik.com/kendo-ui/m/index)
+* [Mobile Angular UI](http://mobileangularui.com/)
+* [Framework7](http://www.idangero.us/framework7)
 
-**Native Hybrid mobile webview (i.e. browser engine driven) frameworks:**
+**本机混合移动 webview 框架:**
 
-These solution typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as bridge to native api's.
+典型解决方案是使用 [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), 或者自定义 Webview 作为本机 API 的桥梁.
 
-<ul>
-<li><a href="http://ionicframework.com/">ionic</a></li>
-<li><a href="http://onsen.io/">onsen.io</a></li>
-</ul>
+* [ionic](http://ionicframework.com/)
+* [onsen.io](http://onsen.io/)
 
-**Native Hybrid mobile development webview (i.e. browser engine driven) environments/platforms/tools:**
+**本机混合移动开发 webview 环境/平台/工具:**
 
-These solution typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom webview as bridge to native api's.
+典型解决方案是使用 [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), 或者自定义 Webview 作为本机 API 的桥梁.
 
-<ul>
-<li><a href="http://www.telerik.com/appbuilder">AppBuilder</a> [$]</li>
-<li><a href="https://monaca.io/">Monaca</a> [$] </li>
-<li><a href="http://phonegap.com/">Adobe PhoneGap</a> [$] </li>
-<li><a href="http://www.kony.com/products/mobility-platform">kony</a> [$]</li>
-<li><a href="http://ionic.io/">ionic hub</a> [free to $]</li>
-<li><a href="http://taco.tools/">Taco</a></li>
-<li><a href="http://manifoldjs.com/">manifoldJS</a></li>
-<li><a href="https://cocoon.io">cocoon.io</a> [free to $]</li>
-</ul>
+* [AppBuilder](http://www.telerik.com/appbuilder) [$]
+* [Monaca](https://monaca.io/) [$]
+* [Adobe PhoneGap](http://phonegap.com/) [$]
+* [kony](http://www.kony.com/products/mobility-platform) [$]
+* [ionic hub](http://ionic.io/) [free to $]
+* [Taco](http://taco.tools/)
+* [manifoldJS](http://manifoldjs.com/)
+* [cacoon](https://cocoon.io) [free to $]
 
-**Native desktop webview (i.e. browser engine driven) app frameworks:**
+**本机桌面 webview 应用框架:**
 
-<ul>
-<li><a href="https://github.com/nwjs/nw.js">NW.js</a></li>
-<li><a href="http://electron.atom.io/">Electron</a></li>
-</ul>
+* [NW.js](https://github.com/nwjs/nw.js)
+* [Electron](http://electron.atom.io/)
 
-**Native mobile app frameworks (aka JavaScript Native apps)**
+**本机移动应用框架 (又称 JavaScript 本机应用)**
 
-These solutions use a JS engine at runtime to inerput JS and bridget that to native api's. No browser engine or webview is used. The ui is constructed from native UI components.
+解决方案不使用浏览器引擎或 Webview, 而是利用 JS 引擎作为运行环境去编译 JavaScript, 并能调用本机的 API. UI 则使用本机的 UI 组件进行构造.
 
-<ul>
-<li><a href="https://www.nativescript.org/">NativeScript</a></li>
-<li><a href="https://facebook.github.io/react-native/">React Native</a></li>
-<li><a href="https://tabrisjs.com/">tabris.js</a> [free to $]</li>
-<li><a href="https://trigger.io/how-it-works/">trigger.io</a> [$]</li>
-</ul>
+* [NativeScript](https://www.nativescript.org/)
+* [React Native](https://facebook.github.io/react-native/)
+* [tabris.js](https://tabrisjs.com/) [free to $]
+* [trigger.io](https://trigger.io/how-it-works/) [$]
 
-**References:**
+**参考:**
 
-<ul>
-<li><a href="http://todomvc.com/">todomvc.com</a></li>
-</ul>
+* [todomvc.com](http://todomvc.com/)
 
 **App seeds/starters/boilerplates:**
 
-<ul>
-<li><a href="http://www.reactstarterkit.com/">React Starter Kit</a></li>
-<li><a href="https://github.com/emberjs/starter-kit">Ember starter-kit</a></li>
-<li><a href="https://github.com/angular-class/NG6-starter">NG6-starter</a></li>
-<li><a href="http://angularclass.com/angular2-webpack-starter/">Angular 2 Webpack Starter</a></li>
-<li><a href="https://github.com/henrikjoreteg/hjs-webpack#developing-on-multiple-devices-at-once">hjs-webpack</a></li>
-</ul>
-</article>
+* [React Starter Kit](http://www.reactstarterkit.com/)
+* [Ember starter-kit](https://github.com/emberjs/starter-kit)
+* [NG^-starter](https://github.com/angular-class/NG6-starter)
+* [Angular 2 Webpack Starter](http://angularclass.com/angular2-webpack-starter/)
+* [hjs-webpack](https://github.com/henrikjoreteg/hjs-webpack#developing-on-multiple-devices-at-once)

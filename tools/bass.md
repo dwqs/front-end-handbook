@@ -1,19 +1,15 @@
-###前端开发者的后端服务工具(又称 BASS)
+###前端开发者的后端服务工具(又称 BASS: Back-end as a service)
 
-**Data/back-end management as a service:**
+**数据/后端服务管理:**
 
-<ul>
-<li><a href="https://www.firebase.com/index.html">Firebase</a> [free to $]</li>
-<li><a href="https://www.parse.com/">Parse</a> [free to $]</li>
-<li><a href="http://www.kinvey.com/">kinvey</a> [free'ish to $]</li>
-<li><a href="https://www.backand.com/">Back&amp;</a> [free to $]</li>
-<li><a href="https://pusher.com/">Pusher</a> [free to $]</li>
-</ul>
+* [Firebase](https://www.firebase.com/index.html) [free to $]
+* [Parse](https://www.parse.com/) [free to $]
+* [kinvey](http://www.kinvey.com/) [free to $]
+* [Back&](https://www.backand.com/) [free to $]
+* [Pusher](https://pusher.com/)
 
-**User management as a service:**
+**用户服务管理:**
 
-<ul>
-<li><a href="https://www.userapp.io/">UserApp</a> [free to $]</li>
-<li><a href="http://www.hull.io/">hull</a> [$]</li>
-<li><a href="https://auth0.com">auth0</a> [$]</li>
-</ul>
+* [UserApp](https://www.userapp.io/) [free to $]
+* [hull](http://www.hull.io/) [$]
+* [auth0](https://auth0.com) [$]
