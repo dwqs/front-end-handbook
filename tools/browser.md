@@ -9,92 +9,69 @@
 
 **参考工具(查看浏览器是否支持某特性)**
 
-* [caniuse.com](http://caniuse.com/)
+* [caniusee.com](http://caniuse.com/)
 * [HTML5 Please](http://html5please.com/)
-* [HTML5 Test](https://html5test.com/)
+* [HTML5 test](https://html5test.com/)
 * [Browserscope](http://www.browserscope.org/)
 * [webbrowsercompatibility.com](http://www.webbrowsercompatibility.com)
-* [iwanttouse.com](http://www.iwanttouse.com/)
+* [iwanttouse.com/](http://www.iwanttouse.com/)
 * [Platform status](https://dev.modern.ie/platform/status/)
 * [Browser support for broken/missing images](http://codepen.io/bartveneman/full/qzCte/)
 * [Big JS-Compatibility-Table](http://compatibility.shwups-cms.ch/en/home)
-* [jscc.info](http://jscc.info)
+* [jscc.info](http://jscc.info/)
 
 **浏览器开发/调试工具:**
 
-* [Opera Dragonly](http://www.opera.com/dragonfly/)
+* [Opera Dragonfly](http://www.opera.com/dragonfly/)
 * [Safari Web Inspector](https://developer.apple.com/safari/tools/)
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
-* [Chrome Developer Tools](https://developers.google.com/web/tools/?hl=en)
-<ul>
-<li><a href="http://www.opera.com/dragonfly/">Opera Dragonfly</a></li>
-<li><a href="https://developer.apple.com/safari/tools/">Safari Web Inspector</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Tools">Firefox Developer Tools</a></li>
-<li><a href="https://developers.google.com/web/tools/?hl=en">Chrome Developer Tools (aka DevTools)</a>
-
-<ul>
-<li><a href="https://developers.google.com/web/tools/chrome-devtools/#docs">Per-Panel Documentation</a></li>
-<li><a href="https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en">Command Line API Reference</a></li>
-<li><a href="https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts">Keyboard &amp; UI Shortcuts Reference</a></li>
-<li><a href="https://developer.chrome.com/devtools/docs/settings">Settings</a></li>
-</ul></li>
-<li><a href="https://dev.modern.ie/platform/documentation/f12-devtools-guide/">IE Developer tools (aka F12 tools)</a></li>
-<li><a href="http://vorlonjs.com/">vorlon.js</a></li>
-</ul>
+* [Chrome Developer Tools(aka DevTools)](https://developers.google.com/web/tools/?hl=en)
+  * [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
+  * [Command Line API Reference](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)
+  * [Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
+  * [Settings](https://developer.chrome.com/devtools/docs/settings)
+* [IE Developer tools(aka F12)](https://dev.modern.ie/platform/documentation/f12-devtools-guide/)
+* [vorlon.js](http://vorlonjs.com/)
 
 **同步浏览工具:**
 
-<ul>
-<li><a href="http://www.browsersync.io/">Browsersync</a></li>
-</ul>
+* [Browsersync](http://www.browsersync.io/)
 
 **浏览器编码工具(判断用户的浏览器是否支持某特性):**
 
-<ul>
-<li><a href="https://modernizr.com/">Modernizr</a></li>
-<li><a href="https://featuretests.io/">ES Feature Tests</a></li>
-</ul>
+* [Modernizr](https://modernizr.com/)
+* [ES Feature Tests](https://featuretests.io/)
 
 **浏览器的各种 polyfills/shims:**
 
-<ul>
-<li><a href="https://github.com/WebComponents/webcomponentsjs">webcomponents.js</a></li>
-<li><a href="https://afarkas.github.io/webshim/demos/">webshim</a></li>
-<li><a href="https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills">HTML5 Cross Browser Polyfills</a></li>
-<li><a href="https://github.com/paulmillr/console-polyfill">console-polyfill</a></li>
-<li><a href="http://socket.io/">socket.io</a></li>
-<li><a href="https://github.com/sockjs/sockjs-client">sockjs</a></li>
-</ul>
+* [webcomponents.js](https://github.com/WebComponents/webcomponentsjs)
+* [webshim](https://afarkas.github.io/webshim/demos/)
+* [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
+* [console-polyfill](https://github.com/paulmillr/console-polyfill)
+* [socket.io](http://socket.io/)
+* [sockjs](https://github.com/sockjs/sockjs-client)
 
 **浏览器承载测试/自动化:**
 
-<ul>
-<li><a href="https://www.browserstack.com">browserstack</a> [$]</li>
-<li><a href="https://www.browserling.com/">browserling</a> [$]</li>
-<li><a href="https://saucelabs.com/">Sauce labs</a> [$]</li>
-<li><a href="http://www.seleniumhq.org/">Selenium</a></li>
-<li><a href="http://crossbrowsertesting.com/">CrossBrowserTesting.com</a> [$]</li>
-</ul>
+* [browserstack](https://www.browserstack.com) [$]
+* [browserling](https://www.browserling.com/)[$]
+* [Sauce labs](https://saucelabs.com/) [$]
+* [Selenium](http://www.seleniumhq.org/)
+* [CrossBrowserTesting.com](http://crossbrowsertesting.com/)
 
 **无壳浏览器:**
 
-<ul>
-<li><a href="http://phantomjs.org/">PhantomJS</a></li>
-<li><a href="http://slimerjs.org/">slimerjs</a></li>
-<li><a href="http://triflejs.org/">TrifleJS</a></li>
-</ul>
+* [PhantomJS](http://phantomjs.org/)
+* [slimerjd](http://slimerjs.org/)
+* [TrifleJS](http://triflejs.org/)
 
 **无壳浏览器的自动化工具:**
 
-<ul>
-<li><a href="http://nightwatchjs.org/">nightwatchjs</a></li>
-<li><a href="http://casperjs.org/">casperJS</a></li>
-<li><a href="https://github.com/segmentio/nightmare">Nightmare</a></li>
-</ul>
+* [nightwatchjs](http://nightwatchjs.org/)
+* [casperJS](http://casperjs.org/)
+* [Nightmare](https://github.com/segmentio/nightmare)
+* [gremlins.js](https://github.com/marmelab/gremlins.js)
 
 **浏览器 hacks:**
 
-<ul>
-<li><a href="http://browserhacks.com/">browserhacks.com</a></li>
-</ul>
-</article>
+* [browserhacks.com](http://browserhacks.com/)
