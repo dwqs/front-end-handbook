@@ -2,14 +2,10 @@
 
 **Coding tool:**
 
-<ul>
-<li><a href="https://github.com/cure53/DOMPurify">DOMPurify</a></li>
-<li><a href="http://jsxss.com/en/index.html">XSS</a></li>
-</ul>
+* [DOMPurity](https://github.com/cure53/DOMPurify)
+* [XSS](http://jsxss.com/en/index.html)
 
 **References:**
 
-<ul>
-<li><a href="https://html5sec.org/">HTML5 Security Cheatsheet</a></li>
-</ul>
+* [HTML5 Security Cheatsheet](https://html5sec.org/)
 

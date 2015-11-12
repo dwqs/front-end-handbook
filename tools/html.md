@@ -2,74 +2,56 @@
 
 **HTML 模板:**
 
-<ul>
-<li><a href="https://html5boilerplate.com/">HTML5 Boilerplate</a></li>
-<li><a href="https://html5boilerplate.com/mobile/">Mobile boilerplate</a></li>
-<li><a href="https://developers.google.com/web/tools/starter-kit">Web Starter Kit Boilerplate &amp; Tooling for Multi-Device Development</a></li>
-<li><a href="http://www.dcodes.net/2/docs/index.html">dCodes</a></li>
-<li><a href="http://html5bones.com/">HTML5 Bones</a></li>
-<li><a href="https://github.com/seanpowell/Email-Boilerplate">Email-Boilerplate</a></li>
-<li><a href="http://pea.rs/">Pears</a></li>
-</ul>
+* [HTML5 Boilerplate](https://html5boilerplate.com/)
+* [Mobile boilerplate](https://html5boilerplate.com/mobile/)
+* [Web Starter Kit Boilerplate & Tooling for Multi-Device Development](https://developers.google.com/web/tools/starter-kit)
+* [dCodes](http://www.dcodes.net/2/docs/index.html)
+* [HTML5 Bones](http://html5bones.com/)
+* [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
+* [Pears](http://pea.rs/)
 
 **HTML polyfill:**
 
-<ul>
-<li><a href="https://github.com/aFarkas/html5shiv">html5shiv</a></li>
-</ul>
+* [html5shiv](https://github.com/aFarkas/html5shiv)
 
 **Transpiling:**
 
-<ul>
-<li><a href="http://jade-lang.com/">jade</a></li>
-<li><a href="http://haml.info/">HAML</a></li>
-<li><a href="http://daringfireball.net/projects/markdown/">Markdown</a></li>
-</ul>
+* [jade](http://jade-lang.com/)
+* [HAML](http://haml.info/)
+* [Markdown](http://daringfireball.net/projects/markdown/)
 
 **文档参考:**
 
-<ul>
-<li><a href="http://www.webbrowsercompatibility.com/html-interfaces/desktop/">HTML Interfaces Browser Support </a></li>
-<li><a href="http://entity-lookup.leftlogic.com/">HTML Entity Lookup</a></li>
-<li><a href="http://htmlelement.info/">HTMLelement.info</a></li>
-<li><a href="https://html.spec.whatwg.org/multipage/indices.html#elements-3">Elements</a></li>
-<li><a href="https://html.spec.whatwg.org/multipage/indices.html#attributes-3">Element attributes</a></li>
-<li><a href="http://htmlarrows.com/">HTML Arrows</a></li>
-</ul>
+* [HTML Interfaces Browser Support](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
+* [HTML Entity Lookup](http://entity-lookup.leftlogic.com/)
+* [HTMLElement.info](http://htmlelement.info/)
+* [ELements](https://html.spec.whatwg.org/multipage/indices.html#elements-3)
+* [Elelemt Attributes](https://html.spec.whatwg.org/multipage/indices.html#attributes-3)
+* [HTML Arrows](http://htmlarrows.com/)
 
 **Linting/hinting:**
 
-<ul>
-<li><a href="https://github.com/mozilla/html5-lint">html5-lint</a></li>
-<li><a href="http://htmlhint.com/">HTMLHint</a></li>
-<li><a href="https://github.com/philipwalton/html-inspector">html-inspector</a></li>
-</ul>
+* [html5-lint](https://github.com/mozilla/html5-lint)
+* [HTMLHint](http://htmlhint.com/)
+* [html-inspector](https://github.com/philipwalton/html-inspector)
 
 **HTML 优化:**
 
-<ul>
-<li><a href="http://kangax.github.io/html-minifier/">HTML Minifier</a></li>
-</ul>
+* [HTML Minifier](http://kangax.github.io/html-minifier/)
 
 **HTML 在线生成工具:**
 
-<ul>
-<li><a href="http://www.tablesgenerator.com/">tablesgenerator.com</a></li>
-</ul>
+* [tablesgenerator.com](http://www.tablesgenerator.com)
 
 **编写规范:**
 
-<ul>
-<li><a href="https://github.com/necolas/idiomatic-html">Principles of writing consistent, idiomatic HTML</a></li>
-<li><a href="http://codeguide.co/#html">HTML code guide</a></li>
-</ul>
+* [Principles of writing consistent, idiomatic HTML](https://github.com/necolas/idiomatic-html)
+* [HTML code guide](http://codeguide.co/#html)
 
 **Workflow:**
 
-<ul>
-<li><a href="http://emmet.io/">Emmet</a></li>
-</ul>
+* [Emmet](http://emmet.io/)
 
 **本月 HTML 仓库在Github的趋势:**
 
-<p><a href="https://github.com/trending?l=html&amp;since=monthly">https://github.com/trending?l=html&amp;since=monthly</a></p>
+* [https://github.com/trending?l=html&amp;since=monthly](https://github.com/trending?l=html&amp;since=monthly)

@@ -2,15 +2,11 @@
 
 **任务管理/构建 工具:**
 
-<ul>
-<li><a href="http://gulpjs.com/">Gulp</a></li>
-<li><a href="http://gruntjs.com/">Grunt</a></li>
-</ul>
+* [Gulp](http://gulpjs.com/)
+* [Grunt](http://gruntjs.com/)
 
 **Tasking/build and more tools:**
 
-<ul>
-<li><a href="http://brunch.io/">Brunch</a></li>
-<li><a href="http://mimosa.io/">Mimosa</a></li>
-</ul>
+* [Brunch](http://brunch.io/)
+* [Mimosa](http://mimosa.io/)
 

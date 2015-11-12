@@ -2,24 +2,18 @@
 
 **Reporting:**
 
-<ul>
-<li><a href="http://weightof.it/category/application-frameworks">WEIGHTOF.IT</a></li>
-<li><a href="http://www.webpagetest.org/">Web Page Test</a></li>
-<li><a href="https://gtmetrix.com/">GTmetrix</a></li>
-<li><a href="https://speedcurve.com/">Speed Curve</a> [$]</li>
-<li><a href="https://developers.google.com/web/tools/profile-performance/evaluate-performance/timeline-tool?hl=en">Chrome Devtools Timeline</a></li>
-<li><a href="https://www.sitespeed.io">sitespeed.io</a></li>
-</ul>
+* [WEIGHTOF.IT](http://weightof.it/category/application-frameworks)
+* [Web Page Test](http://www.webpagetest.org/)
+* [GTmetrix](https://gtmetrix.com/)
+* [Speed Curve](https://speedcurve.com/) [$]
+* [Chrome Devtools Timeline](https://developers.google.com/web/tools/profile-performance/evaluate-performance/timeline-tool?hl=en)
+* [sitespeed.io](https://www.sitespeed.io)
 
 **JS tools:**
 
-<ul>
-<li><a href="http://jamiemason.github.io/ImageOptim-CLI/">ImageOptim-CLI</a></li>
-<li><a href="https://github.com/imagemin/imagemin">imagemin</a></li>
-</ul>
+* [ImageOptim-CLI](http://jamiemason.github.io/ImageOptim-CLI/)
+* [imagemin](https://github.com/imagemin/imagemin)
 
 **Budgeting:**
 
-<ul>
-<li><a href="http://www.performancebudget.io/">performancebudget.io</a></li>
-</ul>
+* [performancebudget.io](http://www.performancebudget.io)
