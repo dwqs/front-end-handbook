@@ -39,4 +39,3 @@
 <li><a href="https://github.com/tmpvar/jsdom">jsdom</a></li>
 <li><a href="https://github.com/Matt-Esch/virtual-dom">virtual-dom</a></li>
 </ul>
-</article>
