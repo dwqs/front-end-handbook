@@ -8,6 +8,7 @@
 * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/) [read]
 * [Meet the Command Line](http://www.pluralsight.com/courses/meet-command-line) [read][$]
 * [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial) [read][free tp $]
+* [Command Line Power User](http://commandlinepoweruser.com/) [watch]
 
 **进阶学习:**
 
