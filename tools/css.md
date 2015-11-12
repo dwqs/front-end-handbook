@@ -59,7 +59,7 @@
 
 **CSS 在线生成工具:**
 
-* [Ultimate CSS Gradient Generator](https://github.com/FrontendMasters/front-end-handbook/blob/master/tools/Ultimate%20CSS%20Gradient%20Generator)
+* [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 * [Enjoy CSS](http://enjoycss.com/)
 * [CSS matic](http://www.cssmatic.com/)
 * [patternify.com](http://patternify.com)
