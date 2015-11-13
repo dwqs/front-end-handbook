@@ -44,3 +44,4 @@
 * [WebPlatForm](http://www.webplatform.org/)
 * [前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/)
 * [Web 开发电子书下载(英)](http://www.allitebooks.com/web-development/)
+* 对前端开发者有用的文档和指南: [1](http://www.sitepoint.com/20-docs-guides-front-end-developers/) [2](http://www.sitepoint.com/20-more-docs-guides-front-end-developers/) [3](http://www.sitepoint.com/another-20-docs-guides-front-end-developers/) [4](http://www.sitepoint.com/20-docs-guides-front-end-developers-4/) [5](http://www.sitepoint.com/20-docs-guides-front-end-developers-5/) [6](http://www.sitepoint.com/20-docs-guides-front-end-developers-6/)
