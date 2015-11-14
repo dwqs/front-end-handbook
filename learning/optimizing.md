@@ -20,3 +20,4 @@
 **译者补充:**
 
 * [谷歌的性能优化指南](https://developers.google.com/web/fundamentals/performance/?hl=zh-cn)
+* [前端性能优化指南](https://github.com/kahn1990/web_performance_optimization)
