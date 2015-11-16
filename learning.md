@@ -16,3 +16,4 @@
 * [github上值得关注的前端项目](http://segmentfault.com/a/1190000002804472)
 * [前端人的俱乐部](http://f2er.club/)
 * [Github 资源收集](http://segmentfault.com/a/1190000003510001)
+* [前端资源库](http://www.awesomes.cn/)
