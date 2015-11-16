@@ -12,7 +12,7 @@
 	* [前端的面试问题](practice/front-end-interview.md)
 	* [前端工作版块](practice/front-end-jobs.md)
 	* [前端薪资](practice/salaries.md)
-	* [如何培养前端开发者?](practice/making-fd.md)
+	* [如何成为前端开发者?](practice/making-fd.md)
 * [第二部分: 前端开发学习](learning.md)
 	* [自主学习](learning/self-direct-learning.md)
 		* [Internet/Web](learning/internet.md)

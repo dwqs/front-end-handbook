@@ -1,4 +1,4 @@
-###如何培养前端开发者?
+###如何成为前端开发者?
 
 ![making-fd](https://raw.githubusercontent.com/dwqs/fedHandlebook/master/images/made-fd.png)
 
@@ -83,6 +83,8 @@ the fact that a developer has an inferior understanding of the basics or underly
 * [前端开发精通](https://mijingo.com/products/bundles/front-end-dev-mastery/) [watch][$]
 * [没有学位的前端 Web 开发者](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) [watch][$]
 
+**译者补充:**
 
-
- 
+* [成为一名优秀的Web前端开发者](http://www.92fenxiang.com/140.html)
+* [What makes a good front end engineer?](http://www.92fenxiang.com/112.html)
+* [How to become a web developer](https://medium.com/@souporserious/how-to-become-a-web-developer-ba26b0d23d81)
