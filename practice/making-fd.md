@@ -1,4 +1,4 @@
-###如何培养前端开发者?
+###如何成为前端开发者?
 
 ![making-fd](https://raw.githubusercontent.com/dwqs/fedHandlebook/master/images/made-fd.png)
 
