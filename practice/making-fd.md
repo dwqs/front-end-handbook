@@ -2,54 +2,89 @@
 
 ![making-fd](https://raw.githubusercontent.com/dwqs/fedHandlebook/master/images/made-fd.png)
 
-How exactly does one become a front-end developer? Well, it's complicated. Still today you can't go to college and expect to graduate with a degree in front-end engineering. And, I rarely hear of or meet front-end developers who suffered through what is likely a deprecated computer science degree or graphic design degree to end up writing HTML, CSS, and JavaScript professionally. In fact, most of the people working on the front-end, even today, generally seem to be self taught and not traditionally trained as a programmer. Why is this the case?
+那么, 怎么才能成为一个前端开发者呢? 这个问题很复杂, 因为直到现在, 你也不能去一所大学获得前端工程师的学位, 并且我也很少听说
+或者遇见通过编写专业地 HTML, CSS 和 JavaScript 来获得一个无用的计算机科学学位或平面设计学位. 事实上, 现在的大部分前端
+开发者都是通过自学成为开发者和没有经过传统训练的程序员. 为什么会是这种情况呢?
 
-A front-end developer is not a focused visual designer or an interaction designer. Design school is not exactly the place to hone front-end skills. A front-end developer is not exactly a traditionally trained computer science graduate either. Focusing on either doesn't prepare a person for front-end development. And, in fact, following the traditional paths for either in the higher education systems of America (i.e. College) can derail a person from potentially finding a doorway into a practice where actual experience is king. Today, if you want to be a front-end developer, you teach yourself or you take what is likely a non accredited program, course, bootcamp, or class.
+前端开发人员不是一个视觉设计师或一个交互设计师, 设计学校不是磨练前端技能的地方; 前端开发者也不是一个受过传统教育地计算机科
+学研究生, 传统教育并不专注于让一个人为前端开发做准备. 实际上, 在美国的高等教育系统中(例如大学), 紧跟传统教学方式可能会阻碍
+一个人置身实践, 而前端开发最需要实际经验. 在今天, 如果你想成为一个前端开发者, 你可以自学或者参加一些不被认可的项目, 课程,
+训练营和班级.
+ 
+前端工程师会精巧地创建用户界面依赖的骨架. 有时, 他们要足够关注交互设计, 因为他们会编写 UI 交互的底层代码. 因此, 现在的许多
+实践是前端工程师使用编程技巧达不到的, 但是, 从另一个方面来说, 和其它类型程序员转前端开发相比, 似乎有更多的设计师转前端开发者.
+当然, 由于 JavaScript 已经成熟, 更多的受过传统教育的程序员愿意将他们的知识带到前端实践中. 你可能没有意识到前端开发人员并不
+总是被认为是"真正的"程序员, 但是, 时代正待正在改变.
 
-A front-end engineer crafts the skeleton that the user interface rests upon. They must, at times, care as much about the interaction design as they do about the underlying code that creates the UI interactions. Therefore, many in practice today do not come to front-end engineering with programming skills, but, instead, from the other direction. That is, front-end development seems to be filled with more designer types turned developer than programmer types turned front-end developer. Of course, as JavaScript has grown up, so has the desire by more traditionally trained programmers to bring their knowledge to the front-end practice. If you are not aware, front-end developers have not always been considered by "real" programmers as, well, programmers. But times are a changing.
+正如所有人说的那样, 我相信作为前端开发人员, 职业生涯道路是一个未知的过程. 我能说的是, 要成为一名前端工程师, 就必须知道和在一
+个高层次的水平上使用 HTML, CSS 和 JavaScript, 也不会忽略交互设计或者传统编程所应该知道的技能. 实际上, 从我的经验来看, 最
+好的前端开发者通常会掌握交互设计和基于 Web 平台(例如浏览器, HTML, CSS, DOM 和 JavaScript)的编程. 不管出于什么原因, 还有
+很多关于前端开发的知识往往没被发现, 也就是说, 前端工程更像一些由自学的人组成的实践, 而不是一个直接对应有组织和认可的高等教育的教
+学重心的领域.
 
-With all of that said, I believe that the path to a career as a front-end developer is very much an unknown process. What I can say is that to become a front-end engineer one must know and use HTML, CSS, DOM, and JavaScript at a high level without ignoring interaction design or traditional programming know how. In fact, from my experience, the best front-end developers often have a mastery understanding of interaction design and programming, but from the context of the web platform (i.e. browsers, HTML, CSS, DOM, and JavaScript). And for whatever reason, this knowledge is often found not given. That is to say, front-end engineering still seems very much to be a practice made up of self taught people, as opposed to a field that corresponds directly to an educational focus from an organized and accredited higher learning situation.
+如果我从现在开始决定成为一名前端开发人员, 我会努力按照下面所概括的过程进行学习. 学习过程中, 我会假设你是自己最好的老师.
 
-If you were to set out today to become a front-end developer I would loosely strive to follow the process outlined below. The process assumes you are your own best teacher.
+1. 粗略了解 Web 是怎么工作的, 确保你知道域名, DNS, URL, HTTP, 网络, 浏览器, 服务器/服务托管, 数据库, JSON, API, HTML, CSS
+   DOM 和 JavaScript. 了解这些的目的是确保你知道它们如何一起工作以及每部分用于做什么. 专注于高水平的前端架构概述. 从简单的网页
+   制作开始, 并简单学习一下 [本机 Web 应用(又称 SPA)](https://blog.andyet.com/2015/01/22/native-web-apps).
 
-1. Learn, roughly, how the web works. Make sure you know the "what" and "where" of Domains, DNS, URL's, HTTP, networks, browsers, servers/hosting, databases, JSON, data API's, HTML, CSS, DOM, and JavaScript. The goal is to make sure you loosely know how it all works together and exactly what each part is doing. Focus on the high level outlines for front-end architectures. Start with simple web pages and briefly study [native web applications (aka SPA's)](https://blog.andyet.com/2015/01/22/native-web-apps).
-2. Learn HTML, CSS, Accessibility, and SEO.
-3. Learn the fundamentals of UI design patterns, interaction design, user experience design, and usability.
-4. Learn the fundamentals of programming
-5. Learn JavaScript
-6. Learn JSON and data API's
-7. Learn CLI/command line
-8. Learn the practice of software engineering (i.e. Application design/architecture, templates, Git, testing, monitoring, automating, code quality, development methodologies).
-9. Get opinionated and customize your tool box with whatever makes sense to your brain.
-10. Learn Node.js
+2. 学习 HTML, CSS, 可访问性和 SEO.
 
-Where you actually stop in the process is what will separate a front-end HTML/CSS developer from an expert level front-end application/JavaScript developer.
+3. 学习 UI 设计模式的基本原理, 交互设计, 用户体验设计和可用性
 
-A short word of advice on learning. Learn the actual underlying technologies, before learning abstractions. Don't learn jQuery, learn the DOM. Don't learn SASS, learn CSS. Don't learn HAML, learn HTML. Don't learn coffeeScript, learn JavaScript. Don't learn Handlebars, learn JavaScript ES6 templates. Don't just use Bootstrap, learn UI patterns. When getting your start, you should fear most things that conceal complexity. Abstracts in the wrong hands can give the appearance of advanced skills, while all the time hiding the fact that a developer has an inferior understanding of the basics or underlying concepts.
+4. 学习编程的基本原理
 
-The rest of this book points a reader to the resources and tools to follow my previously suggested process. It is assumed that you are not only learning, but also doing as you learn and investigate tools. Some suggest only doing. While others suggest only learning about doing. I suggest you find a mix of both that matches how your brain works and do that. But, for sure, it is a mix! So, don't just read about it, do it. Learn, do. Learn, do. Repeat indefinitely because things change fast. This is why learning the fundamentals, and not abstractions, are so important.
+5. 学习 JavaScript
 
-I should mention that lately a lot of non-accredited front-end code schools/bootcamps have emerged. These avenues of becoming a front-end developer are teacher directed in classroom (virtual and physical) courses, which follow a more traditional style of learning from an official instructor (i.e. syllabus, test, quizzes, projects, team projects, grades etc..). I have more to say about these institutions in the direct learning section of this handbook. In brief, this is the web, everything you need to learn is on the web for the taking (costing little to nothing). However, if you need someone to tell you how to take what is actually free, and hold you accountable for learning it, you might consider an organized course. Otherwise, I am not aware of any other profession that is practically free for the taking with an internet connection and a burning desire for knowledge.
+6. 学习 JSON 和 API
 
-If you want to get started immediately I'd suggest the following general overviews of the practice of front-end development:
+7. 学习 CLI/命令行
 
-<ul>
-<li><a href="https://github.com/bendc/frontend-guidelines">Frontend Guidelines</a> [read]</li>
-<li><a href="http://www.yellowshoe.com.au/standards">Being a web developer</a> [read]</li>
-<li><a href="http://isobar-idev.github.io/code-standards/">Isobar Front-end Code Standards</a> [read]</li>
-<li><a href="https://developers.google.com/web/fundamentals">Web Fundamentals</a> [read]</li>
-<li><a href="https://gist.github.com/stevekinney/03027e71aac341af14a2">Front-end Curriculum</a> [read]</li>
-<li><a href="http://freecodecamp.com/">freeCodeCamp</a> [interact]</li>
-<li><a href="https://www.youtube.com/watch?v=q4zEGkjTBFA">Planning a Front-end JS Application</a> [watch]</li>
-<li><a href="https://www.youtube.com/watch?v=Lsg84NtJbmI">So, You Want to be a Front-End Engineer</a> [watch]</li>
-<li><a href="http://www.pluralsight.com/courses/front-end-web-development-career-kickstart">Front End Web Development Career Kickstart</a> [watch][$]</li>
-<li><a href="http://www.pluralsight.com/courses/front-end-web-development-get-started">Front End Web Development: Get Started</a> [watch][$]</li>
-<li><a href="http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css">Front-End Web Development Quick Start With HTML5, CSS, and JavaScript</a> [watch][$]</li>
-<li><a href="https://frontendmasters.com/courses/web-development/">Introduction to Web Development</a> [watch][$]</li>
-<li><a href="https://www.udemy.com/foundations-of-front-end-development/">Foundations of Front-End Web Development</a> [watch][$]</li>
-<li><a href="https://frontendmasters.com/courses/lean-front-end-engineering/">Lean Front-End Engineering</a> [watch][$]</li>
-<li><a href="http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/">A Baseline for Front-End [JS] Developers: 2015</a> [read]</li>
-<li><a href="https://teamtreehouse.com/tracks/front-end-web-development">Learn Front End Web Development</a> [watch][$]</li>
-<li><a href="https://mijingo.com/products/bundles/front-end-dev-mastery/">Front-End Dev Mastery</a> [watch][$]</li>
-<li><a href="https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001">Front-End Web Developer Nanodegree</a> [watch][$]</li>
-</ul>
+8. 学习软件工程实践(如: 应用设计/架构, 模板, Git, 测试, 监控, 自动化, 代码质量, 开发方法学)
+
+9. 定制自己的工具箱
+
+10. 学习 Node.js
+
+当前端的 HTML/CSS 开发者和前端应用/JavaScript 开发者分离时, 你就快要结束这个学习过程.
+
+关于学习的一个简短建议: 在学习抽象的技术之前, 先学习实际的底层技术. 先学 DOM, 再学 JQuery; 先学 CSS, 再学 SASS; 先学 HTML, 再学 HAML;
+先学 JavaScript, 再学 coffeeScript; 先学 ES6 模板字符串, 再学 Handlebars; 先学 UI 模式, 再学 Bootstrap. 当你开始学习时, 你应该会
+害怕事情隐藏的复杂性. Abstracts in the wrong hands can give the appearance of advanced skills, while all the time hiding 
+the fact that a developer has an inferior understanding of the basics or underlying concepts.
+
+正如我之前所建议的学习过程, 这本书的剩下部分为读者指明学习资源和工具. 这也假设你不仅要学习, 而且会将你所学到的知识和工具用于实践.一些人认为只
+实践, 而其他人则建议只学习, 我建议你结合二者, 找到适合自己的方式, 但是一定要结合学习和实践! 因而不仅要阅读这本书, 而且要实践. 学习, 实践, 学习,
+实践. 重复执行是因为事情变化太快, 这就是为什么学习技术的基本原理, 而不是抽象的技术是如此重要.
+
+我在前文已经提到, 现在涌现出很多的非认证的前端编码教育/训练营, 这些成为前端开发者的途径也是由老师在课室(虚拟和实体)指导的课程, 遵循了从官方体系
+(如: 教学大纲, 测验, 小测试, 项目, 团队项目, 成绩等)学习的传统风格, 我在这本书的学习指导部分提到了更多关于这方面的东西. 简单地说, Web 上有
+一切你需要学习的东西(几乎没有成本), 然后, 如果你需要有人告诉你如何获取真正免费的东西, 并且对你的学习负责, 你可以考虑一个有组织的课程. 关于其他方面,
+我不知道其他任何职业可以通过互联网连接和对知识的强烈愿望来免费获取要学习的东西.
+
+如果你要马上开始学习, 我建议你看看下面一些关于前端开发实践的概述:
+
+* [前端指南](https://github.com/bendc/frontend-guidelines) [read]
+* [成为 Web 开发者](http://www.yellowshoe.com.au/standards) [read]
+* [Isobar 前端代码标准](http://isobar-idev.github.io/code-standards/) [read]
+* [Web 基本原理](https://developers.google.com/web/fundamentals) [read]
+* [前端课程](https://gist.github.com/stevekinney/03027e71aac341af14a2) [read]
+* [freeCodeCamp](http://freecodecamp.com/) [interact]
+* [Planing a Front-end JS Application](https://www.youtube.com/watch?v=q4zEGkjTBFA) [watch]
+* [So, You Want to be a Front-end Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI) [watch]
+* [Front End Web Development Career Kickstart](http://www.pluralsight.com/courses/front-end-web-development-career-kickstart) [watch][$]
+* [前端 Web 开发入门](http://www.pluralsight.com/courses/front-end-web-development-get-started) [watch][$]
+* [Front-End Web Development Quick Start With HTML5, CSS, and JavaScript](http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css) [watch][$]
+* [Web 开发介绍](https://frontendmasters.com/courses/web-development/) [watch][$]
+* [前端 Web 开发基本原理](https://www.udemy.com/foundations-of-front-end-development/) [watch][$]
+* [Lean Front-End Engineering](https://frontendmasters.com/courses/lean-front-end-engineering/) [watch][$]
+* [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/) [read]
+* [了解前端 Web 开发](https://teamtreehouse.com/tracks/front-end-web-development) [watch][$]
+* [前端开发精通](https://mijingo.com/products/bundles/front-end-dev-mastery/) [watch][$]
+* [没有学位的前端 Web 开发者](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) [watch][$]
+
+**译者补充:**
+
+* [成为一名优秀的Web前端开发者](http://www.92fenxiang.com/140.html)
+* [What makes a good front end engineer?](http://www.92fenxiang.com/112.html)
+* [How to become a web developer](https://medium.com/@souporserious/how-to-become-a-web-developer-ba26b0d23d81)
