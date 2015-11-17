@@ -88,4 +88,3 @@ the fact that a developer has an inferior understanding of the basics or underly
 * [成为一名优秀的Web前端开发者](http://www.92fenxiang.com/140.html)
 * [What makes a good front end engineer?](http://www.92fenxiang.com/112.html)
 * [How to become a web developer](https://medium.com/@souporserious/how-to-become-a-web-developer-ba26b0d23d81)
-
