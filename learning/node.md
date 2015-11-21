@@ -18,15 +18,16 @@
 
 **译者补充:**
 
-* [Node.js 风格指南](https://github.com/wwsun/node-style-guide) 
-* [Node.js 中文资料导航](https://github.com/youyudehexie/node123)
+* [Node.js 经典入门教程(中文版)](http://nodebeginner.org/index-zh-cn.html)
 * [从零开始学 Node.js 系列文章](http://blog.fens.me/series-nodejs/)
-* [Node.js 开发常用资源(awesome-nodejs)1](https://github.com/sindresorhus/awesome-nodejs) [开发资源2](https://github.com/lyfeyaj/awesome-resources#nodejs) [开发资源3](https://github.com/vndmtrx/awesome-nodejs)
-* [Node-books](https://github.com/pana/node-books)
 * [Node.js 入门](https://cnodejs.org/getstart)
-* Node.js 中文文档: [1](https://davidcai1993.gitbooks.io/nodejs-api-doc-in-chinese/content/)    [2](http://wiki.jikexueyuan.com/project/nodejs/) [3](http://www.nodeapp.cn/)
+* Node.js 中文文档: [1](https://davidcai1993.gitbooks.io/nodejs-api-doc-in-chinese/content/)  [2](http://wiki.jikexueyuan.com/project/nodejs/)  [3](http://www.nodeapp.cn/)
+* [Node.js 风格指南](https://github.com/wwsun/node-style-guide) 
 * Express 中文文档: [1](http://www.expressjs.com.cn/) [2](http://expressjs.jser.us/)
+* [Express 指南](http://wiki.jikexueyuan.com/project/express-guide/)
 * Koa中文文档: [1](http://koa.rednode.cn/) [2](http://koa.bootcss.com/) [3](https://github.com/guo-yu/koa-guide) [4](http://koajs.cn/)
 * [NodeCloud](http://www.nodecloud.org/)
-* [Node.js 经典入门教程(中文版)](http://nodebeginner.org/index-zh-cn.html)
 * [Node面试题](https://github.com/jimuyouyou/node-interview-questions)
+* [Node.js 中文资料导航](https://github.com/youyudehexie/node123)
+* [Node.js 开发常用资源(awesome-nodejs)1](https://github.com/sindresorhus/awesome-nodejs) [开发资源2](https://github.com/lyfeyaj/awesome-resources#nodejs) [开发资源3](https://github.com/vndmtrx/awesome-nodejs)
+* [Node-books](https://github.com/pana/node-books)

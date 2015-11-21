@@ -6,14 +6,16 @@
 
 **译者补充:**
 
-* [自学的“前端工程师”的尴尬](http://segmentfault.com/q/1010000002968547)
-* [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+* [前端开发笔记本](http://wiki.jikexueyuan.com/project/fend_note/)
+* [前端开发规范](http://wiki.jikexueyuan.com/project/web-development/)
 * [无线 Web 开发浅谈](http://am-team.github.io/amg/dev-exp-doc.html#无线web开发简介)
-* [大前端工具集](https://github.com/nieweidong/fetool)
 * [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/)
+* [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+* [大前端工具集](https://github.com/nieweidong/fetool)
 * [前端收集](https://github.com/foru17/front-end-collect)
 * [Front-end Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
-* [github上值得关注的前端项目](http://segmentfault.com/a/1190000002804472)
-* [前端人的俱乐部](http://f2er.club/)
 * [Github 资源收集](http://segmentfault.com/a/1190000003510001)
+* [github上值得关注的前端项目](http://segmentfault.com/a/1190000002804472)
 * [前端资源库](http://www.awesomes.cn/)
+* [前端人的俱乐部](http://f2er.club/)
+

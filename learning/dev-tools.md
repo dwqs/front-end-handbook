@@ -31,3 +31,4 @@
 
 * [Chrome Devtools Tips & Tricks](http://mo.github.io/2015/10/19/chrome-devtools.html)
 * [Chrome开发者工具不完全指南](http://www.92fenxiang.com/121.html)
+* [Chrome 开发工具指南](http://wiki.jikexueyuan.com/project/chrome-devtools/)
