@@ -6,8 +6,8 @@
 
 **译者补充:**
 
-* [前端开发笔记本](http://wiki.jikexueyuan.com/project/fend_note/)
-* [前端开发规范](http://wiki.jikexueyuan.com/project/web-development/)
+* [前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/content/)
+* [前端开发规范](http://zhibimo.com/read/Ashu/front-end-style-guide/)
 * [无线 Web 开发浅谈](http://am-team.github.io/amg/dev-exp-doc.html#无线web开发简介)
 * [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/)
 * [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
