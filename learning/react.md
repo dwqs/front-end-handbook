@@ -21,6 +21,7 @@
 * [React.js 生态系统概览](http://www.inkpaper.io/blog/post/2015/10/18/navigating-the-react-ecosystem.html)
 * [详解React Flux架构工作方式](http://www.csdn.net/article/2015-08-31/2825587-react-flux)
 * [Awesome React](https://github.com/enaqx/awesome-react)
+* [AlloyTeam: React 专栏](http://www.alloyteam.com/2015/11/alloyteam-event-countdown-3-days-dry-presenting-react-technology-blog/)
 
 **手册参考:**
 
