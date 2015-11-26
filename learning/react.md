@@ -14,6 +14,7 @@
 * [React 介绍及实践教程](http://www.ibm.com/developerworks/cn/web/1509_dongyue_react/index.html) 此文中的demo实现: [demo](https://github.com/dwqs/react_practice/tree/master/react-started)
 * [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/webpack.html)
 * [Learning React](https://github.com/yiminghe/learning-react)
+* [SurviveJS - Table of Contents](http://survivejs.com/webpack_react/)
 
 **进阶学习:**：
 
