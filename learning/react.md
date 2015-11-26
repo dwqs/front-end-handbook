@@ -33,6 +33,7 @@
 * [Awesome Redux](https://github.com/xgrommx/awesome-redux)
 * [Webpack 中文文档](https://wohugb.gitbooks.io/webpack/content/)
 * [webpack学习笔记](http://blog.csdn.net/zhbhun/article/details/47208885)
+* [Webpack傻瓜式指南](https://github.com/vikingmute/webpack-for-fools)
 * [React Webpack Cookbook](https://fakefish.github.io/react-webpack-cookbook/)
 * [Webpack](https://github.com/ruanyf/webpack-demos)
 * [React Toolbox](http://react-toolbox.com/)
