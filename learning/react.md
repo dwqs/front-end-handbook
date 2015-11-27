@@ -46,5 +46,3 @@
 * [React Native专题](http://www.jianshu.com/p/96febc4fec45)
 * [React Native 学习指南](https://github.com/ele828/react-native-guide)
 * [React Native 中文版](http://wiki.jikexueyuan.com/project/react-native/)
-
-

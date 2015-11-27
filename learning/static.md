@@ -5,4 +5,3 @@
 **综合学习:**
 
 * [静态网页生成器](http://www.oreilly.com/web-platform/free/static-site-generators.csp) [read]
-

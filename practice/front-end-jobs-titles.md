@@ -69,4 +69,3 @@
 译者补充:
 
 * [谈前端工程师的职业规划](http://www.alloyteam.com/2015/04/talk-about-the-front-end-engineering-career-planning/)
-
