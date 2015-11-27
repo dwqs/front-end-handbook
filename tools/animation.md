@@ -9,4 +9,3 @@
 **Polyfills/shims:**
 
 * [web-animations-js](https://github.com/web-animations/web-animations-js)
-

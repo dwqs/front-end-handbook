@@ -8,4 +8,3 @@
 **References:**
 
 * [HTML5 Security Cheatsheet](https://html5sec.org/)
-
