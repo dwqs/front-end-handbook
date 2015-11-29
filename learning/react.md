@@ -16,7 +16,7 @@
 * [Learning React](https://github.com/yiminghe/learning-react)
 * [SurviveJS - Table of Contents](http://survivejs.com/webpack_react/)
 
-**进阶学习:**：
+**进阶学习:**
 
 * [深入浅出 React 系列](http://www.infoq.com/cn/articles/react-art-of-simplity)
 * [React.js 生态系统概览](http://www.inkpaper.io/blog/post/2015/10/18/navigating-the-react-ecosystem.html)
