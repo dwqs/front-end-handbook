@@ -8,6 +8,7 @@
 
 * [前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/content/)
 * [前端开发规范](http://zhibimo.com/read/Ashu/front-end-style-guide/)
+* [适用于小团队的前端规范](https://github.com/hzlzh/Front-End-Standards)
 * [无线 Web 开发浅谈](http://am-team.github.io/amg/dev-exp-doc.html#无线web开发简介)
 * [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/)
 * [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
