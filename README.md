@@ -23,7 +23,7 @@
 
 在线阅读: [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
 
-资源下载: [pdf/epub/mobi](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details) 
+资源下载: [PDF 下载](http://pan.baidu.com/s/1c0frhIS) 
 
 Issues/Suggestions/Fixes: [Front-end Developer Handbook](https://github.com/dwqs/fedHandlebook)
 
