@@ -19,6 +19,7 @@
 * [Browser support for broken/missing images](http://codepen.io/bartveneman/full/qzCte/)
 * [Big JS-Compatibility-Table](http://compatibility.shwups-cms.ch/en/home)
 * [jscc.info](http://jscc.info/)
+* [What Web Can do today](https://whatwebcando.today/)
 
 **浏览器开发/调试工具:**
 
