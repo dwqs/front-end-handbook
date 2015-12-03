@@ -19,6 +19,12 @@
 * [react.js](https://facebook.github.io/react/index.html)
 * [RxJS](https://github.com/Reactive-Extensions/RxJS)
 * [knockout](http://knockoutjs.com/index.html)
+* [jquerymy.js](http://jquerymy.com/)
+
+**Templating to Virtual DOM:**
+
+* [JSX](https://facebook.github.io/jsx/)
+* [t7](http://t7js.com/)
 
 **译者补充:**
 
