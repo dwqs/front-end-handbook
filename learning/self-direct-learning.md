@@ -21,7 +21,7 @@
 * [codecademy.com](https://codecademy.com/)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [Tagtree](http://tagtree.tv/library)
-* [Udacity](https://www.udacity.com/courses/web-development)
+* [Udacity](https://www.udacity.com/courses/web-development) [careful, quality varies]
 
 **译者补充:**
 

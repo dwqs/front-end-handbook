@@ -3,7 +3,7 @@
 
 对于任何类型的前端开发人员, HTML, CSS, DOM, JavaScript, HTTP/URL 和浏览器利用是基本的技术要求.
 
-对于HTML, CSS, DOM, JavaScript, HTTP/URL 和浏览器开发之外的, 一个前端开发者还应该掌握下面技术列表中的一个:
+对于HTML, CSS, DOM, JavaScript, HTTP/URL 和浏览器开发之外的, 一个前端开发者还应该掌握下面技术列表中的一个或多个:
 
 * Content Management System (内容管理系统, 又称 CMS)
 * Node.js

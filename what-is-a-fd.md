@@ -25,7 +25,7 @@ Web浏览器是用于检索, 呈现和遍历万维网(WWW)信息的软件. 一�
 * [slimerjs](http://slimerjs.org/)
 * [trifleJS](http://triflejs.org/)
 
-Web视图被本地OS用来运行网页. 把Web视图当做Web浏览器中的iframe或者单个的Tab, 其嵌入于运行在设备上的本地应用程序中.
+[Webviews](http://developer.telerik.com/featured/what-is-a-webview/) 被本地 OS 用来运行网页. 把Web视图当做Web浏览器中的iframe或者单个的Tab, 其嵌入于运行在设备上的本地应用程序中(如：[iOS](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIWebView_Class/), [android](http://developer.android.com/reference/android/webkit/WebView.html), [windows](https://msdn.microsoft.com/library/windows/apps/windows.ui.xaml.controls.webview.aspx)).
 
 Web视图开发最普遍的解决方案如下:
 
