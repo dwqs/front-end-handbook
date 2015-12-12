@@ -27,6 +27,7 @@
 * [我所知道的关于浏览器和Web的20件事](http://www.20thingsilearned.com/en-US/foreword/1) [read]
 * [浏览器如何工作的: 现代浏览器背后的秘密](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) [read]
 * [快速 CSS: 浏览器是怎么组织网页的](http://dbaron.org/talks/2012-03-11-sxsw/master.xhtml) [read]
+* [浏览器是如何渲染一个网站的?](https://www.youtube.com/watch?v=SmE4OwHztCc) [watch]
 
 ![browser-work](https://raw.githubusercontent.com/dwqs/fedHandlebook/master/images/browsers-work.png)
 
