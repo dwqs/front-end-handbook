@@ -14,7 +14,7 @@
 * [Web 无障碍设计入门](http://www.pluralsight.com/courses/web-accessibility-getting-started) [watch][$]
 * [Web 无障碍设计介绍](https://www.w3.org/WAI/intro/accessibility.php) [read]
 * [兼济天下·用户无障碍体验的可访问性设计](http://www.amazon.cn/UI-UE%E7%B3%BB%E5%88%97%E4%B8%9B%E4%B9%A6-%E5%85%BC%E6%B5%8E%E5%A4%A9%E4%B8%8B%C2%B7%E7%94%A8%E6%88%B7%E6%97%A0%E9%9A%9C%E7%A2%8D%E4%BD%93%E9%AA%8C%E7%9A%84%E5%8F%AF%E8%AE%BF%E9%97%AE%E6%80%A7%E8%AE%BE%E8%AE%A1-%E9%9C%8D%E5%B0%94%E9%A1%BF/dp/B00UT03YEU/ref=sr_1_1?ie=UTF8&qid=1446346063&sr=8-1) [read][RMB]
-* [UX 基础: 无障碍设计](http://www.lynda.com/Web-Accessibility-tutorials/Foundations-UX-Accessibility/156957-2.html) [watch][$]
+* [UX 基础: 无障碍设计](http://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html) [watch][$]
 * [Web 无障碍设计介绍](https://webaccessibility.withgoogle.com/course) [watch]
 
 **标准/规范:**
