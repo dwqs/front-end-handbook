@@ -37,7 +37,7 @@
 * [JavaScript Allonge](https://leanpub.com/javascriptallongesix) [read][$]
 * [JavaScript With Promises](http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216/ref=pd_sim_sbs_14_5) [read][$]
 * [高性能 JavaScript](http://www.amazon.cn/%E9%AB%98%E6%80%A7%E8%83%BDJavaScript-%E5%B0%BC%E5%8F%A4%E6%8B%89%E6%96%AF-%E6%B3%BD%E5%8D%A1%E6%96%AF/dp/B013SGB2AO/ref=sr_1_1?ie=UTF8&qid=1446190545&sr=8-1) [read][$]
-* [JavaScript 正则表达式入门](https://github.com/FrontendMasters/front-end-handbook/blob/master/learning/JavaScript%20Regular%20Expression%20Enlightenment) [read]
+* [JavaScript 正则表达式入门](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/) [read]
 * [正则表达式使用](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) [watch][$]
 
 **参考/文档:**

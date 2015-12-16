@@ -8,6 +8,7 @@
 * [Nunjuncks](http://mozilla.github.io/nunjucks/)
 * [Transparency](http://leonidas.github.io/transparency/)
 * [doT.js](http://olado.github.io/doT/)
+* [Hogan.js](http://twitter.github.io/hogan.js/)
 
 **Templating and reactive data binding:**
 

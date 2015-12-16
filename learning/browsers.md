@@ -6,7 +6,7 @@
 
 1. [Chrome](http://www.google.com/chrome/) (引擎: [Blink](https://en.wikipedia.org/wiki/Blink_%28layout_engine%29) + [V8](https://en.wikipedia.org/wiki/V8_%28JavaScript_engine%29))
 2. [Firefox](https://www.mozilla.org/en-US/firefox/new/) (引擎: [Gecko](https://en.wikipedia.org/wiki/Gecko_%28software%29) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_%28software%29))
-3. [Internet Exploere](http://www.frontendhandbook.com/learning/Internet%20Explorer) (引擎: [Trident](https://en.wikipedia.org/wiki/Trident_%28layout_engine%29) + [Chakra](https://en.wikipedia.org/wiki/Chakra_%28JScript_engine%29))
+3. [Internet Exploere](http://windows.microsoft.com/en-us/internet-explorer/download-ie) (引擎: [Trident](https://en.wikipedia.org/wiki/Trident_%28layout_engine%29) + [Chakra](https://en.wikipedia.org/wiki/Chakra_%28JScript_engine%29))
 4. [Safari](https://www.apple.com/safari/) (引擎: [Webkit](https://en.wikipedia.org/wiki/WebKit) + [SquirrelFish](https://trac.webkit.org/wiki/SquirrelFish))
 
 ![statcounter](https://raw.githubusercontent.com/dwqs/fedHandlebook/master/images/statcounter.png)
