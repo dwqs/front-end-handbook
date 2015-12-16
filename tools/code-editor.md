@@ -36,7 +36,7 @@
 Sublime 的学习资源:
 
 * [Sublime Productivity](https://leanpub.com/sublime-productivity) [read][$]
-* [Sublime Text Power User Book](https://sublimetextbook.com/) [read][$]
+* [Sublime Text Power User Book](https://sublimetextbook.com/) [read + watch][$]
 * [Sublime Text 3 From Scratch](http://www.pluralsight.com/courses/sublime-text-3-from-scratch) [watch][$]
 * [Perfect Workflow in Sublime Text 2](https://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) [watch][requires login, but free]
 
