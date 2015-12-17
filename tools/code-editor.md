@@ -40,7 +40,7 @@ Sublime 的学习资源:
 * [Sublime Text 3 From Scratch](http://www.pluralsight.com/courses/sublime-text-3-from-scratch) [watch][$]
 * [Perfect Workflow in Sublime Text 2](https://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) [watch][requires login, but free]
 
-** 代码编辑器:**
+**代码编辑器:**
 
 * [Atom](https://atom.io/)
 * [Brackets](http://brackets.io/)
