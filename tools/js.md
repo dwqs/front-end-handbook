@@ -13,6 +13,7 @@
 * [wait](https://github.com/elving/wait)
 * [async](https://github.com/caolan/async)
 * [format.js](http://formatjs.io/)
+* [Chance](http://chancejs.com/)
 
 **编译转换 (ESX to ESX):**
 
