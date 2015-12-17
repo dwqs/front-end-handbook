@@ -40,7 +40,13 @@ Sublime 的学习资源:
 * [Sublime Text 3 From Scratch](http://www.pluralsight.com/courses/sublime-text-3-from-scratch) [watch][$]
 * [Perfect Workflow in Sublime Text 2](https://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) [watch][requires login, but free]
 
-如果你想用免费的软件替代 Sublime($70), 可以考虑 [atom](https://atom.io/) 或 [brackets](http://brackets.io/)
+** 代码编辑器:**
+
+* [Atom](https://atom.io/)
+* [Brackets](http://brackets.io/)
+* [Sublime Text](http://www.sublimetext.com/) [$]
+* [WebStorm](https://www.jetbrains.com/webstorm/whatsnew/) [$]
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 **在线合作的代码编辑器:**
 
