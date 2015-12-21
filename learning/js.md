@@ -92,3 +92,4 @@
 * [JavaScript：40+基本的 Web 开发工具](http://www.ido321.com/1543.html)
 * [JavaScript Puzzlers](http://javascript-puzzlers.herokuapp.com/)
 * [JavaScript Test](https://sitthetest.com/tests)
+* [Awesome JavaScript-CN](https://github.com/jobbole/awesome-javascript-cn)
