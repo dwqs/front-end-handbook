@@ -2,7 +2,7 @@
 
 >**HTTP**, The Hypertext Transfer Protocol, 即超文本传输协议, 是一个用于分布式, 协作和超媒体信息系统的应用协议, 是 WWW 数据通信的基础. - Wikipedia
 
->**CROS**, Cross-origin resource sharing, 即跨域资源共享, 是一种允许网页上受限制的资源(如: 字体)可以从该资源所在域之外的另一个域被请求. - Wikipedia
+>**CORS**, Cross-origin resource sharing, 即跨域资源共享, 是一种允许网页上受限制的资源(如: 字体)可以从该资源所在域之外的另一个域被请求. - Wikipedia
 
 >**WebSockets**, WebSocket 是一种协议, 提供了在一个 TCP 连接上进行全双工通信的渠道. 在 2011 年, IETF 将 WebSocket 协议标准化为 RFC 6455, 并且 W3C 正在标准化 Web IDL 的WebSocket API. - Wikipedia
 
@@ -14,7 +14,7 @@
 * [HTTP 浅谈](http://code.tutsplus.com/series/http-succinctly--net-33683) [read]
 * [高性能网络浏览: 每个 Web 开发人员都应该了解网络和网络性能](http://chimera.labs.oreilly.com/books/1230000000545/index.html) [read]
 
-**CROS**
+**CORS**
 
 * [60秒内的 HTTP 状态码变化](http://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317) [watch]
 * [HTTP 访问控制 (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) [read]
