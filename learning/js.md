@@ -47,7 +47,7 @@
 **术语表/百科全书:**
 
 * [JavaScript 术语表](https://www.codecademy.com/articles/glossary-javascript)
-* [JavaScript 百科全书](ttp://www.crockford.com/javascript/encyclopedia/)
+* [JavaScript 百科全书](http://www.crockford.com/javascript/encyclopedia/)
 
 **标准/规范:**
 
