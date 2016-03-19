@@ -25,6 +25,7 @@
 
 **译者补充:**
 
+* [号称最全前端开发学习资源~~学下来能上天了](https://github.com/AutumnsWind/Front-end-tutorial)
 * [国外有哪些高质量js技术博客?](http://segmentfault.com/q/1010000002773179)
 * [你经常访问的技术社区或者技术博客（IT类）有哪些?](http://segmentfault.com/q/1010000000094981)
 * [国外的前端开发社区有哪些](http://segmentfault.com/q/1010000002899648)
