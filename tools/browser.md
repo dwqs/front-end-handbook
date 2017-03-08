@@ -9,7 +9,7 @@
 
 **参考工具(查看浏览器是否支持某特性)**
 
-* [caniusee.com](http://caniuse.com/)
+* [caniuse.com](http://caniuse.com/)
 * [HTML5 Please](http://html5please.com/)
 * [HTML5 test](https://html5test.com/)
 * [Browserscope](http://www.browserscope.org/)
