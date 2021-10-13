@@ -30,10 +30,4 @@ Issues/Suggestions/Fixes: [Front-end Developer Handbook](https://github.com/dwqs
 
 **说明**: 该手册参考 [Front-end Developer Handbook](http://www.frontendhandbook.com/index.html) 电子书所译, 不当之处, 欢迎 [pr](https://github.com/dwqs/fedHandlebook) 或提出 [issue](https://github.com/dwqs/fedHandlebook).
 
-联系译者:
-
-* 博客: <a href='https://github.com/dwqs/blog' target='_blank'>Blog</a>
-* 微博: <a href='http://weibo.com/rebgin' target='_blank'>会飞的Pikachu</a>
-* QQ交流群: [![259280570](http://pub.idqqimg.com/wpa/images/group.png)](http://shang.qq.com/wpa/qunwpa?idkey=457dead858ccbda1b670f91229e334695619cb9f891b433301ac3dd780d1ecaa)
-
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>
